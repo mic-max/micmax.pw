@@ -1,0 +1,95 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Mike Maxwell</title>
+		<meta charset = 'utf-8'>
+		<meta name = 'viewport' content = 'width = device-width, initial-scale = 1'>
+
+		<link rel = 'icon' href = 'img/icon.png'>
+		<link rel = 'stylesheet' href = 'style.css'>
+
+		<script src = 'https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+		<script src = 'https://use.fontawesome.com/dfc90148e1.js'></script>
+		<script src = 'app.js'></script>
+	</head>
+	<body>
+		<a id = 'home'></a>
+		<nav>
+			<a href = '#home' class = 'scroll'>Home</a>
+			<a href = '#about' class = 'scroll'>About</a>
+			<a href = '#projects' class = 'scroll'>Projects</a>
+			<a href = '#contact' class = 'scroll'>Contact &amp; Resume</a>
+		</nav>
+		<header class = 'stars'>
+			<div id = 'name-container'>
+				<h1>Mike Maxwell</h1>
+				<h4>Carleton Student &amp; Software Engineer</h4>
+			</div>
+			<div id = 'down-arrow'>
+				<a href = '#about' class = 'scroll fa fa-arrow-down'></a>
+			</div>
+		</header>
+		<div id = 'about'>
+			<div id = 'img-container'>
+				<img src = 'img/profile.jpg'>
+			</div>
+			<div class = 'content'>
+				<h2>About Me</h2>
+					<p>Hi! I'm Michael Maxwell and this is my website. I am 20 years old, love programming, gaming, electronics and sports. In the fall, I will begin my 3rd year of computer science at Carleton University. This website serves to showcase my interests, abilities and recent work.</p>
+			</div>
+		</div>
+		<div class = 'stars parallax'>
+			<div id = 'projects'>
+				<h2>Projects</h2>
+				<ul id = 'projects-list'>
+					<li class = 'no-style'>
+						<img src = 'img/painter-palette.png' width = '20px'>
+						<h3>Straw Poll</h3>
+						<p>Strawpoll is a site where users have the ability to create instant, real-time polls. The site lets anyone create a poll with a question and multiple options. The creator of the poll then can copy the url and share with their friends and watch the votes roll in. The results page shows the list of options ranked by number of votes with a bar showing the percents each has received.</p>
+						<h4>Technologies Used:</h4>
+						<ul>
+							<li>PHP</li>
+							<li>HTML</li>
+							<li>CSS3</li>
+							<li>MySQL</li>
+						</ul>
+						<a target = '_blank' href = 'strawpoll'><span class = 'hvr-fade'>Check it out</span></a>
+					</li>
+					<li class = 'no-style'>
+						<img src = 'img/painter-palette.png' width = '20px'>
+						<h3>8-bit Breadboard CPU</h3>
+						<p>I wanted to learn how computers actually worked from simple logic gates all the way up to source code.</p>
+						<h4>Resources Used:</h4>
+						<ul>
+							<li>Ben Eater - Youtube &amp; Eater.net</li>
+							<li>The Elements of Computing Systems - Nisan &amp; Schocken</li>
+						</ul>
+						<a target = '_blank' href = '#'><span class = 'hvr-fade'>Check it out</span></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<footer>
+			<div>
+				<div id = 'contact'>
+					<h2>Contact /</h2>
+					<ul>
+						<li>
+							<i class = 'fa fa-envelope' aria-hidden = 'true'></i>	
+							<a href = 'mailto:mike.ian.maxwell@gmail.com'>mike.ian.maxwell@gmail.com</a>
+						</li>
+						<li>
+							<i class = 'fa fa-github-alt' aria-hidden = 'true'></i>
+							<a href = 'https://github.com/mic-max'>github.com/mic-max</a>
+						</li>
+					</ul>
+				</div>
+				<div id = 'resume'>
+					<a href = 'michael_maxwell_resume.pdf' target = '_blank'>
+						<span><i class = 'fa fa-cloud-download' aria-hidden = 'true'></i>  Resume</span>
+					</a>
+				</div>
+			</div>
+		</footer>
+	</body>
+</html>
