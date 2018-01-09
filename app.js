@@ -16,18 +16,25 @@ $(() => {
 
 let projects = [
 	{
-		"img": "painter-palette",
+		"img": "blitz",
 		"title": "Blitz SMS - Text message portal to the Internet",
 		"desc": "It is an Android App in Development for a school assignment. Blitz SMS will allow users to browse the web, without using their data plan. It uses SMS to communicate with our server, and our server will perform web scrapping in order to give the user the information that they want. We will be supporting searches, web pages, news feeds, and maps. There are other features and plans for the future development after the final project deliverable.",
 		"tech": ["Android Studion", "Nodejs Server"],
 		"link": "https://github.com/ershany/red-crow"
 	},
 	{
-		"img": "painter-palette",
+		"img": "cpu",
 		"title": "8-bit Breadboard CPU",
 		"desc": "I wanted to learn how computers actually worked from simple logic gates all the way up to source code.",
 		"tech": ["Ben Eater - Youtube &amp; Eater.net", "The Elements of Computing Systems - Nisan &amp; Schocken"],
 		"link": "#"
+	},
+	{
+		"img": "spotify",
+		"title": "Spotify Lyrics",
+		"desc": "Over a year ago Spotify removed the ability to see the lyrics playing with the current song, a feature I quite enjoyed. So I set off to make my own. It gets the current song and artist being played from the Spotify Windows process (no Linux or Mac support yet) then queries azlyrics website. It updates when you start a new song. Plans to add multi-platform, karaoke style rendering, non-console application, etc.",
+		"tech": ["Nodejs", "AZ Lyrics", "Spotify", "Powershell"],
+		"link": "https://github.com/mic-max/spotify-lyrics"
 	},
 	{
 		"img": "painter-palette",
