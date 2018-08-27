@@ -1,71 +1,145 @@
-<!doctype html>
-<html>
-	<head>
-		<title>Mike Maxwell</title>
-		<meta charset = 'utf-8'>
-		<meta name = 'viewport' content = 'width = device-width, initial-scale = 1'>
+<!DOCTYPE html>
+<html lang='en'>
 
-		<link rel = 'icon' href = 'img/icon.png'>
-		<link rel = 'stylesheet' href = 'style.css'>
+<head>
+	<script async src='https://www.googletagmanager.com/gtag/js?id=UA-55845382-5'></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() {
+		dataLayer.push(arguments);
+		}
+		gtag('js', new Date());
+		gtag('config', 'UA-55845382-5');
+	</script>
 
-		<script src = 'https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
-		<script src = 'https://use.fontawesome.com/dfc90148e1.js'></script>
-		<script src = 'app.js'></script>
-	</head>
-	<body>
-		<a id = 'home'></a>
-		<nav>
-			<a href = '#home' class = 'scroll'>Home</a>
-			<a href = '#about' class = 'scroll'>About</a>
-			<a href = '#projects' class = 'scroll'>Projects</a>
-			<a href = '#contact' class = 'scroll'>Contact &amp; Resume</a>
-		</nav>
-		<header class = 'stars'>
-			<div id = 'name-container'>
-				<h1>Mike Maxwell</h1>
-				<h4>Carleton Student &amp; Software Engineer</h4>
-			</div>
-			<div id = 'down-arrow'>
-				<a href = '#about' class = 'scroll fa fa-arrow-down'></a>
-			</div>
+	<title>Michael Maxwell</title>
+	<link rel='shortcut icon' type='image/x-icon' href='img/icon.png' />
+	<link rel='stylesheet' href='css/style.css'>
+
+	<meta charset='utf-8'>
+	<meta content='width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no' name='viewport'>
+	<meta name='description' content='Computer science student and software developer at Carleton University'>
+</head>
+
+<body>
+	<div class='content'>
+		<header>
+			<!-- <img class='mm' src='img/mm.png' alt='The letters M M' /> -->
+			<img height='100px' class='micmax' src='img/micmax.png' alt='Michael Maxwell'>
 		</header>
-		<div id = 'about'>
-			<div id = 'img-container'>
-				<img src = 'img/profile.jpg'>
-			</div>
-			<div class = 'content'>
-				<h2>About Me</h2>
-					<p>Hi! I'm Michael Maxwell and this is my website. I am 20 years old, love programming, gaming, electronics and sports. In the fall, I will begin my 3rd year of computer science at Carleton University. This website serves to showcase my interests, abilities and recent work.</p>
-			</div>
+		<!-- <p>A little bio about myself, can be hidden</p> -->
+		<!-- melee, mw2 -->
+		<div>
+			<ul class='current'>
+				<li class='carleton'>
+					<span class='time'>Current</span>
+					<a class='title'>Computer Science Student @
+						<span data-colour='#87fec1' class='h'>Carleton University</span>
+						<!-- try to change background of :before with an attr -->
+					</a>
+				</li>
+				<li>
+					<span class='time'>Current</span>
+					<a class='title'>Software Designer @
+						<span class='h'>Martello Technologies</span>
+					</a>
+				</li>
+				<li>
+					<span class='time'>Current</span>
+					<a href='https://github.com/mic-max/8-bit-cpu' class='title'>Builder and Programmer of a homemade
+						<span class='h'>8-Bit CPU</span>
+					</a>
+				</li>
+				<li>
+					<span class='time'>Current</span>
+					<a href='http://cuhacking.com' class='title'>Website Developer for
+						<span class='h'>CU Hacking 2019</span>
+					</a>
+				</li>
+				<li id='js-jackie' class='jackie'>
+					<span class='time'>Current</span>
+					<a class='title'>Friend of
+						<span class='h'>Jackie</span>
+					</a>
+				</li>
+			</ul>
+			<img id='image-sm' src='img/sorryimissed.gif' height='190px' />
 		</div>
-		<div class = 'stars parallax'>
-			<div id = 'projects'>
-				<h2>Projects</h2>
-				<ul id = 'projects-list'>
-				</ul>
-			</div>
+		<h4>Past</h4>
+		<div>
+			<ul class='past'>
+				<li class=''>
+					<span class='time'>2018</span>
+					<a href='https://github.com/mic-max/spotify-lyrics' class='title'>Maker of
+						<span class='h'>Spotify Lyrics</span>
+					</a>
+				</li>
+				<li>
+					<span class='time'>2017</span>
+					<a href='https://github.com/Ershany/Red-Crow' class='title'>Android app for Internet via Text Message
+						<span class='h'>Blitz SMS</span>
+					</a>
+				</li>
+				<li>
+					<span class='time'>2015</span>
+					<a href='https://github.com/mic-max/minesweeper' class='title'>Recreated my 10<sup>th</sup> grade tech project
+						<span class='h'>Minesweeper</span>
+					</a>
+				</li>
+				<li>
+					<span class='time'>2015</span>
+					<a href='https://github.com/mic-max/snake' class='title'>Cloned a reptile in turing
+						<span class='h'>Snake</span>
+					</a>
+				</li>
+				<li>
+					<span class='time'>2015</span>
+					<a href='https://github.com/mic-max/strawpoll' class='title'>Crude php poll web application
+						<span class='h'>Strawpoll</span>
+					</a>
+				</li>
+				<li>
+					<span class='time'>2014</span>
+					<a href='https://github.com/mic-max/battleship' class='title'>Created first complete program
+						<span class='h'>Battleship</span>
+					</a>
+				</li>
+				<li class='website'>
+					<span class='time'>1997</span>
+					<a href='https://github.com/mic-max/mic-max.github.io' class='title'>Never dunn, you're looking at it
+						<span class='h'>micmax.pw</span>
+					</a>
+				</li>
+			</ul>
+			<img id='image-lg' src='img/shapes.gif' height='400px' />
 		</div>
 		<footer>
-			<div>
-				<div id = 'contact'>
-					<h2>Contact /</h2>
-					<ul>
-						<li>
-							<i class = 'fa fa-envelope' aria-hidden = 'true'></i>	
-							<a href = 'mailto:mike.ian.maxwell@gmail.com'>mike.ian.maxwell@gmail.com</a>
-						</li>
-						<li>
-							<i class = 'fa fa-github-alt' aria-hidden = 'true'></i>
-							<a href = 'https://github.com/mic-max'>github.com/mic-max</a>
-						</li>
-					</ul>
-				</div>
-				<div id = 'resume'>
-					<a href = 'michael_maxwell_cv.pdf' target = '_blank'>
-						<span><i class = 'fa fa-cloud-download' aria-hidden = 'true'></i>  Resume</span>
-					</a>
-				</div>
-			</div>
+			<a href='mailto:yo@micmax.pw'>Email</a>
+			<a href='https://twitter.com/micmax_'>Twitter</a>
+			<a href='https://www.instagram.com/micmax_/'>Instagram</a>
+			<a href='https://www.linkedin.com/in/micmax//'>Linkedin</a>
+			<!-- <a href='#'>Blog</a> -->
+			<a href='files/michael_maxwell_cv.pdf'>Resume</a>
+			<img class='lil-guy' src='img/lil-guy.gif' />
 		</footer>
-	</body>
+	</div>
+	<script>
+		const image_sm = document.getElementById('image-sm')
+		const image_lg = document.getElementById('image-lg')
+		document.getElementById('js-jackie').addEventListener('mouseover', () => {
+			console.log('hey')
+			setImage(image_sm, 'img/jackie-sm.jpg')
+			setImage(image_lg, 'img/jackie-lg.jpg')
+		})
+		document.getElementById('js-jackie').addEventListener('mouseleave', () => {
+			setImage(image_sm, 'img/sorryimissed.gif')
+			setImage(image_lg, 'img/shapes.gif')
+		})
+
+		function setImage(imageDom, newSrc) {
+			imageDom.src = newSrc
+		}
+	</script>
+</body>
+
 </html>
