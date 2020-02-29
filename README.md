@@ -1,11 +1,8 @@
 <p align="center">
   <a href="https://micmax.pw">
-    <img alt="micmax" src="https://raw.githubusercontent.com/mic-max/micmax.pw/src/master/img/micmax.png" width="260"/>
+    <img alt="micmax" src="https://raw.githubusercontent.com/mic-max/micmax.pw/src/master/img/micmax.png" width="260px"/>
   </a>
 </p>
-<h1 align="center">
-  Michael Maxwell
-</h1>
 
 # Development
 1. Install Node.js
