@@ -16,7 +16,7 @@ const ROLES = [
   },
   {
     class: 'old',
-    role: 'Software Designer Summer Student',
+    role: 'Software Designer',
     location: 'Martello Technologies',
   },
 ]
