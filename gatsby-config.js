@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'John Pham',
+    title: 'Michael Maxwell',
     description:
-      "John Pham's personal website. John Pham is a software engineer with experience in full stack web development.",
-    author: '@johnphamous',
+      "Michael Maxwell's personal website. Michael Maxwell is a software engineer with experience in full stack web development.",
+    author: '@mic-max',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -19,8 +19,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'John Pham',
-        short_name: 'John Pham',
+        name: 'Michael Maxwell',
+        short_name: 'Michael Maxwell',
         start_url: '/',
         background_color: '#a08ff4',
         theme_color: '#a08ff4',
