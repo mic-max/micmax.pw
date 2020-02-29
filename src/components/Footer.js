@@ -22,7 +22,7 @@ const Mode = styled(FooterItem)`
 `
 
 const Size = styled(FooterItem)`
-  background: rgb(139, 72, 0);
+  background: rgb(240, 147, 43);
   margin-left: auto;
   cursor: pointer;
   @media (max-width: 600px) {
@@ -69,14 +69,14 @@ export default class Footer extends React.Component {
     return (
       <FooterWrapper>
         {isEditing ? (
-          <Mode background="rgb(153, 0, 0)">INSERT</Mode>
+          <Mode background="rgb(142, 68, 173)">INSERT</Mode>
         ) : (
-          <Mode background="rgb(49, 6, 110)">NORMAL</Mode>
+          <Mode background="rgb(192, 57, 43)">NORMAL</Mode>
         )}
-        <FooterItem>pham.html</FooterItem>
+        <FooterItem>micmax.html</FooterItem>
 
         <Size onClick={this.toggleEdit}>Toggle INSERT Mode</Size>
-        <Date>Last Updated: 12/06/2019</Date>
+        <Date>Last Updated: 2020/02/29</Date>
       </FooterWrapper>
     )
   }

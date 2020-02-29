@@ -117,7 +117,7 @@ export default class ProjectSection extends Component {
                 >
                   {project.name}
                 </ProjectName>
-                <Comment>// {project.description}</Comment>
+                <Comment>{project.description}</Comment>
               </ListItem>
             ))}
           </ListContainer>

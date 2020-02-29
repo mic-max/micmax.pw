@@ -29,7 +29,7 @@ const NotFoundPage = props => (
   <Layout>
     <SEO title="404: Not found" />
     <h1>
-      <Array>pham</Array>
+      <Array>micmax</Array>
       <Parenthesis>[</Parenthesis>
       <Argument>'{props.location.pathname}'</Argument>
       <Parenthesis>]</Parenthesis> is out of bounds
@@ -38,7 +38,7 @@ const NotFoundPage = props => (
     <p>
       Looks like we've run into a bug. Let's open an{' '}
       <Link
-        href="https://github.com/JohnPhamous/pham.codes/issues/new"
+        href="https://github.com/mic-max/micmax.pw/issues/new"
         target="_blank"
         rel="noreferrer"
       >

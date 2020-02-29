@@ -65,33 +65,38 @@ const Location = styled.span`
 const NavItems = [
   {
     name: 'email',
-    url: 'mailto:john@pham.codes',
+    url: 'mailto:yo@micmax.pw',
     classNames: '',
   },
   {
     name: 'github',
-    url: 'https://github.com/JohnPhamous',
+    url: 'https://github.com/mic-max',
     classNames: 'hide-on-mobile',
   },
   {
     name: 'linkedin',
-    url: 'https://www.linkedin.com/in/johnphamous/',
+    url: 'https://www.linkedin.com/in/micmax/',
     classNames: '',
   },
   {
-    name: 'design',
-    url: 'https://www.flickr.com/photos/pnt101/albums/72157633512030429/page2',
-    classNames: 'hide-on-mobile',
-  },
-  {
     name: 'twitter',
-    url: 'https://twitter.com/JohnPhamous',
+    url: 'https://twitter.com/micmax_',
     classNames: 'hide-on-mobile',
   },
   {
-    name: 'thePhamous',
-    path: '/hall-of-fame',
+    name: 'instagram',
+    url: 'https://instagram.com/micmax_',
     classNames: 'hide-on-mobile',
+  },
+  {
+    name: 'blog',
+    url: '/blog',
+    classNames: '',
+  },
+  {
+    name: 'resume',
+    url: '/resume.pdf',
+    classNames: '',
   },
 ]
 
@@ -137,7 +142,7 @@ const Header = () => {
       <Title to="/">
         <h1>
           <Typist>
-            JohnPham<Location>@Washington</Location>
+            MichaelMaxwell<Location>@Seattle</Location>
           </Typist>
         </h1>
       </Title>

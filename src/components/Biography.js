@@ -34,23 +34,23 @@ const Biography = () => (
 
     <List>
       <li>
-        <span role="img" aria-label="China Flag">
-          🇨🇳
+        <span role="img" aria-label="Books">
+          📚
         </span>{' '}
-        Learning Mandarin, 你好!
+        Reading a book per month this year!
       </li>
       <li>
         <span role="img" aria-label="Laptop">
           💻
         </span>{' '}
-        Freelance web dev'ing, need some help? Let's{' '}
-        <a href="mailto:john@pham.codes">chat</a>.
+        Interested in working on a project together? Let's{' '}
+        <a href="mailto:yo@micmax.pw">chat</a>.
       </li>
       <li>
         <span role="img" aria-label="Running">
-          🧗‍♂️
+          🏃‍♂️
         </span>{' '}
-        Finding the next wall to climb.
+        Going on runs most evenings / nights.
       </li>
     </List>
   </Container>
