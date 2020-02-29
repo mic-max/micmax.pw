@@ -38,7 +38,7 @@ const NotFoundPage = props => (
     <p>
       Looks like we've run into a bug. Let's open an{' '}
       <Link
-        href="https://github.com/mic-max/micmax.pw/issues/new"
+        href="https://github.com/mic-max/micmax.pw/issues/new?labels=bug"
         target="_blank"
         rel="noreferrer"
       >
