@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://micmax.pw">
-    <img alt="micmax" src="https://raw.githubusercontent.com/mic-max/micmax.pw/src/master/img/micmax.png" />
+    <img alt="micmax" src="https://raw.githubusercontent.com/mic-max/micmax.pw/v2/src/img/micmax.png" />
   </a>
 </p>
 <h1 align="center">
