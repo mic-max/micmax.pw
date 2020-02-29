@@ -1,7 +1,15 @@
-# micmax.pw
+<p align="center">
+  <a href="https://micmax.pw">
+    <img alt="micmax" src="https://raw.githubusercontent.com/mic-max/micmax.pw/v2/src/img/micmax.png" width="400px"/>
+  </a>
+</p>
 
-My personal website, never dunn.
+# Development
+1. Install Node.js
+2. Run `npm install`
+3. Run `npm start` for a live site
 
-If you're viewing on mobile, suck it... for now
-
-GIFs are from [Julian Glander](http://julianglander.com/)
+# Deployment
+1. Install Node.js
+2. Run `npm install`
+3. Run `npm run build` to create a `public` folder
