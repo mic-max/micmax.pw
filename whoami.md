@@ -1,8 +1,9 @@
 ---
 layout: default
+title: whoami
 ---
 
-<img src='/assets/img/micmax.png' alt='Michael Maxwell' height='140px'>
+<img src='/assets/img/micmax.png' alt='Michael Maxwell' height='140'>
 
 Hello, my name is `Michael Ian Maxwell` and I was born on the `0x70`<sup>th</sup> [Groundhog Day](https://en.wikipedia.org/wiki/Groundhog_Day#Punxsutawney_beginnings) 🌻  
 I am from `Ottawa, Canada` 🍁 and currently live in `Seattle, USA` 🌧  
