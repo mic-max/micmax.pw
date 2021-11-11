@@ -1,18 +1,16 @@
 title: Michael's Motive
 tagline: Living is easy with eyes closed
-description: Welcome to my little corner of the Internet.
+description: Welcome to my little corner of the Internet. Living is easy with eyes closed. They made me do it.
 url: https://micmax.pw
+permalink: /:year/:month/:day/:title
 
 author:
   name: Michael Maxwell
   email: yo@micmax.pw
 
-locale: en_CA
-permalink: /:year/:month/:day/:title
-rss: RSS Feed
-theme: minima
-show_excerpts: true
 google_analytics: UA-55845382-5
+show_excerpts: true
+theme: minima
 
 plugins:
   - jekyll-feed
@@ -26,9 +24,9 @@ minima:
     keybase: micmax
     linkedin: micmax
     twitter: micmax_
+    youtube: ThePR0Lemur
     # discord: Lemur#6826
     # slippi: MM#421
     # steam: 138017094
     # twitch: ProLemur
-    # youtube: ThePR0Lemur
     # venmo: micmax
