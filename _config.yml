@@ -1,0 +1,25 @@
+title: Michael's Motive
+author: Michael Maxwell
+url: https://micmax.pw
+permalink: /:year/:month/:day/:title
+description: Welcome to my little corner of the Internet. Living is easy with eyes closed.
+rss: RSS Feed
+theme: minima
+show_excerpts: true
+google_analytics: UA-55845382-5
+
+email: yo@micmax.pw
+github_username:  mic-max
+instagram_username: micmax_
+linkedin_username: micmax
+twitter_username: micmax_
+# discord_username: Lemur#6826
+# keybase_username: micmax
+# slippi_username: MM#421
+# steam_friend_code: 138017094
+# twitch_username: ProLemur
+# youtube_username: ThePR0Lemur
+# venmo_username: micmax
+
+plugins:
+  - jekyll-feed
