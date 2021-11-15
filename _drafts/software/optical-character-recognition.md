@@ -1,0 +1,1 @@
+Do some simple OCR
