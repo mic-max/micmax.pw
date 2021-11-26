@@ -1,3 +1,8 @@
+---
+layout: post
+title: Cube World Model Renderer
+---
+
 Render cube world model files in a website
 
 - Could get the cubeworld wiki to use this to render models instead of using images.

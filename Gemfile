@@ -4,6 +4,7 @@ gem "jekyll", "~> 4.2"
 gem "minima", github: "jekyll/minima"
 gem "webrick", "~> 1.7"
 gem "jekyll-remote-theme"
+gem "jemoji"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.15"

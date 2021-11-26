@@ -5,19 +5,19 @@ title: whoami
 
 <img src='/assets/img/micmax.png' alt='Michael Maxwell' height='140'>
 
-Hello, my name is `Michael Ian Maxwell` and I was born on the `0x70`<sup>th</sup> [Groundhog Day](https://en.wikipedia.org/wiki/Groundhog_Day#Punxsutawney_beginnings) 🌻  
-I am from `Ottawa, Canada` 🍁 and currently live in `Seattle, USA` 🌧  
+Hello, my name is `Michael Ian Maxwell` and I was born on the `0x70`<sup>th</sup> [Groundhog Day](https://en.wikipedia.org/wiki/Groundhog_Day#Punxsutawney_beginnings) :sunflower:  
+I am from `Ottawa, Canada` :maple_leaf: and currently live in `Seattle, USA` 🌧  
 If you're curious what I look like; a little something like this 👨‍🦰 and vertically blessed
 
-I enjoy <abbr title='running, hockey, soccer, lacrosse, video games'>🏃‍♂️🏒⚽🥍🎮</abbr>, coding projects 💻, hackathons 😴, and technology ⚙ in general  
-I have a cat named `Harvey`, [click here](/assets/img/harvey.jpg) to see how handsome he is 🐱‍👤
+I enjoy :runner:🏒:soccer::ski:🥍:video_game:, coding projects :computer:, hackathons :sleeping:, and technology ⚙ in general  
+I have a cat named `Harvey`, [click here](/assets/img/harvey.jpg) to see how handsome he is :heart_eyes_cat:
 
 I work for `Microsoft` as a `Software Engineer` 👨‍💻  
 Here is my [resume](https://github.com/mic-max/resume/raw/master/Michael_Maxwell_CV.pdf), if you want to work together `shoot me` an [email](mailto:yo@micmax.pw)
 
 ## Projects
 
-I like building coding projects in my spare time, most live on my [Github](https://github.com/mic-max) 🐙🐱
+I like building coding projects in my spare time, most live on my [Github](https://github.com/mic-max) :octopus: :cat:
 
 - [Blitz SMS](https://github.com/Ershany/Red-Crow) - Android app that gets information from the Internet communicating only via SMS
 - [ModIcon](https://garage-06.visualstudio.com/modicon) - Browser extension that lets users customize the favicon of a webpage

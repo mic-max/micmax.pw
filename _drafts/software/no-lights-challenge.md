@@ -1,3 +1,8 @@
+---
+layout: post
+title: No Lights Challenge
+---
+
 Coding challenge
 
 Recreate a website to the best of your ability from only your text editor in a limited amount of time.

@@ -15,6 +15,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jemoji
 
 remote_theme: jekyll/minima
 
@@ -28,6 +29,7 @@ minima:
     linkedin: micmax
     twitter: micmax_
     youtube: ThePR0Lemur
+    flickr: micmax_
     # discord: Lemur#6826
     # slippi: MM#421
     # steam: 138017094

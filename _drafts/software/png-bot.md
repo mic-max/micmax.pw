@@ -1,3 +1,8 @@
+---
+layout: post
+title: PNG Optimizing Bot
+---
+
 Make a pngbot - similar to dependabot
 - It will watch repositories for any PNG images being added
 - It will attempt to compress them and create a PR if any were able to be compressed further

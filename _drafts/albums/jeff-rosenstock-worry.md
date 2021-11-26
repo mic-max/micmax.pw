@@ -1,4 +1,9 @@
-# Jeff Rosenstock - WORRY. (2016)
+---
+layout: post
+title: Jeff Rosenstock - WORRY. (2016)
+excerpt: is good album to listen to
+tags: [ ]
+---
 
 [Spotify Link](https://open.spotify.com/album/6xEHAFmcwc1kP5L2IRttIl?si=rf7GWRV1RZ2qWPhRrM9fTw)
 

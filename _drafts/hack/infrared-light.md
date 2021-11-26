@@ -1,3 +1,8 @@
+---
+layout: post
+title: IR Light
+---
+
 How to use infrared light with arduino or something
 
 - Decode some of my existing remotes and maybe make a universal one?

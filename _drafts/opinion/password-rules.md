@@ -1,3 +1,8 @@
+---
+layout: post
+title: Passwords Rule!
+---
+
 What rules popular websites use for passwords and how secure they make your account.
 
 ex:

@@ -1,3 +1,8 @@
+---
+layout: post
+title: Melee Vision
+---
+
 Get game state info from melee video/stream
 
 https://github.com/mic-max/melee-vision

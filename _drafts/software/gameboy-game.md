@@ -1,3 +1,8 @@
+---
+layout: post
+title: Gameboy Game Development
+---
+
 Create a game for the gameboy advance or regular.
 Beat man from American Dad?!!!!! https://youtu.be/MiPj-fOJutc
 
