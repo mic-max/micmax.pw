@@ -8,7 +8,7 @@ This like most software nowadays will never be done.
 1. Install [Ruby](https://rubyinstaller.org/downloads/)
 1. `gem install bundler jekyll`
 1. `bundle install`
-1. `bundle exec jekyll serve [--drafts]`
+1. `bundle exec jekyll serve --incremental --drafts --strict_front_matter --trace`
 
 ## Resources
 
@@ -41,3 +41,6 @@ This like most software nowadays will never be done.
 - Comment section: https://lobste.rs/
 - Spelling and grammar checks, GitHub action?
 - Dead link checks, GitHub action?
+- Uglify / minify generated HTML, CSS, JS
+- Bing Verify my site - https://wilsonmar.github.io/jekyll-site-development/
+- Google Verify my site - https://wilsonmar.github.io/jekyll-site-development/
