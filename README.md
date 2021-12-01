@@ -2,6 +2,7 @@
 
 Welcome to the source code to my website.  
 This like most software nowadays will never be done.
+To see what I'm working on or planning to at any time check [here](https://github.com/mic-max/micmax.pw/projects/1)
 
 ## Build
 
@@ -21,7 +22,7 @@ This like most software nowadays will never be done.
 - [Gesko Theme](https://jekyll-themes.com/gesko/)
 - [Dark Poole Theme](https://jekyll-themes.com/dark-poole/)
 
-## To Do
+## Website To Do List
 
 - SEO Optimization
 - Media Images - When sharing a post on Twitter for example the image and description shown are correct
@@ -44,3 +45,4 @@ This like most software nowadays will never be done.
 - Uglify / minify generated HTML, CSS, JS
 - Bing Verify my site - https://wilsonmar.github.io/jekyll-site-development/
 - Google Verify my site - https://wilsonmar.github.io/jekyll-site-development/
+- Add friend directory, so in a post I can just say their name like everyone knows them and hovering or clicking the link will give a quick introduction to them

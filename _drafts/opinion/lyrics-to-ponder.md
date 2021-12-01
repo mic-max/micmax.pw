@@ -98,5 +98,3 @@ Than inside your mind
 
 I am not who I want to be
 I probably will not ever be
-
-We're still the kids we used to be
