@@ -17,3 +17,16 @@ Some topics I'll write about in the future include
 - Software
 
 Thanks for stopping by my little corner of the Internet. I hope you enjoy your stay :smiley:
+
+---
+
+The obligatory non-English version
+
+```c
+#include <stdio.h>
+
+int main() {
+    printf("Hello World!\n");
+    return 0;
+}
+```
