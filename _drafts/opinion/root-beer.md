@@ -1,4 +1,9 @@
-ranking root beer
+---
+layout: post
+title: Ranking Root Beer
+---
+
+We all know root beer is the best pop around, but which is the best root beer? That is the question I set out to answer once and for all.
 - barqs
 - mug
 - teddy's

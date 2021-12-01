@@ -1,3 +1,8 @@
+---
+layout: post
+title: Strawpoll
+---
+
 My first project on my GitHub
 
 - PHP, MySQL, small amount of JavaScript

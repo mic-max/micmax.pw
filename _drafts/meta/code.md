@@ -1,3 +1,8 @@
+---
+layout: post
+title: Source Code on a Blog
+---
+
 How to store source code on a blog.
 - <region> markers in the code
 - Just copy paste it and if it gets out of sync so be it.

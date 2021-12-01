@@ -1,3 +1,8 @@
+---
+layout: post
+title: Laser Morse Code
+---
+
 connect laser to computer (arduino) and send morse code messages to someone far away.
 have a receiver on the other end decoding it with a camera or light sensor. start with just 1 way communication, then 2 way if I'm not a lazy/cheap/pathetic blob
 
