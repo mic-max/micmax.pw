@@ -21,8 +21,12 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jemoji
+  - jekyll-figure
 
 remote_theme: jekyll/minima
+
+jekyll-figure:
+  paragraphs: false
 
 minima:
   skin: dark

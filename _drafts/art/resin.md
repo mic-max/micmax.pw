@@ -3,4 +3,4 @@ layout: post
 title: Resin Artwork
 ---
 
-grinder and ash tray
+grinder, ash tray, chess piece

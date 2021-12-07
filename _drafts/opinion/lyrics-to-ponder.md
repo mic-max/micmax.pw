@@ -98,3 +98,6 @@ Than inside your mind
 
 I am not who I want to be
 I probably will not ever be
+
+If you feel good about yourself
+I feel good about you

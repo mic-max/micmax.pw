@@ -3,54 +3,114 @@ layout: post
 title: Drawings
 ---
 
-Here are some things I've drawn. I enjoy drawing and find it pretty relaxing to just focus on it and ignore the outside world until I am finished. These are mostly all with markers I picked up in early 2021 from Blick in Capitol Hill. Now I can remove my Instagram Highlight called `create` and preserve this monumental artwork for millennia 😌.
+Here are some things I've drawn in reverse chronological order, some random doodles, and a list of nostalgia motivated subjects I want to draw in the future. I enjoy drawing and find it to be a good way to relax my mind. I will continue to update this post as I draw to preserve this monumental artwork for millennia :relieved:
 
-- Rude Dog
-This is from a cartoon that my sisters and I would watch at my grandparents house called Rude Dog & The Dweebs.
-Here's a link to [episode 1](https://youtu.be/aj3XSmBcOHs), at least give the introduction a watch 😅
+<!--
+### One Colour at a Time
 
-- Axolotls
-One of my favourite animals. I did a speech on Mexican Axolotls in grade 5 after seeing them in a magazine and being fascinated about how looked. I also got a pencil case from a store in Bellevue which is what I used to store my markers, and this is a recreation of that design.
+{{ 'December 10, 2021' | date: '%b %e, %Y' }}
+{% figure caption:"" %}
+![One Colour at a Time](/assets/img/drawings/one-colour-at-a-time.jpg)
+{% endfigure %}
+-->
 
-- Zoboomafoo
-Another classic television show from my childhood. This actually became my online identity starting as my Xbox Live Gamertag and becoming most of my usernames until I started using the alias `micmax`. Lemurs are my favourite animal and I drew this on a weekend trip to Pacific City, Oregon with friends. I'm not too happy how this one turned out, I feel I used to much solid colour.
-My friends Yushi and Tristan took this photo of me while I was drawing it.
+### Strawberry Fields Forever
 
-- Donnie Darko
-One of my favourite movies, I remember first watching this with my older sister Heather and being so confused as a kid. I've rewatched it a bunch of times since, went as Donnie for Hallowe'en in 2017, and during my last rewatch session at 2AM was inspired to draw this.
+{{ 'August 23, 2021' | date: '%b %e, %Y' }}
+{% figure caption:"One of my [favourite songs](https://youtu.be/HtUH9z_Oey8). I wanted to personify the berries. I really love this one." %}
+![Strawberry Fields Forever](/assets/img/drawings/strawberry-fields-forever.jpg)
+{% endfigure %}
 
-- Mom Jeans
-My friend Eric suggested that I draw this after seeing something I drew that reminded him of it I believe. Mom Jeans is a band and I guess they like skateboarding dogs, I mean who doesn't!
+### Arthur's Knee | Incomplete
 
-- Strawberry Fields
-One of my favourite songs, I wanted to personify the berries. I really love this one.
+{{ 'August 17, 2021' | date: '%b %e, %Y' }}
+{% figure caption:"From the scene in [this Arthur episode](https://arthur.fandom.com/wiki/Arthur%27s_Knee) permanently etched into my memory. Painted this thanks to my friend @Danielle for providing all the supplies and driving us to [Gas Works Park](http://www.seattle.gov/parks/find/parks/gas-works-park)!" %}
+![Arthur's Knee at the Dump](/assets/img/drawings/arthur.jpg)
+{% endfigure %}
 
-- Caterpilar Sleeping Bag
-My friends and I camped out the night before hiking Mt. St. Helens. I did not have a sleeping bag. I bought a sleeping bag. It had a place to put a paper. I drew on that paper.
+### Caterpilar Chrysalis
 
-- Arthur at the Dump
-From a classic scene in the TV show Arthur etched into my memory where he goes to the dump to get a new bike wheel. Painted this thanks to my friend Danielle for driving me and providing all the supplies on the hill at Gas Works park. It actually isn't done yet but here it is!
+{{ 'July 16, 2021' | date: '%b %e, %Y' }}
+{% figure caption:"My friends and I camped out the night before hiking [Mount St. Helens](https://en.wikipedia.org/wiki/Mount_St._Helens). I did not have a sleeping bag. I bought a sleeping bag. It had a place to put a paper. I drew on that paper. `PS: I am an idiot and got a terrible sunburn.`" %}
+![Caterpillar Sleeping Bag](/assets/img/drawings/caterpillar.jpg)
+{% endfigure %}
 
-- Uncatagorized / Doodles
-  - Lil Peep Mirror
-  - Ferris Bueler
-  - Colours
-  - Beast
-  - Doodles
+### Mom Jeans.
+
+{{ 'July 13, 2021' | date: '%b %e, %Y' }}
+{% figure caption:"My friend @Eric suggested that I draw this after seeing something I drew that reminded him of it I believe... [Mom Jeans.](https://momjeansca.bandcamp.com/album/puppy-love) is a band that loves skateboarding puppies!" %}
+![Mom Jeans](/assets/img/drawings/mom-jeans.jpg)
+{% endfigure %}
+
+### Donnie Darko
+
+{{ 'June 2, 2021' | date: '%b %e, %Y' }}
+{% figure caption:"One of my [favourite movies](https://www.imdb.com/title/tt0246578/), I remember first watching this with my older sister @Heather and being so confused. I've since rewatched it a bunch of times, went as Donnie for `Hallowe'en 2017`, and during my last rewatch session at `2AM` was inspired to draw this." %}
+![Donnie Darko](/assets/img/drawings/donnie-darko.jpg)
+{% endfigure %}
+
+### Zoboomafoo
+
+{{ 'April 14, 2021' | date: '%b %e, %Y' }}
+{% figure caption:"Another classic show from my childhood. This actually became the basis for my online identity `Lemur` (mispronounced by many) starting in `~2011`. [Sifaka Lemurs](https://en.wikipedia.org/wiki/Sifaka) are my favourite animal and I drew this on a weekend trip to [Pacific City, Oregon](https://en.wikipedia.org/wiki/Pacific_City,_Oregon). I'm not too happy how this one turned out, too much solid colour." %}
+![Zoboomafoo in Zobooland](/assets/img/drawings/zoboomafoo.jpg)
+{% endfigure %}
+
+### Axolotls
+
+{{ 'April 1, 2021' | date: '%b %e, %Y' }}
+{% figure caption:"One of my favourite animals. I did a speech on the [Mexican Axolotl](https://en.wikipedia.org/wiki/Axolotl) in Grade 5 after seeing them in a magazine and being fascinated with them. I got a pencil case from a store in `Bellevue` which is how I  store my markers, this is a recreation of that design. `PS: Minecraft is stealing my thoughts...`" %}
+![Axolotls](/assets/img/drawings/axolotls.jpg)
+{% endfigure %}
+
+### Rude Dog
+
+{{ 'March 5, 2021' | date: '%b %e, %Y' }}
+{% figure caption:"This is from a cartoon that my sisters and I would watch at my grandparents house called `Rude Dog & The Dweebs`.
+Here's a link to [Episode 1](https://youtu.be/aj3XSmBcOHs), at least give the theme song a watch :sweat_smile:" %}
+![Rude Dog](/assets/img/drawings/rude-dog.jpg)
+{% endfigure %}
+
+## Uncatagorized / Doodles
+
+{% figure caption:"With each word being a palindrome in `Lil Peep`, it mirrors pretty well horizontally." %}
+![Lil Peep Mirror](/assets/img/drawings/lil-peep-mirror.jpg)
+{% endfigure %}
+
+{% figure caption:"Don't miss it." %}
+![Ferris Bueler Quote](/assets/img/drawings/ferris-bueler.jpg)
+{% endfigure %}
+
+{% figure caption:"How can I both make some decor for my apartment and drain these markers... two-bird style." %}
+![Colours](/assets/img/drawings/colours.jpg)
+{% endfigure %}
+
+{% figure caption:"Started with some question mark horns, questioned some authority, and then went aggressively outside the lines." %}
+![Questionable Beast](/assets/img/drawings/beast.jpg)
+{% endfigure %}
+
+{% figure caption:"First paper doodles including: Jack O' Lantern skin-walker, Medieval Michael in `Lil Uzi vs The World` style, les dents :fr:, [Beetman](https://americandad.fandom.com/wiki/Beetman), rainbow [Kiriboh](https://yugioh.fandom.com/wiki/Kuriboh) damaged by :droplet:" %}
+![Doodles](/assets/img/drawings/doodles.jpg)
+{% endfigure %}
+
+{% figure caption:"The humble whiteboard beginnings. Pineapple. Daisy. Blueberries. Kiwis. Grapefruit - guess my stance on them. Hey! Don't look at my checklist :boom:" %}
+![Whiteboard Organisms](/assets/img/drawings/whiteboard-organisms.jpg)
+{% endfigure %}
 
 ## Not Illustrated Yet
 
 - Malcolm in the Middle
 - Scooby Doo
-- Lil Peep
-- TBHAC by Arctic Monkeys
-- Smash Bros. Melee
-- Tyrannical Games
-- Little Lulu
+- Tranquility Base Hotel & Casino
+- Super Smash Bros. Melee
 - Rats and Snakes Family Portrait
+- George Shrinks
+- Stuart Little
+- Toy Soldiers
+- Pyjama Sam
+- Little Lulu
 - Kraken
 - Dithering Pixels 3D Geometry
 - Rock-em Sock-em Robots
-- George Shrinks
-- Stuart Little
-- Pyjama Sam
+- Ludwig
+- Tyrannical Games
