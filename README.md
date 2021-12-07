@@ -1,5 +1,7 @@
 # Michael's Motive
 
+[![Jekyll Site CI](https://github.com/mic-max/micmax.pw/actions/workflows/jekyll.yml/badge.svg)](https://github.com/mic-max/micmax.pw/actions/workflows/jekyll.yml)
+
 Welcome to the source code to my website.  
 This like most software nowadays will never be done.
 To see what I'm working on or planning to at any time check [here](https://github.com/mic-max/micmax.pw/projects/1)
@@ -18,6 +20,7 @@ To see what I'm working on or planning to at any time check [here](https://githu
 - [Google Analytics](https://analytics.google.com/analytics/web/#/report/defaultid/a55845382w176857085p175657346/)
 - [Jekyll Front Matter](https://jekyllrb.com/docs/configuration/front-matter-defaults/)
 - [Liquid Documentation](https://shopify.github.io/liquid/)
+- [GitHub Pages Supported Jekyll Plugins](https://pages.github.com/versions/)
 - Themes
   - [Minima Theme](https://github.com/jekyll/minima)
   - [Chirpy Theme](https://jekyll-themes.com/chirpy/)
@@ -41,7 +44,7 @@ To see what I'm working on or planning to at any time check [here](https://githu
 - Include Instagram feed
 - Include Spotify currently listening to
 - Twitch, Discord social links
-- Comment section: https://lobste.rs/
+- Comment section: <https://lobste.rs/>
 - Spelling and grammar checks, GitHub action?
 - Dead link checks, GitHub action?
 - Uglify / minify generated HTML, CSS, JS
@@ -57,3 +60,4 @@ To see what I'm working on or planning to at any time check [here](https://githu
 - Markdownlint, warning for non ASCII characters (e.g. emojis)
 - Last modified date: <https://dev-yakuza.posstree.com/en/jekyll/jekyll-last-modified-at/>
 - Image viewer - only load low-res image until clicked on? Make a liquid function to make inserting image with caption easy and the same all over the site.
+- Don't copy some files to `_site` folder: `CNAME`, `README.md` for example
