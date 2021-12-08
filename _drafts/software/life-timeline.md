@@ -15,3 +15,4 @@ exercise
 sport teams
 steam activity - games
 spotify music activity
+vacations - flights

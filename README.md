@@ -18,7 +18,7 @@ To see what I'm working on or planning to at any time check [here](https://githu
 - [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 - [Google Lighthouse](https://developers.google.com/web/tools/lighthouse)
 - [Google Analytics](https://analytics.google.com/analytics/web/#/report/defaultid/a55845382w176857085p175657346/)
-- [Jekyll Front Matter](https://jekyllrb.com/docs/configuration/front-matter-defaults/)
+- [Jekyll Front Matter](https://jekyllrb.com/docs/front-matter/)
 - [Liquid Documentation](https://shopify.github.io/liquid/)
 - [GitHub Pages Supported Jekyll Plugins](https://pages.github.com/versions/)
 - Themes
@@ -35,7 +35,8 @@ To see what I'm working on or planning to at any time check [here](https://githu
 - Pagination - I currently think I should not use this
 - Use alt text and descriptions for images - Making the site more accessible to users and web scrapers
 - Compress and resize images to reduce load time and bandwidth
-- Allow both light and dark mode depending on user preference
+- Allow both light and dark mode depending on user preference (button at top like: <https://boonepeter.github.io>)
+- Add some introduction/welcome text to `index.md`
 - Show time to read at top of blog post
 - Show tags and categories at top of blog post
 - Jekyll water.css theme [Github Issue](https://github.com/kognise/water.css/issues/18)
@@ -60,4 +61,9 @@ To see what I'm working on or planning to at any time check [here](https://githu
 - Markdownlint, warning for non ASCII characters (e.g. emojis)
 - Last modified date: <https://dev-yakuza.posstree.com/en/jekyll/jekyll-last-modified-at/>
 - Image viewer - only load low-res image until clicked on? Make a liquid function to make inserting image with caption easy and the same all over the site.
-- Don't copy some files to `_site` folder: `CNAME`, `README.md` for example
+- Archive view of posts by month and year like <https://boonepeter.github.io/archive/>
+- Setup an email newsletter: <buttondown.email> ? for those who don't want to use an RSS reader
+- Use `jekyll-mentions`
+- Include the date in the URL of a post?
+- Static site host since GitHub pages can't use unsupported jekyll plugins. Use action to build and push to a `docs` branch / use netlify or similar
+- Add share to other sites buttons? <https://superdevresources.com/share-buttons-jekyll/>

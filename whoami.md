@@ -3,14 +3,14 @@ layout: default
 title: whoami
 ---
 
-<img src='/assets/img/micmax.png' alt='Michael Maxwell' height='140'>
+<img src='/assets/micmax.png' alt='Michael Maxwell' height='140'>
 
 Hello, my name is `Michael Ian Maxwell` and I was born on the `0x70`<sup>th</sup> [Groundhog Day](https://en.wikipedia.org/wiki/Groundhog_Day#Punxsutawney_beginnings) :sunflower:  
 I am from `Ottawa, Canada` :maple_leaf: and currently live in `Seattle, USA` :umbrella:  
 If you're curious what I look like; a little something like this 👨‍🦰 and vertically blessed
 
 I enjoy :runner::bike:🏒:soccer::ski:🥍:video_game:, coding projects :computer:, hackathons :sleeping:, and technology ⚙ in general  
-I have a cat named `Harvey`, [click here](/assets/img/harvey.jpg) to see how handsome he is :heart_eyes_cat:
+I have a cat named `Harvey`, [click here](/assets/harvey.jpg) to see how handsome he is :heart_eyes_cat:
 
 I work for `Microsoft` as a `Software Engineer` :sunglasses:  
 Here is my [resume](https://github.com/mic-max/resume/raw/master/Michael_Maxwell_CV.pdf), if you want to work together `shoot me` an [email](mailto:yo@micmax.pw)
