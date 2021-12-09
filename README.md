@@ -1,16 +1,14 @@
 # Michael's Motive
 
-[![Jekyll Site CI](https://github.com/mic-max/micmax.pw/actions/workflows/jekyll.yml/badge.svg)](https://github.com/mic-max/micmax.pw/actions/workflows/jekyll.yml)
-
 Welcome to the source code to my website.  
-This like most software nowadays will never be done.
+This like most software nowadays will never be done.  
 To see what I'm working on or planning to at any time check [here](https://github.com/mic-max/micmax.pw/projects/1)
 
 ## Build
 
 1. Install [Ruby](https://rubyinstaller.org/downloads/)
 1. `gem install bundler jekyll`
-1. `bundle install`
+1. `bundle`
 1. `bundle exec jekyll serve --incremental --drafts --strict_front_matter --trace`
 
 ## Resources
@@ -29,7 +27,7 @@ To see what I'm working on or planning to at any time check [here](https://githu
 
 ## Website To Do List
 
-- SEO Optimization
+- SEO Optimization <https://jsinibardy.com/optimize-seo-jekyll>
 - Media Images - When sharing a post on Twitter for example the image and description shown are correct, currently it shows a sparkle emoji when I share just the micmax.pw link in messenger for example
 - Table of Contents for longer posts
 - Pagination - I currently think I should not use this
@@ -66,4 +64,6 @@ To see what I'm working on or planning to at any time check [here](https://githu
 - Use `jekyll-mentions`
 - Include the date in the URL of a post?
 - Static site host since GitHub pages can't use unsupported jekyll plugins. Use action to build and push to a `docs` branch / use netlify or similar
-- Add share to other sites buttons? <https://superdevresources.com/share-buttons-jekyll/>
+- Add share to other sites buttons? <https://superdevresources.com/share-buttons-jekyll/> <https://blog.webjeda.com/share-buttons-jekyll/>
+- Image Gallery <https://dmnfarrell.github.io/software/jekyll-galleries>
+- At bottom of a post, have buttons to go to the next and previous posts.

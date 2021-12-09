@@ -8,6 +8,8 @@ locale: en_CA
 highlighter: rouge
 timezone: America/Los_Angeles
 
+logo: /assets/micmax.pw
+
 author:
   name: Michael Maxwell
   email: yo@micmax.pw
@@ -21,6 +23,8 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jemoji
+  - jekyll-sitemap
+  - jekyll-seo-tag
 
 remote_theme: jekyll/minima
 

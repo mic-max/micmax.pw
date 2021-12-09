@@ -5,10 +5,11 @@ gem "minima", github: "jekyll/minima"
 gem "webrick", "~> 1.7"
 gem "jekyll-remote-theme"
 gem "jemoji"
-gem "jekyll-figure"
 
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.15"
+  gem "jekyll-feed"
+  gem 'jekyll-sitemap'
+  gem 'jekyll-seo-tag'
 end
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
