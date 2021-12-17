@@ -13,7 +13,7 @@ I enjoy :runner::bike:🏒:soccer::ski:🥍:video_game:, coding projects :comput
 I have a cat named `Harvey`, [click here](/assets/harvey.jpg) to see how handsome he is :heart_eyes_cat:
 
 I work for `Microsoft` as a `Software Engineer` :sunglasses:  
-Here is my [resume](https://github.com/mic-max/resume/raw/master/Michael_Maxwell_CV.pdf), if you want to work together `shoot me` an [email](mailto:yo@micmax.pw)
+Here is my [resume](/assets/files/Michael_Maxwell_CV.pdf), if you want to work together `shoot me` an [email](mailto:yo@micmax.pw)
 
 ## Projects
 

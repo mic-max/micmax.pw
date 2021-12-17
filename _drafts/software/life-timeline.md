@@ -8,7 +8,7 @@ school - grades
 jobs
 tweets
 facebook posts
-github usage
+github usage (by project)
 youtube videos
 weight
 exercise

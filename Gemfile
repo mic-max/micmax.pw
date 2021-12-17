@@ -5,7 +5,10 @@ gem "minima", github: "jekyll/minima"
 gem "webrick", "~> 1.7"
 gem "jekyll-remote-theme"
 gem "jemoji"
+gem 'jekyll-mentions'
 
+# Loaded before Jekyll starts
+# Ref: https://jekyllrb.com/docs/plugins/installation/
 group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
