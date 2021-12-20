@@ -70,3 +70,4 @@ To see what I'm working on or planning to at any time check [here](https://githu
 - At bottom of a post, have buttons to go to the next and previous posts.
 - Add resume link to top bar
 - Post headers are clickable and take you to an anchor of the heading and change the URL
+- Use single quote in all files rather than double. ex: `Gemfile`
