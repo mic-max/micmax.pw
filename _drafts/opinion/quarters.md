@@ -5,7 +5,7 @@ title: Quarters
 
 I don't live in the most glamorous apartment. A joy that comes with that are the coin-operated washing machine and dryer. After getting tired of bringing a $10 bill (it's all about the Hamilton's baby!) to QFC in exchange for a roll of quarters every 3 weeks or so I finally made a trip to my bank. Long story short, I returned with 400 quarters.
 
-I mentioned this at a Hallowe'en party because I am an excellent conversationalist and my friend @Troy said that if I find a quarter older than `1965` that it is worth around `$5` instead of `$0.25`. That's like 20 times what I paid for it, the song Money by Pink Floyd immediately started to play in my head and in that moment I felt like Mr. Krabs, dollar signs in my eyes. I was about to become a very rich man :money_with_wings:
+I mentioned this at a Hallowe'en party because I am an excellent conversationalist and my friend @troyvancamp said that if I find a quarter older than `1965` that it is worth around `$5` instead of `$0.25`. That's like 20 times what I paid for it, the song Money by Pink Floyd immediately started to play in my head and in that moment I felt like Mr. Krabs, dollar signs in my eyes. I was about to become a very rich man :money_with_wings:
 
 I get home that night at around 2:30 AM but the adrenaline scourging through my veins, or does adrenaline scourge through some other organ... anyways I started to strip down those quarters from their pathetic paper armor and sort them by year, praying to see the Godly 1964 embossment.
 

@@ -21,6 +21,8 @@ TODO Make a simple AF call history file exporter.
 1. Read data from `content://call_log/calls`
 1. Write a file: JSON, XML, YAML, CSV, etc.
 
+[YAML Deserialized to Python Custom Class](https://pynative.com/python-yaml/)
+
 ### Manually?
 
 I am not sure how this program works exactly. It requires the `READ_CALL_LOG` permission from your Android device. I found somewhere the mention of a `.clbu` file, which stands for `Android Call Log Backup`. There must be some files on the filesystem that contain the call information, but I cannot find anything.
@@ -94,8 +96,7 @@ message CallHistory {
 
 Now to generate the accompanying classes in both `Kotlin` and `Python`
 
-`protoc -I=$SRC_DIR --java_out=$DST_DIR --kotlin_out=$DST_DIR $SRC_DIR/call.proto`
-`protoc -I=$SRC_DIR --python_out=$DST_DIR $SRC_DIR/call.proto`
+`TODO`
 
 ```xml
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
@@ -108,6 +109,74 @@ Now to generate the accompanying classes in both `Kotlin` and `Python`
   </callLog>
 <callLogBackUp>
 ```
+
+<https://android.stackexchange.com/questions/16915/where-on-the-file-system-are-sms-messages-stored>
+in sqlite db - need to root phone to view them.
+`adb find / -name "*mmssms*"`
+
+- `./dbdata/databases/com.android.providers.telephony/mmssms.db`
+- `./data/data/com.jb.gosms/databases/gommssms.db`
+
+<https://android.stackexchange.com/questions/189110/sms-mms-database-location>
+<https://newbedev.com/can-adb-be-used-to-recover-sms-messages-while-in-permanent-safe-mode>
+<https://android.stackexchange.com/questions/61153/how-can-i-get-the-last-dialled-number-and-call-duration-via-adb>
+<https://www.fonepaw.com/tips/where-are-text-messages-stored-android.html>
+[Root Guide - Pixel 4a (5G)](https://forum.xda-developers.com/t/guide-root-pixel-4a-5g-android-12.4221133/)
+
+<https://www.androidpolice.com/2018/06/11/google-duo-lets-export-call-history-easily-no-adb-hacks-necessary/>
+
+```text
+Timestamp, Activity type, Local user, Remote user, Direction, Length
+2020-05-02 12:56:21, Call, +16137954472, +12069146982, Incoming, 0
+2019-07-24 18:12:59, Call, +16137954472, +1-44533ea9-1df1-4763-8ba5-95016b8546b4, Incoming, 0
+```
+
+[sqlit3 on Android](https://forum.xda-developers.com/t/no-sqlite3-commands-available-via-adb.1817246/)
+a comment has a github link <https://github.com/stockrt/sqlite3-android> with a script to make the binary. someone also just uploaded a zip file with one they made, had, or found.
+
+1. install ndk-build
+1. install make on wsl linux
+1. make clean
+1. make
+   - which failed because I installed ndk-build for windows not wsl linux
+1. run ndk-build from the `sqlite3-android-master` directory
+1. `adb push .\libs\armeabi-v7a\sqlite3-static /data/local/`
+
+```text
+> adb push .\libs\armeabi-v7a\sqlite3-static /data/local/
+adb: error: failed to copy '.\libs\armeabi-v7a\sqlite3-static' to '/data/local/sqlite3-static': remote couldn't create file: Permission denied
+.\libs\armeabi-v7a\sqlite3-static: 1 file pushed, 0 skipped. 62.0 MB/s (587476 bytes in 0.009s)
+
+> adb root
+adbd cannot run as root in production builds
+
+> adb shell su
+/system/bin/sh: su: inaccessible or not found
+```
+
+1. `adb shell chmod 755 /data/local/sqlite3`
+1. `adb shell /data/local/sqlite3 -help`
+
+```text
+> adb push sqlite3 /data/local/tmp/sqlite3
+C:\Users\PROLE\Downloads\sqlite3\sqlite3: 1 file pushed, 0 skipped. 60.7 MB/s (33428 bytes in 0.001s)
+> adb shell chmod 775 /data/local/tmp/sqlite3
+> adb shell /data/local/tmp/sqlite3
+"/data/local/tmp/sqlite3": error: Android 5.0 and later only support position-independent executables (-fPIE).
+```
+
+<https://sqlite.org/download.html>
+<https://sqlitebrowser.org/>
+
+<https://developer.android.com/studio/command-line/adb>
+Could not be opened in Microsoft Edge, so I had to use Firefox. Then it started working randomly after a few error codes...
+
+At this point of trying to not use a third party call history exporter I was considering taking a video of me scrolling through my call history on my phone. Or maybe I could take a bunch of screenshots and vertically stitch them together. Then analyze it using optical character recognition and template matching for any icons...
+This project was originally done in a few hours and now I am blowing it up, but like in a fun way, ya know... :bomb:
+Maybe if I spend more time developing this little program than I spent on the phone it would hurt less.
+
+Beginning of script could open phone history page, make screenshots, scroll perfect amount down until reach the bottom? then use `adb pull` to copy images from device to dev machine.
+[ADB Screenshot](https://developer.android.com/studio/command-line/adb#screencap)
 
 ## Parsing XML
 
@@ -135,8 +204,9 @@ Which is also rendered at the top left corner of the final image along with the 
 Calls are rendered as being at least 6 minutes so they get rendered as a sliver in the image rather than not appearing at all.
 
 I actually hadn't realized at the time of writing this program, but `PIL` is no longer being developed for.
-<https://note.nkmk.me/en/python-pillow-basic/>
+<https://note.nkmk.me/en/python-pillow-basic/> In fact, I tried to `pip install PIL` and turns out it's not even hosted on `PyPi` anymore... [Python Imaging Library Project Page](https://pypi.org/project/PIL/)
 Maybe I should change the dependency to `Pillow`... *joke about using Pillow to smother PIL*
+Thankfully, no code change was needed to migrate between the two libraries 🙏
 
 I tried to make it look pretty, so I got a pallett from this website I've used a bunch for little projects: [Flat UI Colours](https://flatuicolors.com/)
 
@@ -155,7 +225,7 @@ Note: You will need to have [Python](https://www.python.org/downloads/) installe
 ## Final Product
 
 ![Call Visualization](/assets/img/calls.png)
-*Completed one night for the girl I was evidently talking to a **lott** at the time.*
+*Completed one night for the girl I was evidently talking to **a lott** at the time.*
 
 View the full source code file on my GitHub [here](https://github.com/mic-max/calls)
 

@@ -63,6 +63,7 @@ To see what I'm working on or planning to at any time check [here](https://githu
 - Archive view of posts by month and year like <https://boonepeter.github.io/archive/>
 - Setup an email newsletter: <buttondown.email> ? for those who don't want to use an RSS reader
 - Include the date in the URL of a post?
+- Look over [Popular Jekyll Plugins](https://github.com/jekyll?q=&type=all&language=&sort=stargazers)
 - Static site host since GitHub pages can't use unsupported jekyll plugins. Use action to build and push to a `docs` branch / use netlify or similar
 - Add share to other sites buttons? <https://superdevresources.com/share-buttons-jekyll/> <https://blog.webjeda.com/share-buttons-jekyll/>
 - Image Gallery <https://dmnfarrell.github.io/software/jekyll-galleries>

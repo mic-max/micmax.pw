@@ -9,26 +9,45 @@ I wanted to cover most of the beers I'd buy, that were widely available so I mad
 
 The beers were sipped knowing full well which brand was in your cup. Therefore, some slight preconceived beer-bias may have been in effect or affect... I guess I'll have to do another one :wink:
 
-![Beer Tier List](/assets/img/beer.png)
+<https://seeklogo.com/search?q=stella+artois&sort=popular&filter=brand>
 
-[Tweet](https://twitter.com/micmax_/status/1409180105826463745)
+| Tier | Beers         |           |                   |                 |               |
+|------|---------------|-----------|-------------------|-----------------|---------------|
+| <span style = "color:#FF7676">S</span> | Stella Artois ![](/assets/img/stella.jpg) |           |                   |                 |               |
+| <span style = "color:#FFC48A">A</span> | Sapporo ![](/assets/img/sapporo.jpeg)      | Corona    | Miller High Life  | Dos Equis       |               |
+| <span style = "color:#FFE38D">B</span> | Coors Light   | Bud Light | Pabst Blue Ribbon | Modelo Especial | Coors Banquet |
+| <span style = "color:#FFFF8F">C</span> | Fosters       | Budweiser | Busch             | Heineken        |               |
+| <span style = "color:#C3FF89">D</span> | Guinness      |           |                   |                 |               |
 
-<details>
-  <summary>Tier List Legend</summary>
+_`S` is the best, each category in order of how much I like. i.e. `Sapporo > Dos Equis`_
 
-  *`S` is the best, each category in order of how much I like. i.e. `Sapporo > Dos Equis`*
-
-  | Tier | Beers         |           |                   |                 |                |
-  |------|---------------|-----------|-------------------|-----------------|----------------|
-  | S    | Stella Artois |           |                   |                 |                |
-  | A    | Sapporo       | Corona    | Miller High Life  | Dos Equis       |                |
-  | B    | Coor's Light  | Bud Light | Pabst Blue Ribbon | Modelo Especial | Coor's Banquet |
-  | C    | Fosters       | Budweiser | Busch             | Heineken        |                |
-  | D    | Guinness      |           |                   |                 |                |
-</details>
+_To view this table as an image [click here](/assets/img/beer.png)_
 
 Some valuable information was learnt from this tasting session.
 
 - I will not buy myself anything `C` or below, Heineken was suprisingly low.
 - Miller High Life is the Champagne of Beers
 - Budweiser is the King of Beers
+
+Beers I would have loved to include and might make a follow up with in the future
+
+- Miller and Miller Lite
+- Michelob Ultra
+- Sam Adams - Regular and Oktoberfest
+- Bud Light Lime
+- Rainier
+- Natural Light
+- Blue Moon
+- Shock Top
+- Red Stripe
+- Old Milwaukee - Regular and Ice
+- Rolling Rock
+- Keystone
+- Modelo Negra
+- Goose Island
+- Pelican Brewing Company
+- Beck's
+- DAB
+- Tecate
+
+PS: I didn't copy [Ludwig](https://youtu.be/l0gWQtLjwKc) he just so happened to do the same thing a week earlier

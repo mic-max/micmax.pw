@@ -2,8 +2,7 @@ title: Michael's Motive
 tagline: Living is easy with eyes closed
 description: Welcome to my little corner of the Internet. Living is easy with eyes closed. They made me do it.
 url: https://micmax.pw
-permalink: /:year/:month/:day/:title
-# permalink: /:category/:title
+permalink: /:title
 locale: en_CA
 highlighter: rouge
 timezone: America/Los_Angeles
@@ -13,26 +12,37 @@ logo: /assets/micmax.pw
 author:
   name: Michael Maxwell
   email: yo@micmax.pw
+  twitter: micmax_
+
+webmaster_verification:
+  google: 1234
 
 google_analytics: UA-55845382-5
 bing-verify: 
 show_excerpts: true
-theme: minima
-
-plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
-  - jemoji
-  - jekyll-sitemap
-  - jekyll-seo-tag
-
-remote_theme: jekyll/minima
 
 exclude:
   - CNAME
   - README.md
-  - assets/temp
 
+# Plugins Installed
+
+plugins:
+  - jekyll-feed
+  - jekyll-mentions
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
+
+# Plugin Configuration
+
+jekyll-mentions: https://twitter.com
+
+# Theme Configuration
+
+theme: minima
+remote_theme: jekyll/minima
 minima:
   skin: dark
 
