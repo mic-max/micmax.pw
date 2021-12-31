@@ -54,6 +54,7 @@ TODO Table of contents
 - https://dot-matrix-game.blogspot.com/2014/02/retail-displayexternal-game-boy-displays.html
 - https://en.wikipedia.org/wiki/Vectrex
 - https://hackaday.com/2019/05/06/thumbs-up-for-this-crt-handheld-gaming-console/
+- https://www.copetti.org/writings/consoles/wii/
 
 ## Documenting the process
 
@@ -106,6 +107,10 @@ My buddy Jon will be taking care of setting up all the software stuff since he e
 Could not connect to my router, I think Wii only uses 802.11 g and I could not enable that WiFi mode on my locked down Xfinity router. I will try to fix this later, or get a new router to try out the WiFi capabilities of this unit. I also noticed that the Wii would not boot without the WiFi card installed. There might be a workaround to get it to boot...
 
 [Installing Nintendont for Melee on a Wii](https://smashboards.com/threads/full-guide-to-installing-nintendont-for-melee-on-a-wii-from-4-3-to-hacked.485886/)
+<https://sites.google.com/site/completesg/backup-launchers/gamecube/nintendont>
+<https://wii.guide/priiloader>
+<https://wiibrew.org/wiki/BootMii_Configuration_Editor>
+<https://wiibrew.org/wiki/Homebrew_setup>
 
 Custom background [MMMod](https://send0r.de/MMMod.html)
 

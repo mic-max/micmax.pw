@@ -72,5 +72,4 @@ To see what I'm working on or planning at any time check [here](https://github.c
 - Post headers are clickable and take you to an anchor of the heading and change the URL
 - Theme:
   - Jekyll water.css theme [Github Issue](https://github.com/kognise/water.css/issues/18)
-  - Remove little top grey bar from website <https://github.com/jekyll/minima/issues/541>
   - Allow both light and dark mode depending on user preference (button at top like: <https://boonepeter.github.io>)
