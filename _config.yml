@@ -21,6 +21,9 @@ google_analytics: UA-55845382-5
 bing-verify: 
 show_excerpts: true
 
+header_pages:
+  - whoami.md
+
 exclude:
   - CNAME
   - README.md
