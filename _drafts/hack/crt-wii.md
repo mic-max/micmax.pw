@@ -8,29 +8,41 @@ Converting my CRT that has a built-in VCR into the most portable melee setup you
 [Toshiba MV13P3 Service Manual](https://www.manualslib.com/manual/700891/Toshiba-Mv13p3.html)
 [Wii Teardown Guide byiFixit](https://www.ifixit.com/Teardown/Nintendo+Wii+Teardown/812)
 [Wii 3D Model](https://www.turbosquid.com/3d-models/nintendo-wii-3d-model/392588)
+[Wii Revision Identification Guide](https://bitbuilt.net/forums/index.php?threads/revision-identification-guide.863/)
+[Wii Motherboard Anatomy 101](https://bitbuilt.net/forums/index.php?threads/wii-motherboard-anatomy-101.1286/)
+[Wii Trimming Guide](https://bitbuilt.net/forums/index.php?threads/the-definitive-wii-trimming-guide.198/)
 
 TODO Table of contents
 
 - Rip out the VCR
 - Put a Wii in its place
-- Gamecube controller ports MUST be accessible from front of TV
-- Gamecube memory card slots SHOULD be easily accessible
-- Built-in Wii sensor bar, or just two IR LEDs if that is easier
+  - Make sure Wii board does not touch CRT components. Print a shroud?
+  - Gamecube controller ports MUST be accessible from front of TV
+- Gamecube memory card slots, USB ports, SD card slot SHOULD be easily accessible
+  - The Wii hack allows for using a virtual memory installed on an SD Card so I could possibly reuse that space for something else, maybe even desoldering the memory card slots from the Wii.
+- Built-in Wii sensor bar, or just two IR LEDs if that is easier. Above or below screen?
 - Make sure all buttons work
-- Make a controller, the TV didn't come with one...
-- Ensure adequate cooling for the Wii
-- Should be able to easily play all games. Either load them all via some hack or have the disk reader easily accessible
+- Make a controller, the TV didn't come with one... `Toshiba VC-P3S`
+- Ensure adequate cooling for the Wii, replace thermal pads?
+- Should be able to easily play all games, loadable by SD card or USB storage
 - Connect Wii internally. No outside video inputs are necessary
 - Power button could control both the Wii and the TV
 - If possible make navigating to GameCube games from power-on not require the use of a Wii controller.
   - By default load into Melee versus, if a controller is holding a certain button combination?
-- Add better handles to carry the TV
+- Add better handles to carry the TV, strap?
 - Get a power adapter and plug both the TV and Wii into it, pass that cable through the chassis.
   - Will likely need to cut and splice together cable since it will be quite long
-  - Make the cable retractable so carrying when I carry it around a cable isn't dangling around
-- Add artwork to the outside of the case :)
+  - Make the cable retractable so carrying when I carry it around a cable isn't dangling around!
+- Add artwork to the outside of the case :smile:
+  - Paint exterior, plasti dip? Like GOML 2017 CRTs
+  - Replace the stock Toshiba badge with my own custom one
 - Place to store 2+ controllers while not in use?
-- Paint exterior, plasti dip? Like GOML 2017 CRTs
+  - Might be able to put a couple Wii motes where the left channel speaker would be if it existed, slide them into some slots. Could even have a charging station?
+- Repurpose VCR buttons to control the Wii (Power, Reset, Sync Controller)
+  - New buttons, switches for power? The one I got from MoM in Seattle?
+  - Since less buttons are needed could go with some larger ones too. Stylistic preference.
+- Speaker - Nothing can really do with it.
+- Wii video output seems to be a bit off center, more to the left side so some text gets cut off
 
 ## Similar DIYs
 
@@ -77,15 +89,26 @@ This bad boy likely hasn't been cracked open for 2021 - 2004 years so there is a
 
 I need to make sure the TV still works after taking it apart before I waste any time trying to modify a dead thing. I think that might even be illegal in my state...
 
+Removing stickers, removing VCR flap, cleaning all parts of the CRT's plastic body.
+
 ## Modification
 
 The VCR component is roughly the same size of a Wii, so I'm hoping that it can slot right in there.
+
+Add rubber feet to bottom of case. There are circular cutouts that I believe used to have them installed, but a lot has happened since it's birth in `'04`.
+
+[Wii Button Replacement Guide](https://www.instructables.com/Fix-Repair-Nintendo-Wii-Power-Reset-Sync-E/)
 
 ## Software Install
 
 My buddy Jon will be taking care of setting up all the software stuff since he expressed interest in the project and already has some experience doing some very illegal Wii homebrew jobs in his dark past.
 
+Could not connect to my router, I think Wii only uses 802.11 g and I could not enable that WiFi mode on my locked down Xfinity router. I will try to fix this later, or get a new router to try out the WiFi capabilities of this unit. I also noticed that the Wii would not boot without the WiFi card installed. There might be a workaround to get it to boot...
+
+[Installing Nintendont for Melee on a Wii](https://smashboards.com/threads/full-guide-to-installing-nintendont-for-melee-on-a-wii-from-4-3-to-hacked.485886/)
+
+Custom background [MMMod](https://send0r.de/MMMod.html)
+
 ### Take it away Jon a.k.a. NeedleGod and JAYP#178 on Slippi
 
 TODO
-
