@@ -68,7 +68,6 @@ To see what I'm working on or planning at any time check [here](https://github.c
 - Static site host since GitHub pages can't use unsupported jekyll plugins. Use action to build and push to a `docs` branch / use netlify or similar
 - Add share to other sites buttons? <https://superdevresources.com/share-buttons-jekyll/> <https://blog.webjeda.com/share-buttons-jekyll/>
 - At bottom of a post, have buttons to go to the next and previous posts.
-- Add resume link to top bar, then it is not needed in whoami
 - Post headers are clickable and take you to an anchor of the heading and change the URL
 - Theme:
   - Jekyll water.css theme [Github Issue](https://github.com/kognise/water.css/issues/18)

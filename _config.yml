@@ -23,17 +23,19 @@ show_excerpts: true
 
 header_pages:
   - whoami.md
+  - cv.md
 
 exclude:
   - CNAME
   - README.md
-  - comments.md
+  - comments.md 
 
 # Plugins Installed
 
 plugins:
   - jekyll-feed
   - jekyll-mentions
+  - jekyll-redirect-from
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap

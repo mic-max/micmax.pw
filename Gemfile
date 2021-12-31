@@ -2,6 +2,7 @@ source "https://rubygems.org"
 
 gem "jekyll", "~> 4.2"
 gem "jekyll-mentions"
+gem "jekyll-redirect-from"
 gem "jekyll-remote-theme"
 gem "jemoji"
 gem "minima", github: "jekyll/minima"
