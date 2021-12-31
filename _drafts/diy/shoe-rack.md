@@ -4,4 +4,4 @@ title: Shoe Rack
 ---
 
 Build a custom shoe rack that fits in the corner
-![Shoe Rack](/assets/shoe-rack.jpg)
+![Shoe Rack](/assets/img/shoe-rack.jpg)
