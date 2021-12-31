@@ -5,14 +5,14 @@ gem "minima", github: "jekyll/minima"
 gem "webrick", "~> 1.7"
 gem "jekyll-remote-theme"
 gem "jemoji"
-gem 'jekyll-mentions'
+gem "jekyll-mentions"
 
 # Loaded before Jekyll starts
 # Ref: https://jekyllrb.com/docs/plugins/installation/
 group :jekyll_plugins do
   gem "jekyll-feed"
-  gem 'jekyll-sitemap'
-  gem 'jekyll-seo-tag'
+  gem "jekyll-sitemap"
+  gem "jekyll-seo-tag"
 end
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do

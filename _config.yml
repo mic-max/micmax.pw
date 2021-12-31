@@ -24,6 +24,7 @@ show_excerpts: true
 exclude:
   - CNAME
   - README.md
+  - comments.md
 
 # Plugins Installed
 
