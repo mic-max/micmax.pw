@@ -1,3 +1,8 @@
+---
+layout: post
+title: Malcolm in the Middle Opening
+---
+
 writeup on all the clips in the malcolm in the middle theme song
 
 research, link, and watch the all clips used and also reference the scenes and epsiodes footage of the family used
