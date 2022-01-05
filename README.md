@@ -42,6 +42,7 @@ To see what I'm working on or planning at any time check [here](https://github.c
 - Look
   - Table of Contents for longer posts <https://www.aleksandrhovhannisyan.com/blog/jekyll-table-of-contents/>
   - Search bar
+  - 3 Line except per post on homepage, ending with an emoji
   - Show time to read at top of blog post
   - Show tags and categories at top of blog post
     - Add tags to all posts and be able to view all posts for a given tag
@@ -56,6 +57,7 @@ To see what I'm working on or planning at any time check [here](https://github.c
   - Add share to other sites buttons? <https://superdevresources.com/share-buttons-jekyll/> <https://blog.webjeda.com/share-buttons-jekyll/>
   - At bottom of a post, have buttons to go to the next and previous posts.
   - Post headers are clickable and take you to an anchor of the heading and change the URL
+  - Highlight currently viewed page, i.e. when viewing whoami it could be a different colour in the nav bar
 - Github Actions
   - Spelling and grammar checks
   - Dead link and image URL checks

@@ -34,4 +34,13 @@ gotta go
 severety 1 alert
 rip
 
+## beer tier list
+
+dec 31 3:10pm jennifer:
+looks great! you’ve gotta update your drawings tab bc you’ve done pajama sam now🤠
+
+dec 31 4:14pm heather:
+I like reading your writing @Michael
+I agree that Stella is S. Where would you put Molson Canadian?
+
 ## misc
