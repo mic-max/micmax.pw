@@ -101,3 +101,5 @@ I probably will not ever be
 
 If you feel good about yourself
 I feel good about you
+
+But really I'm just tryna start believin' in God
