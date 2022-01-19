@@ -1,0 +1,132 @@
+<!doctype html>
+<html>
+	<head>
+		<style>
+			* {
+				margin: 0;
+			}
+			#left {
+				float: left;
+				width: 40%;
+			}
+			#right {
+				float: right;
+				width: 48%;
+			}
+			header {
+				background-color: blue;
+				color: white;
+				width: 100%;
+				height: 180px;
+			}
+			button {
+				border: 2px solid darkblue;
+				color: skyblue;
+			}
+			img {
+				width: 40px;
+				height: 40px;
+				background-color: skyblue;
+			}
+			.fl {
+				float: left;
+			}
+			.fr {
+				float: right;
+			}
+			label {
+				padding: 6px;
+			}
+			.forgot {
+				color: skyblue;
+			}
+			.section {
+				padding: 30px 10px;
+			}
+			.fn, .ln {
+				width: 40%;
+			}
+			div input {
+				width: 80%;
+			}
+			h1 {
+				padding-top: 20px;
+				padding-left: 40px;
+			}
+			select {
+				width: 1;
+			}
+		</style>
+		<title>Facebook - Log in or Sign Up</title>
+		<link rel = 'icon' href = 'http://facebook.com/favicon.ico'>
+	</head>
+	<body>
+		<header>
+			<h1>facebook</h1>
+			<!-- login stuff -->
+			<div class = 'fr'>
+				<label>
+					Email or Phone
+					<input type = 'text'>
+				</label>
+				<div>
+					<label>
+						Password
+						<input type = 'password'>
+					</label>
+					<button>Log In</button>
+					<a class = 'forgot' href = '#'>Forgot account?</a>
+				</div>
+			</div>
+		</header>
+		<div>
+			<div id = 'left'>
+				<h2>Connect with friends and the world around you with Facebook.</h2>
+				<div class = 'section'>
+					<img src = 'img1.png'>
+					<p><b>See photos and updates</b> from friends in News Feed.</p>
+				</div>
+				<div class = 'section'>
+					<img src = 'img2.png'>
+					<p><b>Share what's new</b> in your life on your Timeline.</p>
+				</div>
+				<div class = 'section'>
+					<img src = 'img3.png'>
+					<p><b>Find more</b> of what you're looking for with Facebook Search.</p>
+				</div>
+			</div>
+			<div id = 'right'>
+				<h2>Sign Up</h2>
+				<p>It's free and always will be.</p>
+				<input class = 'fn' type = 'text' placeholder = 'First name'>
+				<input class = 'fl ln' type = 'text' placeholder = 'Last name'>
+				<input type = 'text' placeholder = 'Mobile number or email'>
+				<input type = 'text' placeholder = 'Re-enter mobile number or email'>
+				<input type = 'password' placeholder = 'New password'>
+
+				<h3>Birthday</h3>
+				<select class = 'fl'>
+					<option>Month</option>
+					<option>January</option>
+					<option>February</option>
+					<option>March</option>
+					<option>April</option>
+				</select>
+				<select class = 'fl'>
+					<option>Day</option>
+					<option>1</option>
+					<option>2</option>
+					<option>3</option>
+					<option>4</option>
+				</select>
+				<select class = 'fl'>
+					<option>Year</option>
+					<option>2017</option>
+					<option>2016</option>
+					<option>2015</option>
+					<option>2014</option>
+				</select>
+			</div>
+		</div>
+	</body>
+</html>

@@ -20,7 +20,7 @@ _To view this table as an image that I made on [Tier Maker](https://tiermaker.co
 
 This tasting actually spawned a seltzer tasting a couple months later, hosted by @yelli_r :cocktail: so I consider this a success. Some valuable information was learnt from this tasting session.
 
-- I will not buy myself anything <span style = "color:#FFFF8F">C</span> <span style = "color:#C3FF89">or below</span>, Heineken was suprisingly low.
+- I will not buy myself anything <span style = "color:#FFFF8F">C</span> <span style = "color:#C3FF89">or below</span>, Heineken was surprisingly low.
 - Miller High Life is the `Champagne of Beers`
 - Budweiser is the `King of Beers`
 

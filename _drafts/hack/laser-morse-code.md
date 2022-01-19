@@ -9,6 +9,7 @@ have a receiver on the other end decoding it with a camera or light sensor. star
 someone on youtube had a similar setup where he reflected a laser off a mirror at a known distance to calculate the speed of light.
 
 notes:
+
 - light does not have to be visible
 - what are ideal conditions? no precipitation, at night
 - what is the range

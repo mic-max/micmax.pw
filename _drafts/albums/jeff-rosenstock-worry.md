@@ -34,8 +34,6 @@ Aesthetic
 The irony of using websites like Facebook to start meetings or protests against those very same things.
 The strife of OSS community members and indie musicians is quite similar to anti-capitalistic mentalities and Jeff references technology frequently.
 
-
-
 Staring Out The Window At Your Old Apartment - 3:21
 Has anyone gone back to an old apartment they used to live in or maybe their childhood room has been repurposed, how did that feel?
 I like to revisit places that felt significant to me at one time and reminisce.

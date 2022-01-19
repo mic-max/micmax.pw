@@ -102,7 +102,7 @@ So, I went to the World Wide Web... surfing for answers :surfer:
 
 I realised after searching the file system and trying to use `sqlite3` via `adb` to read the internal call log database that both require a rooted phone. Okay, well I'll keep this [Pixel 4a (5G) Root Guide](https://forum.xda-developers.com/t/guide-root-pixel-4a-5g-android-12.4221133/) handy in case I go down that route, I'd rather not though... been there, done that, back in 2014 :bug:
 
-After hours of trying to avoid using the third-party exporters I descended into madness and was considering insane ways to get the call history data _that I so desperately needed_. Namely, stitching together a bunch of screenshots programmatically via `adb` commands, then analyzing that with [OCR](https://en.wikipedia.org/wiki/Optical_character_recognition) and using [template matching](https://en.wikipedia.org/wiki/Template_matching) for any icons. And, if that doesn't sound like over-engineering :fearful:
+After hours of trying to avoid using the third-party exporters I descended into madness and was considering insane ways to get the call history data _that I so desperately needed_. Namely, stitching together a bunch of screenshots programmatically via `adb` commands, then analysing that with [OCR](https://en.wikipedia.org/wiki/Optical_character_recognition) and using [template matching](https://en.wikipedia.org/wiki/Template_matching) for any icons. And, if that doesn't sound like over-engineering :fearful:
 
 This project was originally done in a few hours and now I'm blowing it up, but like, in a fun way, ya know... :bomb: :sparkles:
 
@@ -248,7 +248,7 @@ It's hard to visually track a call that goes past midnight. It would be useful t
 
 ## Executing the Program
 
-I wanted to create a config file so pretty much anything could be customised. So, I made `yet another markup language` file where the colours, sizing, and filtering options are provided. This could have been a Python file and that would have been much simpler, but I haven't used `YAML` much so wanted to try it out here :smile:
+I wanted to create a configuration file so pretty much anything could be customised. So, I made `yet another markup language` file where the colours, sizing, and filtering options are provided. This could have been a Python file and that would have been much simpler, but I haven't used `YAML` much so wanted to try it out here :smile:
 
 The command line arguments are thus
 

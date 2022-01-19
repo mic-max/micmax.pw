@@ -5,7 +5,7 @@ title: Vinyl Album Shelf
 
 DIY Guide on how to make a vinyl record shelf
 
-- https://imgur.com/r/DIY/pJVe2
+- <https://imgur.com/r/DIY/pJVe2>
 
 keeping them vertical is the best practice to avoid the record from becoming warped
 bought 1" screws, needed 2"

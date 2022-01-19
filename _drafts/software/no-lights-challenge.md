@@ -11,4 +11,4 @@ Also had to consume a shot cup amount of tabasco.
 
 Site was facebook sign up page. Similar to the hacking scene in the social network where they are doing alcohol shots. Honestly, I should have guessed the webpage would be something to do with facebook :facepalm:
 
-https://github.com/mic-max/random/blob/main/sauce.html
+<https://github.com/mic-max/random/blob/main/sauce.html>

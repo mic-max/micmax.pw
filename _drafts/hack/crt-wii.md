@@ -11,6 +11,8 @@ Converting my CRT that has a built-in VCR into the most portable melee setup you
 [Wii Revision Identification Guide](https://bitbuilt.net/forums/index.php?threads/revision-identification-guide.863/)
 [Wii Motherboard Anatomy 101](https://bitbuilt.net/forums/index.php?threads/wii-motherboard-anatomy-101.1286/)
 [Wii Trimming Guide](https://bitbuilt.net/forums/index.php?threads/the-definitive-wii-trimming-guide.198/)
+[Homebrew Tutorial Video](https://youtu.be/BSE34AQTCdg)
+<wii.guide>
 
 TODO Table of contents
 
@@ -26,6 +28,7 @@ TODO Table of contents
 - Ensure adequate cooling for the Wii, replace thermal pads?
 - Should be able to easily play all games, loadable by SD card or USB storage
 - Connect Wii internally. No outside video inputs are necessary
+  - Being able to still use it as a monitor would be sweet though, using the front RCA connectors. Have a switch that decides between internal Wii and external device?
 - Power button could control both the Wii and the TV
 - If possible make navigating to GameCube games from power-on not require the use of a Wii controller.
   - By default load into Melee versus, if a controller is holding a certain button combination?
@@ -43,6 +46,9 @@ TODO Table of contents
   - Since less buttons are needed could go with some larger ones too. Stylistic preference.
 - Speaker - Nothing can really do with it.
 - Wii video output seems to be a bit off center, more to the left side so some text gets cut off
+- Built in capture card? Or ability to save clips to SD Card?
+- Overclocking?
+- Wireless Internet Connectivity, run an antenna wire up side of the tv inside.
 
 ## Similar DIYs
 
@@ -64,7 +70,7 @@ I did this on June 22 and have had it disassembled in my closet ever since and o
 Model: Toshiba MV13P3
 Manufacture Date: January 2004
 
-*Include text and photos of anything writen on the TV case since I don't want to open again and will take off the stickers*
+_Include text and photos of anything writen on the TV case since I don't want to open again and will take off the stickers_
 
 ## CRT Purchase
 
@@ -77,7 +83,7 @@ After quite a bit of searching on Craigslist for a CRT finally on the night of S
 
 When I return home for Christmas I need to lift the family Wii without rising suspicion. This will be a dubious task but one I am willing to take on. Should I fail this mission I accept all the consequences. The fruits of this heist are worth it.
 
-*Story of me stealing the Wii*
+_Story of me stealing the Wii_
 
 ## Teardown
 
@@ -103,6 +109,22 @@ Add rubber feet to bottom of case. There are circular cutouts that I believe use
 ## Software Install
 
 My buddy Jon will be taking care of setting up all the software stuff since he expressed interest in the project and already has some experience doing some very illegal Wii homebrew jobs in his dark past.
+
+### SD Card
+
+Need to format SD Card to FAT32. Windows will only work to format 32 GB or less, mine is 64 GB.
+So I needed to download a third-party program to perform the format. I used [FAT32 Formatter](#TODO) and ran it like so from an Administrator PowerShell terminal
+
+```powershell
+fat32format.exe F:
+```
+
+For 32GB and lower the following Windows command should work
+```powershell
+format /FS:FAT32 F: /Q
+```
+
+### WiFi
 
 Could not connect to my router, I think Wii only uses 802.11 g and I could not enable that WiFi mode on my locked down Xfinity router. I will try to fix this later, or get a new router to try out the WiFi capabilities of this unit. I also noticed that the Wii would not boot without the WiFi card installed. There might be a workaround to get it to boot...
 

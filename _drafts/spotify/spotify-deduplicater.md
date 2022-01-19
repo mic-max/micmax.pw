@@ -14,3 +14,9 @@ let user deselect ones from the list output, could be command line, use arrows a
 - [x] Heat Waves - Glass Animals - Heat Waves (Live) - Sep 24, 2021
 
 [Great Node.js CLI App Tutorial](https://www.sitepoint.com/javascript-command-line-interface-cli-node-js/)
+
+group songs into their artist
+compare all in each group, 5000 liked songs I'd guess it's like 40 songs per artist or so
+so it'd be (5000 / 40)^2 which is 15k comparisons
+doing 4000^2 comparisons is 16 million which is probably too many haha
+see how similar their song titles are, do anything with their album names?
