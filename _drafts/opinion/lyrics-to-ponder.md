@@ -103,3 +103,7 @@ If you feel good about yourself
 I feel good about you
 
 But really I'm just tryna start believin' in God
+
+I am going to make it through this year if it kills me
+
+A lot of people know me, but they don't know me well

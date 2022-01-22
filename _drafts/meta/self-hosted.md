@@ -9,6 +9,9 @@ I decided to use non-proprietary sites like medium.com so I could have full cont
 
 hosting my own
 
+<https://github.com/awesome-selfhosted/awesome-selfhosted>
+<https://github.com/novaspirit/pi-hosted>
+
 - email server
 - git server
 - web server
