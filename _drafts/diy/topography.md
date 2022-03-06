@@ -7,3 +7,4 @@ The process of creating a 3D topographical map out of layers of wood
 
 - <https://www.carvedlakeart.com/seattle-wood-chart-driftwood-grey-frame-p/gf-seat-d3l.htm>
 - <https://www.nauticalluxuries.com/products/3-d-framed-wood-bathymetric-charts>
+- MS Garage Workshops <https://msit.microsoftstream.com/video/63d50840-98dc-b561-59be-f1ebefbd1ef1?channelId=d72ca4ff-0400-b9eb-0b44-f1eb254731e6>

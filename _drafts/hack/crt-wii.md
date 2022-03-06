@@ -49,18 +49,24 @@ TODO Table of contents
 - Built in capture card? Or ability to save clips to SD Card?
 - Overclocking?
 - Wireless Internet Connectivity, run an antenna wire up side of the tv inside.
+- [DIY AC Power Splitter](https://youtu.be/PZ2wdQFTI9M)
+- [DIY RCA Cable](https://youtu.be/Hwtt4vPkATQ)
+- Get an antenna, to watch TV on it
+- Hardwire wavebirds into port internally?
 
 ## Similar DIYs
 
-- https://www.retrorgb.com/spongebob-crt-tv-rgb-mod.html
-- https://www.reddit.com/r/crtgaming/comments/adbin9/gamecube_gchd_mkii_thoughts_using_480i_on_a_crt/
-- https://hackaday.com/2016/10/13/from-crt-tv-to-all-in-one-console/
-- https://mikeshouts.com/monitor-64-video-game-console-by-mason-stooksbury/
-- https://www.reddit.com/r/nintendo/comments/6q3j37/gamecube_kiosk_still_running_in_mcdonalds/
-- https://dot-matrix-game.blogspot.com/2014/02/retail-displayexternal-game-boy-displays.html
-- https://en.wikipedia.org/wiki/Vectrex
-- https://hackaday.com/2019/05/06/thumbs-up-for-this-crt-handheld-gaming-console/
-- https://www.copetti.org/writings/consoles/wii/
+- <https://www.retrorgb.com/spongebob-crt-tv-rgb-mod.html>
+- <https://www.reddit.com/r/crtgaming/comments/adbin9/gamecube_gchd_mkii_thoughts_using_480i_on_a_crt/>
+- <https://hackaday.com/2016/10/13/from-crt-tv-to-all-in-one-console/>
+- <https://mikeshouts.com/monitor-64-video-game-console-by-mason-stooksbury/>
+- <https://www.reddit.com/r/nintendo/comments/6q3j37/gamecube_kiosk_still_running_in_mcdonalds/>
+- <https://dot-matrix-game.blogspot.com/2014/02/retail-displayexternal-game-boy-displays.html>
+- <https://en.wikipedia.org/wiki/Vectrex>
+- <https://hackaday.com/2019/05/06/thumbs-up-for-this-crt-handheld-gaming-console/>
+- <https://www.copetti.org/writings/consoles/wii/>
+- <https://youtu.be/bFXM8TYwfK4> wii sensor bar teardown
+- <https://www.wikihow.com/Make-Rca-Cables>
 
 ## Documenting the process
 
@@ -88,7 +94,7 @@ _Story of me stealing the Wii_
 ## Teardown
 
 This process is dangerous since the power supply is exposed on the inside of the TV.
-It hasn't been plugged into power for months though, so *fingers crossed* I don't die while drafting this post.
+It hasn't been plugged into power for months though, so _fingers crossed_ I don't die while drafting this post.
 
 ### Cleaning
 
@@ -120,6 +126,7 @@ fat32format.exe F:
 ```
 
 For 32GB and lower the following Windows command should work
+
 ```powershell
 format /FS:FAT32 F: /Q
 ```
@@ -139,3 +146,14 @@ Custom background [MMMod](https://send0r.de/MMMod.html)
 ### Take it away Jon a.k.a. NeedleGod and JAYP#178 on Slippi
 
 TODO
+
+### Power Switch
+
+Maintaining the ability to plug external devices into the TV is something I wanted to do.
+I got a double power switch from a MoM exhibit.
+
+It has three states
+
+- Off - Both TV and Wii will not receive power
+- On Wii - Both TV and Wii will receive power, switch RCA input to Wii
+- On External - TV will receive power, switch RCA input to external device

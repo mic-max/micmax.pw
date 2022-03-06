@@ -26,3 +26,5 @@ My Idea
 1. Boot next VM in line (maintain a queue of Azure accounts and their VMs, go in order of which one has more credits)
 1. Check every X minutes for player count
 1. If zero, then shutdown VM - reactivate through some discord bot that has the ability to boot a VM
+
+[Azure VM Pricing](https://azure.microsoft.com/en-us/pricing/details/virtual-machines/windows/#pricing)

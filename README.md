@@ -19,11 +19,11 @@ To see what I'm working on or planning at any time check [here](https://github.c
 
 ## Spelling Checker
 
-TODO
+- TODO <https://www.online-spellcheck.com/>
 
 ## Dead Link Checker
 
-TODO
+TODO <https://blog.nolanemirot.com/posts/check_broken_links/>
 
 ## Markdown Lint
 
@@ -37,6 +37,7 @@ TODO
 - [Jekyll Front Matter](https://jekyllrb.com/docs/front-matter/)
 - [Liquid Documentation](https://shopify.github.io/liquid/)
 - [GitHub Pages Dependencies](https://pages.github.com/versions/)
+- [Markdown Tables](https://www.tablesgenerator.com/markdown_tables)
 - [Minima Theme](https://github.com/jekyll/minima)
   - [Chirpy Theme](https://jekyll-themes.com/chirpy/) - Might switch to
 

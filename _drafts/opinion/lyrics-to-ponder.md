@@ -23,7 +23,7 @@ Wisdom's a gift, but you'd trade it for youth
 Right now I know that I'm not really worth it
 If you give me time, I could work on it
 Give me some time while I work on it
-
+...
 Look at the sky tonight, all of the stars have a reason
 A reason to shine, a reason like mine and I'm fallin' to pieces
 Look at the sky tonight, all of the stars have a reason
@@ -107,3 +107,51 @@ But really I'm just tryna start believin' in God
 I am going to make it through this year if it kills me
 
 A lot of people know me, but they don't know me well
+
+I'm a busy person, got no time for lies; one of a kind
+...
+Nothin' to me's ever good enough
+I could be workin' for 24 hours a day and think I never did enough
+
+I'm killin' off my demons 'cause my soul's worth redeemin'
+
+'Cause all of my kindness
+Is taken for weakness
+
+Everybody think I'm cool, I don't like that
+
+When you look at me and hate on me, I'm a mirror
+If you look at me and don't like me what does that say about you?
+
+Maybe I don't act the way I used to
+Cause I don't feel the same about you
+In fact that's a lie
+I want you
+
+So I gave him an ultimatum
+And I said, "I can't just keep living and moving with you all over the United States without a commitment."
+There's no certainty, you know, of a future, and I wanted to have children, and that was important to me, so, we got married
+I'm not sure, I think I would've waited to find...
+I probably would've held out longer to get married 'cause I, I just, I don't know
+You never really know for sure, but I had serious doubts when I got married, and I, I should've listened to my heart more
+'Cause when you're young, you're idealistic, and you think your love is gonna change a person, but it really doesn't
+They are who they are. Think it might make slight modifications, but they basically are who they are, and who you see, and who you feel that they are
+So be cautious when you're searching, and don't just give your love away
+
+I love you always
+Even if you're bad news
+
+The fossils of my footsteps will be unearthed at a far off date, unknown
+Impressed in concrete from walking home alone after walking you home
+
+Bittersweet
+You're gonna be the death of me
+I don't want you, but I need you
+I love you and hate you at the very same time
+Bittersweet
+...
+You don't see how your lies is affecting me?
+You don't see how our life was supposed to be?
+
+You were right about the stars
+Each one is a setting sun

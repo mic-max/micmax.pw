@@ -13,6 +13,9 @@ It should also be pretty easy to do.
 There are some browser extensions that have the ability to modify the volume per stereo channel.
 However, I don't want this to only work for things from my browser.
 
+Could I get or build a hardware mixer?
+Make a macro keyboard, one of them being to toggle audio output between headphones and speakers.
+
 Ideas:
 
 - Get a sound device with two audio output jacks
