@@ -53,7 +53,7 @@ I tried so hard to keep up with the lingo.
 ## hat rack
 
 jan 18, 6:06am heather:
-That was my favourite post! I love reading your writing! Also, how lovely that I made a guest appearance; but you should really delete that tweet… 😂😭 
+That was my favourite post! I love reading your writing! Also, how lovely that I made a guest appearance; but you should really delete that tweet… 😂😭
 The hat rack is super cool and looks way better! Love that you even have your skateboard secured by a row haha!
 Did you send it to dad yet?
 
