@@ -47,6 +47,12 @@ jekyll-mentions: https://twitter.com
 
 jekyll_compose:
   auto_open: true
+  # default_front_matter:
+    # drafts:
+      # description:
+      # image: assets/img/
+      # category:
+      # tags:
 
 # Theme Configuration
 
