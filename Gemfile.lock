@@ -114,17 +114,17 @@ DEPENDENCIES
   jekyll (~> 4.2)
   jekyll-compose
   jekyll-feed
-  jekyll-mentions
-  jekyll-redirect-from
-  jekyll-remote-theme
+  jekyll-mentions (~> 1.6.0)
+  jekyll-redirect-from (~> 0.16.0)
+  jekyll-remote-theme (~> 0.4.3)
   jekyll-seo-tag
   jekyll-sitemap
-  jemoji
+  jemoji (~> 0.12.0)
   minima!
-  tzinfo
-  tzinfo-data
+  tzinfo (~> 2.0.4)
+  tzinfo-data (~> 1.2022.1)
   wdm (~> 0.1.1)
-  webrick (~> 1.7)
+  webrick (~> 1.7.0)
 
 BUNDLED WITH
    2.3.10
