@@ -6,7 +6,7 @@ To see what I'm working on or planning at any time check [here](https://github.c
 
 ## Build
 
-1. `[System.Environment]::SetEnvironmentVariable('EDITOR','code')`
+1. Set the environment variable `EDITOR` = `code`
 1. Install [Ruby](https://rubyinstaller.org/downloads/)
 1. `gem install bundler jekyll`
 1. `bundle`
@@ -50,7 +50,6 @@ TODO
   - Static site host since GitHub pages can't use unsupported jekyll plugins. Use action to build and push to a `docs` branch / use netlify or similar
   - Review all jekyll mention @ tags with friends for permission and their preference of social media / account
   - Setup an email newsletter: <buttondown.email> ? for those who don't want to use an RSS reader
-  - Configure `jekyll-compose` <https://github.com/jekyll/jekyll-compose>
 - Look
   - Table of Contents for longer posts <https://www.aleksandrhovhannisyan.com/blog/jekyll-table-of-contents/>
   - Search bar
