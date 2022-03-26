@@ -63,3 +63,7 @@ Michael’s with an “angelo” at the end of their name. LOL I DIED
 the hat racks look great! very fun post to read too :) what was the tweet that heather told you to delete ?
 
 ## misc
+
+mar 5, 12:05am maristella:
+Thanks, it's really nice! I like your idea of havinga blog and you're writing there constantly 🙂
+And I really like your posts as well 😊

@@ -35,7 +35,7 @@ dimensions of hollowed bottoms:
 | Q,B,N,R | 12.87       | 15.35      | 3.86      | 4.002       | 45.38    | 0.44     |
 | Pawn    | 9.60        | 12.4       | 3.91      | 1.951       | 22.13    | 0.22     |
 
-lead needed: 1124.7 grams ~= 2.48 lbs ~= 43 oz
+lead needed: 1124.7 grams = 2.48 lbs = 43 oz
 total cost: $11.00 of the actual used lead - this also includes the shipping costs. I'm not sure how much of the ingots will be wasted/scrap but I definitely don't expect to use the whole 5 pounds.
 
 2267g ~= 5lb
@@ -55,6 +55,17 @@ cost ranges from 3.2 to 6.8 dollars per pound. I only need 2.5 pounds
 Ended up buying 5 orders of "Lead Mini Ingot Pure 99.9% ~ 1 Pound-Mix sizes" from Roto Metals.
 They had a sale going on for $2.59 per pound. After shipping and taxes it ended up being $21.94.
 Just narrowly beating out Amazon's cheapest 5lb listing.
+
+## Making the Mould
+
+I had planned to make the mould out of wood, by drilling various depths and sized bits into a block of wood. This would be pretty hard
+
+"No plan survives first contact with the enemy". my enemy was my own first bright idea. or planning itself. I also forgot that I could get access to a CNC mill.
+
+Now my plan is to CNC mill a mould for the molten lead out of aluminum. It will be more precise, more reusable, and be easier to reproduce. All I need to do is get a chunk of aluminum, learn some basic CAD, and get access to the mill by doing some training.
+
+The size of the aluminum block must be at the absolute minimum: 70.29mm x 25.74mm x 27.6mm. So would likely want to round this up to at least 1.5" x 1.5" x 4" so there can be at least some space between the different sized moulds in the same block.
+Would I be able to use two smaller aluminum blocks welded together?
 
 using coins as weights - "there's always money in the chess set!" arrested development reference :smile:
 

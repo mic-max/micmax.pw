@@ -155,3 +155,6 @@ You don't see how our life was supposed to be?
 
 You were right about the stars
 Each one is a setting sun
+
+If I don't die or worse
+I'm gonna need a nap
