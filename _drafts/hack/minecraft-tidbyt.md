@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Minecraft Pixley Display
+title: Minecraft Tidbyt Display
 ---
 
 Install mingw for gcc
