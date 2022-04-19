@@ -50,6 +50,7 @@ TODO
   - Static site host since GitHub pages can't use unsupported jekyll plugins. Use action to build and push to a `docs` branch / use netlify or similar
   - Review all jekyll mention @ tags with friends for permission and their preference of social media / account
   - Setup an email newsletter: <buttondown.email> ? for those who don't want to use an RSS reader
+  - Create a stats page: <https://sylhare.github.io/2021/05/26/Generate-jekyll-blog-stats.html>
 - Look
   - Table of Contents for longer posts <https://www.aleksandrhovhannisyan.com/blog/jekyll-table-of-contents/>
   - Search bar
