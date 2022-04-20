@@ -43,3 +43,5 @@ or since it is customizable I should also allow the end-user to customize their 
 
 <https://twitter.com/micmax_/status/1470468493413732353>
 > am I really thinking about reusing a binary sort function I wrote 6 years ago..
+
+https://docs.google.com/document/d/1Met4Oz8ERXR9I7bucS_I-uhc_5eJccf0vY5syYmybQE/edit#heading=h.hnbx87p7s4gs
