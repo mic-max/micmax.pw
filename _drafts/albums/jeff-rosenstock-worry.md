@@ -73,26 +73,39 @@ Made me think of [Blackbird - The Beatles](https://open.spotify.com/track/5jgFfD
 
 > Hate's not a fad that dies with its virality
 
-Can almost hear the song's words being played by the guitar in the instrumental break
+Can almost hear the song's words being played by the guitar in the instrumental break.
 
 ### Pietro, 60 Years Old - 0:38
 
-First song of the medley?
-Actually a good little song, most of the time I listen to an album and there's 30 second "songs" I usually skip them.
+I believe this is the first song of the medley.
+Actually a good little song! Typically album's 30 seconds _songs_ are either skts, not great, or used as an opportunity for the artist to break the fourth wall with a joke or something. I usually skip them, this one is nice.
 
 ### I Did Something Weird Last Night - 3:11
-"Everything so unexpectedly started to change in the dream. But I was preoccupied with how the magic would end" This was super relatable to me at the time when I first moved to Seattle to work at Microsoft. It felt like my luck was going too well and was going to end soon. I'd even describe how I got my job by saying I tricked the interviewers, so maybe a bit of imposter syndrome there.
-Staying up late with someone <3 and having to nap the next day
+
+> Everything so unexpectedly started to change in the dream. But I was preoccupied with how the magic would end
+
+This was super relatable to me at the time when I first moved to Seattle to work at Microsoft. It felt like my luck was going too well and was bound to end soon. I'd even describe how I got my job by saying I tricked the interviewers, so maybe a bit of imposter syndrome there too :information_desk_person:
+
+Staying up late with someone `<3` and having to nap the next day :relieved:
 
 ### Blast Damage Days - 2:54
-"Halcyon" – denoting a period of time in the past that was idyllically happy and peaceful.
-"Weeks slipping away" - after reflecting on this summer though I had fun and spent a lot of time hanging out with friends, I don't feel as fulfilled as I hope to feel in using my spare time. A lot of it ends up being consuming, rather than creating.
-"...These are the mass murder days..." Jeff really starts shouting until the end of the song really emphasizing how fucked the world currently is, yet the irony is that these are his halcyon days, meaning he expects it to just keep going downhill.
+
+> Weeks slipping away
+
+After reflecting on this summer, though I had fun and spent a lot of time hanging out with friends, I don't feel as fulfilled as I hoped to have felt with how I used my spare time. A lot of it ends up being attributed to consuming, rather than creating. I think you need to have a good balance of both to grow, so I've been working to tip the _teeter-totter_ in the other direction this year :see_no_evil:
+
+> ...These are the mass murder days...
+
+Jeff really starts shouting until the end of the song really emphasizing how fucked the world currently is, yet the irony is that these are his halcyon days, meaning he's pessimistic of the future and expects it to just keep going downhill.
+
+`Halcyon` – denoting a period of time in the past that was idyllically happy and peaceful.
 
 ### Bang On The Door - 1:02
-Love the hard start to this song!
-Fear of being evicted.
-In the second verse he is explaining the toll of living in these conditions of uncertainty with your shelter which is one of the base pieces of pavlov's hierarchy of needs. It prevents his apartment from ever feeling like home.
+
+- Love the hard start to this song!
+- Fear of being evicted.
+
+In the second verse he is explaining the toll of living in these conditions of uncertainty with your shelter which is one of the base pieces of [Maslow's hierarchy of needs](https://en.wikipedia.org/wiki/Maslow's_hierarchy_of_needs). It prevents his apartment from ever feeling like home.
 Do you guys feel at home in Seattle? If so, when did that feeling start and do you know why?
 
 ### Rainbow - 1:30
