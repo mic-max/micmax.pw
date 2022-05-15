@@ -19,15 +19,18 @@ To see what I'm working on or planning at any time check [here](https://github.c
 
 ## Spelling Checker
 
-- TODO <https://www.online-spellcheck.com/>
+1. `npm i -g spellchecker-cli`
+1. `spellchecker -f _posts/*.md -l en-CA -d dictionary.txt -q --no-suggestions`
 
 ## Dead Link Checker
 
-TODO <https://blog.nolanemirot.com/posts/check_broken_links/>
+1. `gem i deadlink`
+1. `deadlink`
 
 ## Markdown Lint
 
-TODO
+1. `gem i mdl`
+1. `mdl **/*.md`
 
 ## Resources
 
