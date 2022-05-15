@@ -5,16 +5,14 @@ title: Wii and CRT All-In-One
 
 Converting my CRT that has a built-in VCR into the most portable melee setup you've ever seen
 
-[Toshiba MV13P3 Service Manual](https://www.manualslib.com/manual/700891/Toshiba-Mv13p3.html)
-[Wii Teardown Guide byiFixit](https://www.ifixit.com/Teardown/Nintendo+Wii+Teardown/812)
-[Wii 3D Model](https://www.turbosquid.com/3d-models/nintendo-wii-3d-model/392588)
-[Wii Revision Identification Guide](https://bitbuilt.net/forums/index.php?threads/revision-identification-guide.863/)
-[Wii Motherboard Anatomy 101](https://bitbuilt.net/forums/index.php?threads/wii-motherboard-anatomy-101.1286/)
-[Wii Trimming Guide](https://bitbuilt.net/forums/index.php?threads/the-definitive-wii-trimming-guide.198/)
-[Homebrew Tutorial Video](https://youtu.be/BSE34AQTCdg)
+- [Toshiba MV13P3 Service Manual](https://www.manualslib.com/manual/700891/Toshiba-Mv13p3.html)
+- [Wii Teardown Guide byiFixit](https://www.ifixit.com/Teardown/Nintendo+Wii+Teardown/812)
+- [Wii 3D Model](https://www.turbosquid.com/3d-models/nintendo-wii-3d-model/392588)
+- [Wii Revision Identification Guide](https://bitbuilt.net/forums/index.php?threads/revision-identification-guide.863/)
+- [Wii Motherboard Anatomy 101](https://bitbuilt.net/forums/index.php?threads/wii-motherboard-anatomy-101.1286/)
+- [Wii Trimming Guide](https://bitbuilt.net/forums/index.php?threads/the-definitive-wii-trimming-guide.198/)
+- [Homebrew Tutorial Video](https://youtu.be/BSE34AQTCdg)
 <wii.guide>
-
-TODO Table of contents
 
 - Rip out the VCR
 - Put a Wii in its place
