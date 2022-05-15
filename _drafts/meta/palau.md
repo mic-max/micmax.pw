@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Republic of Palau 
+title: Republic of Palau
 ---
 
 thanks for the `.pw` top level domain name

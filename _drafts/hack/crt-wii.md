@@ -119,7 +119,7 @@ My buddy Jon will be taking care of setting up all the software stuff since he e
 ### SD Card
 
 Need to format SD Card to FAT32. Windows will only work to format 32 GB or less, mine is 64 GB.
-So I needed to download a third-party program to perform the format. I used [FAT32 Formatter](#TODO) and ran it like so from an Administrator PowerShell terminal
+So I needed to download a third-party program to perform the format. I used [FAT32 Formatter]() and ran it like so from an Administrator PowerShell terminal
 
 ```powershell
 fat32format.exe F:

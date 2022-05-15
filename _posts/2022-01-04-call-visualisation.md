@@ -60,7 +60,7 @@ _Colour palette provided by [Flat UI Colours](https://flatuicolors.com/palette/d
 
 ## Parsing XML
 
-The first thing to do is parse the XML file into a list of objects that are more friendly to work with.  
+The first thing to do is parse the XML file into a list of objects that are more friendly to work with.\
 These objects will look like this:
 
 ```python
@@ -200,7 +200,7 @@ val history = historyBuilder.build()
 
 Android has the concept of internal and external storage. The naming is slightly confusing. Each app has internal storage specific to them, that only they can access. External storage is the public directories on the Android device. We need to write to the external storage so users can copy the file from their `Download` directory to their PC.
 
-Writing the file is simplified by using the generated protobuf class's `writeTo(FileOutputStream)` function. Make sure to close the `FileOutputStream` and show the user a message saying where it wrote the file to.
+Writing the file is simplified by using the generated Protobuf class's `writeTo(FileOutputStream)` function. Make sure to close the `FileOutputStream` and show the user a message saying where it wrote the file to.
 
 ```kotlin
 val filename = "call-history.bin"

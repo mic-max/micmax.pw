@@ -1,14 +1,14 @@
 # Michael's Motive
 
-Welcome to the source code to my website.  
-This, like most software nowadays, will never be done.  
+Welcome to the source code to my website.\
+This, like most software nowadays, will never be done.\
 To see what I'm working on or planning at any time check [here](https://github.com/mic-max/micmax.pw/projects/1)
 
 ## Build
 
 1. Set the environment variable `EDITOR` = `code`
 1. Install [Ruby](https://rubyinstaller.org/downloads/)
-1. `gem install bundler jekyll`
+1. `gem i bundler jekyll`
 1. `bundle`
 1. `bundle exec jekyll serve`
 
@@ -31,6 +31,13 @@ To see what I'm working on or planning at any time check [here](https://github.c
 
 1. `gem i mdl`
 1. `mdl **/*.md`
+
+## Helper Aliases
+
+Should I add a `package.json` and make these scripts in it?
+
+- `draft <title> <folder>` => `bundle exec jekyll draft "<title>" && mv _drafts/<title>.md _drafts/<folder>/<title>.md`
+- `publish <folder> <title>` => `bundle exec jekyll publish _drafts/<folder>/<title>.md`
 
 ## Resources
 

@@ -3,9 +3,9 @@ layout: post
 title: Hello World
 ---
 
-Hello and welcome to my first post!  
-I want to motivate myself to work on ideas I have and able to share them with people.  
-So here I am making this blog...  I'll name it `Michael's Motive` :sparkles:  
+Hello and welcome to my first post!\
+I want to motivate myself to work on ideas I have and able to share them with people.\
+So here I am making this blog...  I'll name it `Michael's Motive` :sparkles:
 
 Some topics I'll write about in the future include
 
