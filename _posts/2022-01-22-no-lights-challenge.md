@@ -13,10 +13,11 @@ This challenge was hosted by `QHacks` in 2017 at [Queen's University](https://ww
 Attending this hackathon and visiting my sister(s) on my birthday :aquarius: weekend became a tradition over the next couple years.
 Taking the sponsored bus or making the two hour drive myself from Ottawa down to Kingston to get my hack on, game & drink at [barcadia](https://www.barcadia.ca), and couchsurfing at my sister's - too good to pass up.
 
-I scoured QHacks' facebook albums and found some photographs featuring yours truly :camera:
+I scoured QHacks' Facebook albums and found some photographs featuring yours truly :camera:
 
 <!--
 Photos that have me in them, but I'm out of focus or of my back.
+
 - <https://www.facebook.com/QHacks/photos/a.2027908820820302/2027909834153534>
 - <https://www.facebook.com/QHacks/photos/a.2027908820820302/2027912214153296>
 - <https://www.facebook.com/QHacks/photos/a.2027908820820302/2027913594153158>
@@ -29,6 +30,7 @@ Photos that have me in them, but I'm out of focus or of my back.
 - <https://www.facebook.com/QHacks/photos/a.1837069209904265/1837398833204636>
 - <https://www.facebook.com/QHacks/photos/a.1837069209904265/1837398419871344>
 - <https://www.facebook.com/QHacks/photos/a.1837069209904265/1837398549871331>
+
 -->
 
 - [!Lights 1](https://www.facebook.com/QHacks/photos/a.1837069209904265/1837397609871425)
@@ -43,7 +45,7 @@ Photos that have me in them, but I'm out of focus or of my back.
 For the uninitiated, the `!` symbol is a unary operator in many programming languages called the logical NOT operator.
 It is used to reverse the logical state of its operand. If a condition is true, then Logical NOT operator will make it false, and vice versa.
 All of this is to say that, the `!Lights` means no lights, since participants couldn't check what the website would render to while writing it.
-Appologies to all you programmers that didn't need my long-winded explanation :pensive:
+Apologies to all you programmers that didn't need my long-winded explanation :pensive:
 
 > In hacker culture, the exclamation mark is called "bang", "shriek", or, in the British slang known as Commonwealth Hackish, "pling".
 

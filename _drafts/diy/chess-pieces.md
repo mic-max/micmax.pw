@@ -3,7 +3,7 @@ layout: post
 title: Chess Pieces
 ---
 
-Recently, I've been playing a ton of chess. It's history, difficulty, and universality are all aspects which have drawn me in. I mostly play online but figured having a physical set would be cool and come in handy :crown: 
+Recently, I've been playing a ton of chess. It's history, difficulty, and universality are all aspects which have drawn me in. I mostly play online but figured having a physical set would be cool and come in handy :crown:
 
 ## Chess
 
@@ -13,7 +13,7 @@ I used to play with my Mom and also I come to find out my Dad was in the chess c
 First off, because it's fun. I enjoy playing games and learning new openings and strategies, it gives me something to study now that I'm no longer in school.
 The game been played for centuries in its current form.
 
-Picturing myself (combating senality) in an old folks home playing chess and dominating the squares brings me a weird amount of comfort. Maybe its that in this hypothetical I've trained a skill for decades or maybe it's simply that I made it to my old age and got to experience all stages of life. Anyways, chess isn't going anywhere any time soon and also with the big spike in popularity over the past years likely attributed to The Queen's Gambit series on Netflix means there's more players than ever to [Fried Liver]() online :devil:
+Picturing myself (combating senality) in an old folks home playing chess and dominating the squares brings me a weird amount of comfort. Maybe its that in this hypothetical I've trained a skill for decades or maybe it's simply that I made it to my old age and got to experience all stages of life. Anyways, chess isn't going anywhere any time soon and also with the big spike in popularity over the past years likely attributed to The Queen's Gambit series on Netflix means there's more players than ever to [Fried Liver](https://www.chess.com/article/view/fried-liver-attack-chess-opening) online :devil:
 
 Additionally, no technology is needed to play, it is accessible, competitive head-to-head game, high skill ceiling, ability to play with someone who doesn't speak your language, and worldwide prevelance are some other reasons I think chess is cool :nerd:
 
@@ -29,7 +29,7 @@ The `Thing` also includes files to print the board, but I think it would be bett
 
 After playing a couple games with the set, I decided they would feel a lot better if they were heavier.
 Luckily the design has a hollowed bottom, which makes sense to save printing material.
-This will also make the pieces bottom heavy which will make them harder to knock over due to a low centre of mass. 
+This will also make the pieces bottom heavy which will make them harder to knock over due to a low centre of mass.
 
 ## Comparing Weighting Methods
 
@@ -63,7 +63,7 @@ Source: [US Coins - Mass and Dimensions](https://avocadoughtoast.com/weights-siz
 
 Coins Required: 66 pennies, 16 dimes, 18 nickels, 32 quarters
 Total Value: $11.26
-Total Mass: 
+Total Mass: TODOg
 
 ### 1b) All Penny Strategy
 
@@ -75,9 +75,9 @@ Total Mass:
 
 Coins Required: 132 pennies
 Total Value: $1.32
-Total Mass: 
+Total Mass: TODOg
 
-### 2) Lead Strategy:
+### 2) Lead Strategy
 
 First I needed to get the actual dimensions of the hollow rather than just jam coins in until I couldn't no more.
 I'm a CAD beginner so I just used calipers even though using the STL file I could probably easily get the dimensions...
@@ -120,19 +120,17 @@ for q r b k since theyre all similar lets use the same mould
 3.5mm sill
 11.5mm height
 
-q 25.19 25.3 25.3 
+q 25.19 25.3 25.3
 r 24.6 24.14 24.8 24.5 24.5
 b 25.26 25.26 25.3
 k 25.19 25.11 25.24
 
 p 18.84 18.81 18.82
-4.02 
+4.02
 
 lets use 9.2mm radius
 3.5mm sill
 8.2 mm height
-
-
 
 | Piece   | Radius (mm) | Depth (mm) | Sill (mm) | Area (cm^3) | Mass (g) | Cost ($) |
 |---------|-------------|------------|-----------|-------------|----------|----------|
@@ -203,10 +201,10 @@ gluing and felting
 | Rook    | 4     |
 | Pawn    | 16    |
 
-Total Mass: 
+Total Mass: TODOg
 Equiptment Cost: smelter + mask + glasses + glue gun + mould
 Material Cost: lead + PLA + felt + glue
-Total Cost: 
+Total Cost: $TODO
 
 now i can play during a category 2 tornado without fear of my pieces knocking over.
 cost and time needed to make another set, hmu if you want one at near BOM cost.

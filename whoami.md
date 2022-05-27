@@ -5,14 +5,14 @@ title: whoami
 
 <img src='/assets/img/micmax.png' alt='Michael Maxwell' height='140'>
 
-Hello, my name is `Michael Ian Maxwell` and I was born on the `0x70`<sup>th</sup> [Groundhog Day](https://en.wikipedia.org/wiki/Groundhog_Day#Punxsutawney_beginnings) :sunflower:  
-I am from `Ottawa, Canada` :maple_leaf: and currently live in `Seattle, USA` :umbrella:  
+Hello, my name is `Michael Ian Maxwell` and I was born on the `0x70`<sup>th</sup> [Groundhog Day](https://en.wikipedia.org/wiki/Groundhog_Day#Punxsutawney_beginnings) :sunflower:\
+I am from `Ottawa, Canada` :maple_leaf: and currently live in `Seattle, USA` :umbrella:\
 If you're curious what I look like; a little something like this 👨‍🦰 and vertically blessed
 
-I enjoy :runner::bike:🏒:soccer::ski:🥍:video_game:, coding projects :computer:, hackathons :sleeping:, and technology ⚙ in general  
+I enjoy :runner::bike:🏒:soccer::ski:🥍:video_game:, coding projects :computer:, hackathons :sleeping:, and technology ⚙ in general\
 I have a cat named `Harvey`, [click here](/assets/img/harvey.jpg) to see how handsome he is :heart_eyes_cat:
 
-I work for `Microsoft` as a `Software Engineer` :sunglasses:  
+I work for `Microsoft` as a `Software Engineer` :sunglasses:\
 If you want to work together on something `shoot me` an [email](mailto:yo@micmax.pw)
 
 ## Projects
@@ -30,11 +30,16 @@ I like building coding projects in my spare time, most live on my [Github](https
 - [PicLoadExt](https://github.com/mic-max/picloadextension) - Browser extension that loads lower resolution images when on a slow network
 - [Battleship](https://github.com/mic-max/battleship) - Grade 11 final project written in `Java` and played on the command line
 - [Minesweeper](https://github.com/mic-max/minesweeper) - Grade 10 final project written in `Turing` with amazing graphics `/s`
-<!-- - [SMS Proxy](#) - Proxies SMS into HTTP using an `Arduino` and `SIM800L` because `TWLO` is pricey :money_with_wings: -->
-<!-- - [Github File Watcher](#) - Receive updates when a specific file in a public Github repository changes -->
-<!-- - [Cube World Renderer](#) - WebGL Renderer for Cube World objects / asset files -->
-<!-- - [Fitbit Blood Sugar](#) - Estimates your blood sugar throughout the day using your activity and food consumption -->
-<!-- - [Wifi Con](#) - Monitor your WiFi network and receive notifications when devices connect -->
+
+<!--
+
+- [SMS Proxy](#) - Proxies SMS into HTTP using an `Arduino` and `SIM800L` because `TWLO` is pricey :money_with_wings:
+- [Github File Watcher](#) - Receive updates when a specific file in a public Github repository changes
+- [Cube World Renderer](#) - WebGL Renderer for Cube World objects / asset files
+- [Fitbit Blood Sugar](#) - Estimates your blood sugar throughout the day using your activity and food consumption
+- [Wifi Con](#) - Monitor your WiFi network and receive notifications when devices connect
+
+-->
 
 ## Experience
 
@@ -49,5 +54,5 @@ Here are some of the jobs or roles I have found myself in over the past many moo
 
 ## Socials
 
-Stalk me at the following locations only; you are not invited elsewhere :unamused:  
+Stalk me at the following locations only; you are not invited elsewhere :unamused:\
 While you're at it please don't cancel me, whatever I said `x` years ago was probably a :sparkles: `joke` :sparkles:
