@@ -67,6 +67,27 @@ There is a good introduction to the “Weaire–Phelan structure” here: <http:
 
 - Thingiverse is a website dedicated to the sharing of user-created digital design files.
 
+## Pottery Stamp
+
+So my friend @yelli_r 's pottery teacher wanted to sign her pottery with a stamp instead of by hand each time.
+
+So I have the task of designing and printing a 3D stamp meant for clay in exchange for a cool mug!
+
+This reminds me of (one of) the first time(s) I earned money from programming back in the summer of spring of 2015 someone I was going to be classmates with at University I met online was building a site for a client in PHP and I helped provide the email form code and he e-transfered me $20 CAD for my time. I was officially a professional programmer!
+
+## Bear Spray Safety Clip
+
+## Shower Knob
+
+I broke my shower tap. Now it is just an exposed screw with a nut on it. Luckily I had a spare wrench and have been using that.
+It's not very classy or as convenient though. Time to print something up!
+
+## Switch Mount
+
+## Power Strip Mount
+
+## Now Spinning Shelf
+
 ## Conclusion
 
 I will definitely have a mindset of can I build this myself now whenever I have the desire to buy something. Not only would it be more fun to do, it could also be more convenient depending on the circumstances and also self-sufficient. If you want something done right, do it yourself :joy:
