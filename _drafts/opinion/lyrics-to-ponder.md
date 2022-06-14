@@ -158,3 +158,5 @@ Each one is a setting sun
 
 If I don't die or worse
 I'm gonna need a nap
+
+Flowers for the sick and dead

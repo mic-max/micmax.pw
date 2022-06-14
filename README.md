@@ -8,29 +8,22 @@ To see what I'm working on or planning at any time check [here](https://github.c
 
 1. Set the environment variable `EDITOR` = `code`
 1. Install [Ruby](https://rubyinstaller.org/downloads/)
+1. Install [Node.js](https://nodejs.org/en/download/)
+1. `npm i -g spellchecker-cli`
 1. `gem i bundler jekyll`
 1. `bundle`
 1. `bundle exec jekyll serve`
+
+### Pre Commit
+
+1. `mdl .`
+1. `deadlink`
+1. `spellchecker -f _posts/*.md -l en-CA -d dictionary.txt -q --no-suggestions`
 
 ## Writing
 
 1. `bundle exec jekyll draft "My new draft"`
 1. `bundle exec jekyll publish _drafts/my-new-draft.md`
-
-## Spelling Checker
-
-1. `npm i -g spellchecker-cli`
-1. `spellchecker -f _posts/*.md -l en-CA -d dictionary.txt -q --no-suggestions`
-
-## Dead Link Checker
-
-1. `gem i deadlink`
-1. `deadlink`
-
-## Markdown Lint
-
-1. `gem i mdl`
-1. `mdl **/*.md`
 
 ## Helper Aliases
 

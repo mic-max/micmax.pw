@@ -5,7 +5,8 @@ title: Wii and CRT All-In-One
 
 Converting my CRT that has a built-in VCR into the most portable melee setup you've ever seen
 
-- [Toshiba MV13P3 Service Manual](https://www.manualslib.com/manual/700891/Toshiba-Mv13p3.html)
+- [Toshiba MV13P3 Service Manual](/assets/files/toshiba-mv13p3-manual.pdf)
+  - [Toshiba AE002791 Remove Control](https://toshiba.encompass.com/item/5799975/Toshiba/AE002791/) 
 - [Wii Teardown Guide byiFixit](https://www.ifixit.com/Teardown/Nintendo+Wii+Teardown/812)
 - [Wii 3D Model](https://www.turbosquid.com/3d-models/nintendo-wii-3d-model/392588)
 - [Wii Revision Identification Guide](https://bitbuilt.net/forums/index.php?threads/revision-identification-guide.863/)
