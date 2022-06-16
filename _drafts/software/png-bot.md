@@ -11,3 +11,5 @@ Make a pngbot - similar to dependabot
   - Only run on the default branch - main/master
 
 <https://github.com/open-telemetry/opentelemetry.io/pull/869#issuecomment-965749094>
+
+This already exists: <https://github.com/marketplace/imgbot>

@@ -15,3 +15,5 @@ Learn something about computer vision, ask Brady for some of his cource material
 - Stage
 
 Use template matching, OCR, AI
+
+Export all this data to something like Jaeger and visualize with Grafana

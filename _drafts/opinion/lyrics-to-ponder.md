@@ -159,4 +159,9 @@ Each one is a setting sun
 If I don't die or worse
 I'm gonna need a nap
 
+They said, "there's too much caffeine
+In your bloodstream
+And a lack of real spice in your life"
+
+I need caffeine in my blood stream, I take caffeine in the blood stream
 Flowers for the sick and dead
