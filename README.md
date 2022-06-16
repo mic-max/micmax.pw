@@ -10,7 +10,7 @@ To see what I'm working on or planning at any time check [here](https://github.c
 1. Install [Ruby](https://rubyinstaller.org/downloads/)
 1. `gem i bundler jekyll`
 1. `bundle`
-1. `bundle exec jekyll serve`
+1. `bundle exec jekyll serve [--drafts]`
 
 ## Writing
 

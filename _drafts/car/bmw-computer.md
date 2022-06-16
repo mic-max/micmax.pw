@@ -41,6 +41,11 @@ tail lights - darken - toned/tinted
 license plate holder - centre?
 kidney grills
 
+Replaced windshield wiper blades (June 15, 2022). The passenger side 19" version wasn't locking in like the driver side one...
+
+- [Michelin 3724 RainForce All Weather Performance Windshield Wiper Blade, 24"](https://www.amazon.com/gp/product/B001D5BQ2C)
+- [Michelin 3719 RainForce All Weather Performance Windshield Wiper Blade, 19"](https://www.amazon.com/gp/product/B001D5A4KW)
+
 change speedometer to MPH
 
 - 2x t10 torque screws, unplug connectors, adjust steering wheel to remove from car.
