@@ -35,10 +35,11 @@ idling isn't very smooth, feel some rpm revs randomly
 custom gear shifter
 fix cup holder
 interior lights, rgb or brighter
-side lights - i think they're broken
+side lights - i think they're broken [contour cache for side blinkers](https://www.thingiverse.com/thing:3831972). get sequential blinkers!
 headlights - angel eyes
 tail lights - darken - toned/tinted
-license plate holder - centre?
+license plate holder - centre?, actually I can just remove the front plate...
+
 kidney grills
 
 Replaced windshield wiper blades (June 15, 2022). The passenger side 19" version wasn't locking in like the driver side one...

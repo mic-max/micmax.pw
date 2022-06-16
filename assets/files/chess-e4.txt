@@ -1,0 +1,252 @@
+%% https://github.com/mermaid-js/mermaid 
+
+graph TD
+    classDef mated fill:orange,color:red
+    classDef losingForWhite fill:purple
+    classDef losingForBlack fill:pink
+    classDef white fill:white
+    classDef black fill:black
+    classDef onlyMove fill:cyan
+
+    e4 -->|c5| c5[Sicilian]
+    e4 --> |e5| e5(xxx)
+    %% e4 -->|e6| French
+    %% e4 -->|c6| Caro-Kann
+    %% e4 -->|d6| Pirc
+    %% e4 -->|g6| Modern
+    %% e4 -->|d5| Scandinavian
+    %% e4 -->|Nf6| Alekhine
+    %% e4 -->|Nc6| Nimzovitsch
+
+    e4 -->|f6| f6[Barnes]
+    f6 -->|d4| f6-d4(xxx)
+    f6 -->|d4| f6-Nc3(xxx)
+
+    e4 -->|g5| g5[Borg]
+    g5 -->|d4| g5-d4(xxx)
+    g5 -->|Nc3| g5-Nc3(xxx)
+
+    g5-d4 -->|f6| fools[Fool's Mate]
+    g5-Nc3 -->|f6| fools
+    
+    e5 -->|Nf3| e5-Nf3[King's Knight]
+    e5 -->|Nc3| e5-Nc3[Vienna]
+    e5 -->|Bishop's| e5-Bc4[Bc4]
+    e5 -->|King's Gambit| e5-f4[f4]
+    e5 -->|Qh5| e5-Qh5[Wayward Queen]
+    e5 -->|Qf3| e5-Qf3[Napoleon Attack]
+    e5 -->|d4| e5-d4[Centre Game]
+
+    subgraph Wayward Queen
+    e5-Qh5 -->|Qe7| e5-Qh5-Qe7(xxx)
+    e5-Qh5 -->|d6| e5-Qh5-d6(xxx)
+    e5-Qh5 -->|Nc6| e5-Qh5-Nc6(xxx)
+    end
+
+    e5-Bc4 --> |Nf6| e5-Bc4-Nf6[Berlin Defense]:::losingForWhite
+
+    e5-f4 --> |exf4| e5-f4-exf4[Accepted]
+    e5-f4 --> |d5| e5-f4-d5[Falkbear Countergambit]
+    e5-f4 --> |Bc5| e5-f4-Bc5[Declined Classical]
+    e5-f4 --> |c5| e5-f4-c5[Mafia Defense]
+
+    e5-f4-exf4 --> |Bc4| e5-f4-exf4-Bc4[Bishop's]
+    e5-f4-exf4 --> |Nf3| e5-f4-exf4-Nf3[King's Knight]
+    e5-f4-exf4 --> |Nc3| e5-f4-exf4-Nc3[Mason-Keres]
+    e5-f4-exf4 --> |Ne2| e5-f4-exf4-Ne2[Paris]
+
+    e5-f4-exf4-Bc4 --> |Nf6| e5-f4-exf4-Bc4-Nf6(xxx)
+    e5-f4-exf4-Bc4 --> |Qh4+| e5-f4-exf4-Bc4-Qh4+(xxx)
+
+    e5-f4-exf4-Bc4-Qh4+ --> |Kf1| e5-f4-exf4-Bc4-Qh4+-Kf1(xxx)
+    e5-f4-exf4-Bc4-Qh4+ --> |Ke2| e5-f4-exf4-Bc4-Qh4+-Ke2(xxx)
+    e5-f4-exf4-Bc4-Qh4+ --> |g3| e5-f4-exf4-Bc4-Qh4+-g3(xxx):::losingForWhite
+
+    c5 -->|Nf3| c5-Nf3(xxx)
+    c5 -->|Nc3| c5-Nc3[Closed]
+    c5-Nc3 -->|Nc6| c5-Nc3-Nc6[Traditional]
+    c5-Nf3 -->|Nc6| c5-Nf3-Nc6[Old Sicilian]
+
+    c5-Nf3 -->|d6| c5-Nf3-d6(xxx)
+    c5-Nf3-d6 -->|d4| c5-Nf3-d6-d4(xxx)
+    c5-Nf3-d6-d4 -->|cxd4| c5-Nf3-d6-d4-cxd4(xxx)
+    c5-Nf3-d6-d4-cxd4 -->|Nxd4| c5-Nf3-d6-d4-cxd4-Nxd4[Open]
+
+    c5-Nf3-d6-d4-cxd4-Nxd4 -->|Nf6| c5-Nf3-d6-d4-cxd4-Nxd4-Nf6(xxx)
+
+    c5-Nf3-d6-d4-cxd4-Nxd4-Nf6 --> |Nc3| c5-Nf3-d6-d4-cxd4-Nxd4-Nf6-Nc3(xxx)
+
+    c5-Nf3-d6-d4-cxd4-Nxd4-Nf6-Nc3 --> |g6| c5-Nf3-d6-d4-cxd4-Nxd4-Nf6-Nc3-g6[Dragon]
+
+    subgraph Sicilian Open Dragon
+    c5-Nf3-d6-d4-cxd4-Nxd4-Nf6-Nc3-g6 --> |Be3| c5-Nf3-d6-d4-cxd4-Nxd4-Nf6-Nc3-g6-Be3(xxx)
+    c5-Nf3-d6-d4-cxd4-Nxd4-Nf6-Nc3-g6 --> |f3| c5-Nf3-d6-d4-cxd4-Nxd4-Nf6-Nc3-g6-f3(xxx)
+    c5-Nf3-d6-d4-cxd4-Nxd4-Nf6-Nc3-g6 --> |Be2| c5-Nf3-d6-d4-cxd4-Nxd4-Nf6-Nc3-g6-Be2[Classical]
+    c5-Nf3-d6-d4-cxd4-Nxd4-Nf6-Nc3-g6 --> |Bc4| c5-Nf3-d6-d4-cxd4-Nxd4-Nf6-Nc3-g6-Bc4(xxx)
+    c5-Nf3-d6-d4-cxd4-Nxd4-Nf6-Nc3-g6 --> |Bb5+| c5-Nf3-d6-d4-cxd4-Nxd4-Nf6-Nc3-g6-Bb5+(xxx)
+    end
+
+    e5-Nf3 --> e5-Nf3-Nc6[Nc6]
+    e5-Nf3 -->|Nf6| e5-Nf3-Nf6[Petrov's]
+    e5-Nf3 -->|d6| e5-Nf3-d6[Philidor]
+
+    e5-Nf3 -->|f6| e5-Nf3-f6[Damiano]
+    e5-Nf3 -->|Qf6| e5-Nf3-Qf6[McConnell]
+
+    e5-Nf3-Qf6 -->|Nc3| e5-Nf3-Qf6-Nc3(+1.41)
+
+    e5-Nf3-f6 -->|Nxe5| e5-Nf3-f6-Nxe5[Damiano Gambit]
+    e5-Nf3-f6 -->|Bc4| e5-Nf3-f6-Bc4(xxx)
+    e5-Nf3-f6 -->|d4| e5-Nf3-f6-d4(xxx)
+
+    e5-Nc3 -->|Nf6| e5-Nc3-Nf6[Falbear]
+    e5-Nc3 -->|Nc6| e5-Nc3-Nc6[Max Lange]
+
+    
+    e5-Nf3-Nc6 -->|Bc4| e5-Nf3-Nc6-Bc4[Italian]
+    e5-Nf3-Nc6 -->|d4| e5-Nf3-Nc6-d4[Scotch]
+    e5-Nf3-Nc6 -->|Nc3| e5-Nf3-Nc6-Nc3[Three Knights]
+
+    e5-Nf3-Nf6 -->|Nxe5| e5-Nf3-Nf6-Nxe5[Petrov's Classical]
+    e5-Nf3-Nf6-Nxe5 -->|Nxe4| e5-Nf3-Nf6-Nxe5-Nxe4[Damiano]
+    e5-Nf3-Nc6 -->|Bb5| e5-Nf3-Nc6-Bb5[Ruy Lopez]
+
+    subgraph Ruy Lopez
+    e5-Nf3-Nc6-Bb5 --> |a6| e5-Nf3-Nc6-Bb5-a6[Morphy Defense]
+    e5-Nf3-Nc6-Bb5 --> |Nf6| e5-Nf3-Nc6-Bb5-Nf6[Berlin Defense]
+    e5-Nf3-Nc6-Bb5 --> |Be7| e5-Nf3-Nc6-Bb5-Be7[Lucena]
+    e5-Nf3-Nc6-Bb5 --> |Nd4| e5-Nf3-Nc6-Bb5-Nd4[Bird's Defense]
+    e5-Nf3-Nc6-Bb5 --> |g6| e5-Nf3-Nc6-Bb5-g6[Fianchetto Defense]
+
+    e5-Nf3-Nc6-Bb5-a6 --> |Ba4| e5-Nf3-Nc6-Bb5-a6-Ba4[Columbus]
+    e5-Nf3-Nc6-Bb5-a6 --> |Bc4| e5-Nf3-Nc6-Bb5-a6-Bc4(xxx)
+    e5-Nf3-Nc6-Bb5-a6 --> |Bxc6| e5-Nf3-Nc6-Bb5-a6-Bxc6(xxx)
+
+    e5-Nf3-Nc6-Bb5-a6-Bxc6 --> |dxc6| e5-Nf3-Nc6-Bb5-a6-Bxc6-dxc6[Exchange]
+
+    e5-Nf3-Nc6-Bb5-a6-Ba4 --> |Nf6| e5-Nf3-Nc6-Bb5-a6-Ba4-Nf6(xxx)
+    e5-Nf3-Nc6-Bb5-a6-Ba4 --> |b5| e5-Nf3-Nc6-Bb5-a6-Ba4-b5[Caro]
+    e5-Nf3-Nc6-Bb5-a6-Ba4 --> |Be7| e5-Nf3-Nc6-Bb5-a6-Ba4-Be7(xxx)
+    e5-Nf3-Nc6-Bb5-a6-Ba4 --> |f5| e5-Nf3-Nc6-Bb5-a6-Ba4-f5(xxx)
+    e5-Nf3-Nc6-Bb5-a6-Ba4 --> |d6| e5-Nf3-Nc6-Bb5-a6-Ba4-d6(xxx)
+
+    e5-Nf3-Nc6-Bb5-a6-Ba4-b5 --> |Bb3| e5-Nf3-Nc6-Bb5-a6-Ba4-b5-Bb3(xxx):::onlyMove
+    end
+
+    e5-Nf3-d6 --> e5-Nf3-d6-d4[d4]
+    e5-Nf3-d6 --> e5-Nf3-d6-Bc4[Bc4]
+
+    e5-Nf3-d6-d4 -->|Nxd4| e5-Nf3-d6-d4-exd4-Nxd4[Exchange]
+
+    e5-Nc3-Nf6 -->|Nf3| e5-Nc3-Nf6-Nf3[Petrov's Three Knights]
+
+    e5-Nc3-Nf6-Nf3 -->|Nc6| e5-Nc3-Nf6-Nf3-Nc6[Four Knights]
+
+    e5-Nf3-Nc6-Bc4 -->|Bc5| e5-Nf3-Nc6-Bc4-Bc5[Giuoco Piano]
+
+    e5-Nf3-Nc6-Bc4 -->|Nd4| e5-Nf3-Nc6-Bc4-Nd4[Blackburne Shilling Gambit]
+    e5-Nf3-Nc6-Bc4-Nd4 --> |Nxd4| e5-Nf3-Nc6-Bc4-Nd4-Nxd4(xxx)
+    e5-Nf3-Nc6-Bc4-Nd4 --> |Nxe5| e5-Nf3-Nc6-Bc4-Nd4-Nxe5(xxx):::losingForWhite
+    
+    e5-Nf3-Nc6-Bc4 -->|Nf6| e5-Nf3-Nc6-Bc4-Nf6[Two Knights]
+    e5-Nf3-Nc6-Bc4 -->|h6| e5-Nf3-Nc6-Bc4-h6[Anti-Fried Liver]
+    e5-Nf3-Nc6-Bc4-h6 -->|o-o| e5-Nf3-Nc6-Bc4-h6-oo(xxx)
+    e5-Nf3-Nc6-Bc4-h6 -->|d4| e5-Nf3-Nc6-Bc4-h6-d4(xxx)
+
+    e5-Nf3-Nc6-Bc4-h6-d4 -->|exd4| e5-Nf3-Nc6-Bc4-h6-d4-exd4(xxx)
+
+    e5-Nf3-Nc6-Bc4-h6-d4-exd4 -->|o-o| e5-Nf3-Nc6-Bc4-h6-d4-exd4-oo(xxx)
+    e5-Nf3-Nc6-Bc4-h6-d4-exd4 -->|Nxd4| e5-Nf3-Nc6-Bc4-h6-d4-exd4-Nxd4(xxx)
+
+    e5-Nf3-Nc6-Bc4-h6-d4-exd4-Nxd4 -->|Nxd4| e5-Nf3-Nc6-Bc4-h6-d4-exd4-Nxd4-Nxd4(xxx)
+    e5-Nf3-Nc6-Bc4-h6-d4-exd4-Nxd4-Nxd4 -->|Qxd4| e5-Nf3-Nc6-Bc4-h6-d4-exd4-Nxd4-Nxd4-Qxd4(xxx):::losingForBlack
+
+    e5-Nf3-Nc6-Bc4-Nf6 -->|Modern Bishop's| e5-Nf3-Nc6-Bc4-Nf6-d3[d3]
+    e5-Nf3-Nc6-Bc4-Nf6 -->|Ng5| e5-Nf3-Nc6-Bc4-Nf6-Ng5[Knight Attack]
+    e5-Nf3-Nc6-Bc4-Nf6 -->|Two Knights: Open| e5-Nf3-Nc6-Bc4-Nf6-d4[d4]
+
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5 -->|d5| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5[Normal Variation]
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5 -->|Nxe4| e5-Nf3-Nc6-Bc4-Nf6-Ng5-Nxe4[Ponziani-Steinitz Gambit]
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5 -->|Bc5| e5-Nf3-Nc6-Bc4-Nf6-Ng5-Bc5[Traxler]
+
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-Nxe4 --> |Bxf7+| e5-Nf3-Nc6-Bc4-Nf6-Ng5-Nxe4-Bxf7+(xxx):::onlyMove
+
+    subgraph Guico Piano
+    e5-Nf3-Nc6-Bc4-Bc5 -->|b4| e5-Nf3-Nc6-Bc4-Bc5-b4[Evans Gambit]
+    e5-Nf3-Nc6-Bc4-Bc5 -->|c3| e5-Nf3-Nc6-Bc4-Bc5-c3(Main Line)
+    e5-Nf3-Nc6-Bc4-Bc5-c3 -->|c3| e5-Nf3-Nc6-Bc4-Bc5-c3-Nf6(Main Line)
+    e5-Nf3-Nc6-Bc4-Bc5-c3-Nf6 -->|d3| e5-Nf3-Nc6-Bc4-Bc5-c3-Nf6-d3(Pianissimo)
+    e5-Nf3-Nc6-Bc4-Bc5-c3-Nf6 -->|d4| e5-Nf3-Nc6-Bc4-Bc5-c3-Nf6-d4(Centre Attack)
+    e5-Nf3-Nc6-Bc4-Bc5-c3-Nf6 -->|b4| e5-Nf3-Nc6-Bc4-Bc5-c3-Nf6-b4(Bird's Attack)
+
+    e5-Nf3-Nc6-Bc4-Bc5-c3-Nf6-d4 -->|exd4| e5-Nf3-Nc6-Bc4-Bc5-c3-Nf6-d4-exd4(xxx)
+    e5-Nf3-Nc6-Bc4-Bc5-c3-Nf6-d4-exd4 -->|cxd4| e5-Nf3-Nc6-Bc4-Bc5-c3-Nf6-d4-exd4-cxd4(xxx)
+    e5-Nf3-Nc6-Bc4-Bc5-c3-Nf6-d4-exd4-cxd4 -->|Bb4+| e5-Nf3-Nc6-Bc4-Bc5-c3-Nf6-d4-exd4-cxd4-Bb4+(xxx)
+    e5-Nf3-Nc6-Bc4-Bc5-c3-Nf6-d4-exd4-cxd4-Bb4+ -->|Bd2| e5-Nf3-Nc6-Bc4-Bc5-c3-Nf6-d4-exd4-cxd4-Bb4+-Bd2(Main Line)
+    e5-Nf3-Nc6-Bc4-Bc5-c3-Nf6-d4-exd4-cxd4-Bb4+ -->|Nc3| e5-Nf3-Nc6-Bc4-Bc5-c3-Nf6-d4-exd4-cxd4-Bb4+-Nc3[Greco Attack]
+    end
+
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5 -->|exd5| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5(xxx)
+
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5 -->|Na5| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5[Polerio Defense]
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5 -->|b5| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-b5[Ulvestad]
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5 -->|Nb4| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nb4[Kloss Gambit]
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5 -->|Nd4| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nd4[Fritz]
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5 -->|Nxd5| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5(xxx):::losingForBlack
+
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-b5 --> |Bf1| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-b5-Bf1(xxx)
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-b5 --> |Be2| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-b5-Be2(xxx)
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-b5 --> |Bxb5| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-b5-Bxb5(xxx)
+
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nb4 --> |d6| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nb4-d6(xxx)
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nb4 --> |o-o| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nb4-oo(xxx)
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nb4 --> |Nc3| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nb4-Nc3(xxx)
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nb4 --> |d4| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nb4-d4(xxx)
+
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nb4-d6 --> |cxd6| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nb4-d6-cxd6(xxx)
+
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nb4-d6-cxd6 --> |Bxf7+| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nb4-d6-cxd6-Bxf7+(xxx)
+
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5 --> |Bb5+| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+[Bishop Check Line]
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5 --> |d3| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-d3[Kieseritzky]
+
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+ --> |Bd7| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-Bd7(xxx)
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+ --> |c6| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-c6(xxx)
+
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-Bd7 --> |Qe2| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-Bd7-Qe2(xxx)
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-Bd7 --> |Nc3| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-Bd7-Nc3(xxx)
+
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-c6 --> |dxc6| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-c6-dxc6(xxx)
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-c6-dxc6 --> |bxc6| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-c6-dxc6-bxc6(xxx)
+
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-c6-dxc6-bxc6 --> |Bd3| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-c6-dxc6-bxc6-Bd3(xxx)
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-c6-dxc6-bxc6 --> |Be2| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-c6-dxc6-bxc6-Be2(xxx)
+    
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5 -->|Nxf7| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7[Fried Liver Attack]:::white
+    subgraph Fried Liver
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7 -->|Kxf7| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7(xxx):::black
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7 -->|Qf3+| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+(xxx):::white
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+ -->|Ke6| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6(xxx):::black
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+ -->|Kg8| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Kg8[M3]:::mated
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+ -->|Qf6| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Qf6(xxx)
+
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6 -->|Nc3| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3(xxx)
+
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3 -->|Nb4| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3-Nb4(xxx)
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3 -->|Nd4| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3-Nd4(xxx)
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3 -->|Qf6| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3-Qf6(xxx)
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3 -->|Ne7| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3-Ne7(xxx)
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3 -->|Qd6| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3-Qd6(xxx)
+
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3-Nb4 -->|Bb3| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3-Nb4-Bb3(xxx)
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3-Nb4 -->|o-o| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3-Nb4-oo(xxx)
+
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3-Nb4-oo -->|c6| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3-Nb4-oo-c6(xxx):::onlyMove
+    
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3-Nd4 -->|Bxd5+| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3-Nd4-Bxd4+(xxx)
+
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3-Nd4-Bxd4+ --> |Ke7| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3-Nd4-Bxd4+-Ke7[M2]:::mated
+    end
+
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5 -->|Bb5+| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+[Bishop Check]
+ 
