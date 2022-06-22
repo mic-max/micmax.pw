@@ -18,7 +18,7 @@ To see what I'm working on or planning at any time check [here](https://github.c
 
 1. `mdl .`
 1. `deadlink`
-1. `spellchecker -f _posts/*.md -l en-CA -d dictionary.txt -q --no-suggestions`
+1. `spellchecker -f _posts -l en-CA -d dictionary.txt -q --no-suggestions`
 
 ## Writing
 
@@ -39,6 +39,7 @@ Should I add a `package.json` and make these scripts in it?
 - [Google Analytics](https://analytics.google.com/analytics/web/#/report-home/a55845382w176857085p175657346)
 - [Jekyll Front Matter](https://jekyllrb.com/docs/front-matter/)
 - [Liquid Documentation](https://shopify.github.io/liquid/)
+- [McMaster](https://www.mcmaster.com)
 - [GitHub Pages Dependencies](https://pages.github.com/versions/)
 - [Markdown Tables](https://www.tablesgenerator.com/markdown_tables)
 - [Minima Theme](https://github.com/jekyll/minima)
@@ -54,6 +55,7 @@ Should I add a `package.json` and make these scripts in it?
   - Review all jekyll mention @ tags with friends for permission and their preference of social media / account
   - Setup an email newsletter: <buttondown.email> ? for those who don't want to use an RSS reader
   - Create a stats page: <https://sylhare.github.io/2021/05/26/Generate-jekyll-blog-stats.html>
+  - Standard file names and directories: lowercase with hypens or underscores?
 - Look
   - Table of Contents for longer posts <https://www.aleksandrhovhannisyan.com/blog/jekyll-table-of-contents/>
   - Search bar

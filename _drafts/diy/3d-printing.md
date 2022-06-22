@@ -54,6 +54,14 @@ So I have the task of designing and printing a 3D stamp meant for clay in exchan
 
 This reminds me of (one of) the first time(s) I earned money from programming back in the summer of spring of 2015 someone I was going to be classmates with at University I met online was building a site for a client in PHP and I helped provide the email form code and he e-transfered me $20 CAD for my time. I was officially a professional programmer!
 
+#### V2
+
+I went with Danielle to some pottery cookout with cow dung, horse hair, and chicken feathers - the whole [shebang](https://en.wikipedia.org/wiki/Shebang_(Unix))! There I met Barb, the person who the stamp is for and had to give a hungover explanation as to why the stamp was unsatisfactory. Gonna try a version 2 and was given some clay so I could test it out myself. Since I envision more failed stamps I am going to make the handle thread into the stamp face. I already have a big collection of handle shaped things I don't know what to do with.
+
+![Failed stamp handles](/assets//img/stamp/failed-handles.jpg)
+
+
+
 ### Bear Spray Safety Clip
 
 For @katiekatie12341. She asked if I could print and mail her a safety for her bear spray since they don't ship to Canada. C'mon <udap.com>, figure it out! Anyways, the model was already available on [Thingiverse](https://www.thingiverse.com/thing:175620) so printed this at 15% infill and with four shells as the creator recommended. Mailed to her friend in North Vancouver and hopefully know her bear spray never goes off unintentionally :smile:
@@ -87,10 +95,35 @@ At least I got [this _artsy_ photo](https://twitter.com/micmax_/status/153075392
 
 ### Now Spinning Shelf
 
+### Toilet Bolt Covers
+
+The existing covers were pretty nasty so I threw them out several months ago and have been rocking the bare metal setup :metal: - just another step to boujee up my place!
+I took some inspiration from these two I found on Thingiverse.
+
+- <https://www.thingiverse.com/thing:4558867>
+- <https://www.thingiverse.com/thing:1621567>
+
+Just went with a random shape, that was able to conceal the bolt, nut and washer. I could sand and polish it to get it to look closer to the porcelaine bowl once I acquire polish and the varying degrees of grit sandpaper (200-3000). Spent about 5 minutes getting the measurements and designing it and kicking off the print. I was tempted to duplicate the model in my slicing software (since I need two of these) and run both at once but it's good practice to ensure the design works first before wasting material on a part that potentially doesn't get the job done.
+
+In fact, the resulting print did not fit. The measurements were right though for some reason the printed piece had an inner diameter of `9.74mm` when I modeled it to be `11.2mm`. My quick and lazy fix was to increase both the X and Y scale by `1.15x` in my slicing software, which hopefully gets the right size...
+
+I also have a regret on my model design since it has a crevice that will make it a little harder to clean - a design principal that I think about an unhealthy amount. If it wasn't already the next day (12:02 AM) then I might redesign it but I already have to stay up until this print finishes to test the fit, then hopefully just kick off another of the same print right after so I can make it to bed before the boogeyman gets me :fear:
+
+Anyways... here's the before and after!
+
+![Before Toilet Bolt Cover](/assets/img/toilet-bolt/before.jpg)
+![After Toilet Bolt Cover](/assets/img/toilet-bolt/after.jpg)
+
+### Magazine Display Stand
+
+I found out about [this cool magazine](https://www.lulu.com/shop/be%C3%B1at-iturbe/looney-tunes-backgrounds-zine/paperback/product-2y9wmq.html?page=1&pageSize=4) after following the instagram account [looneytunesbackgrounds](https://www.instagram.com/looneytunesbackgrounds) since I, not unlike the [self-administering coked up rats](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4156291/) TODO, need my fix of nostalgia. Anyway, this magazine is a collection of "heartfelf remakes" to some of the classics by a group of artists, one which I recognized being @glanderco. If I put this on display in my apartment people will think I am interesting and then they will like me.
+
 ### Not Printed Yet
 
 - A spool of filament
 - Articulating python
+- Gun
+- Flamethrower
 
 ## Why 3D Print Stuff
 
@@ -125,25 +158,6 @@ First of all I need to unbox and build the printer. This ended up being much eas
 I'm running OctoPrint on my laptop with a `10ft` Micro-USB cable connecting it to my printer.
 
 I also have the printer plugged into a smart outlet, this can allow me to turn off my printer once a print is done. Otherwise, the fans will continue to run - the firmware doesn't have an option to do this natively :sad:
-
-### Toilet Bolt Covers
-
-The existing covers were pretty nasty so I threw them out several months ago and have been rocking the bare metal setup :metal: - just another step to boujee up my place!
-I took some inspiration from these two I found on Thingiverse.
-
-- <https://www.thingiverse.com/thing:4558867>
-- <https://www.thingiverse.com/thing:1621567>
-
-Just went with a random shape, that was able to conceal the bolt, nut and washer. I could sand and polish it to get it to look closer to the porcelaine bowl once I acquire polish and the varying degrees of grit sandpaper (200-3000). Spent about 5 minutes getting the measurements and designing it and kicking off the print. I was tempted to duplicate the model in my slicing software (since I need two of these) and run both at once but it's good practice to ensure the design works first before wasting material on a part that potentially doesn't get the job done.
-
-In fact, the resulting print did not fit. The measurements were right though for some reason the printed piece had an inner diameter of `9.74mm` when I modeled it to be `11.2mm`. My quick and lazy fix was to increase both the X and Y scale by `1.15x` in my slicing software, which hopefully gets the right size...
-
-I also have a regret on my model design since it has a crevice that will make it a little harder to clean - a design principal that I think about an unhealthy amount. If it wasn't already the next day (12:02 AM) then I might redesign it but I already have to stay up until this print finishes to test the fit, then hopefully just kick off another of the same print right after so I can make it to bed before the boogeyman gets me :fear:
-
-Anyways... here's the before and after!
-
-![Before Toilet Bolt Cover](/assets/)
-![After Toilet Bolt Cover](/assets/)
 
 ## Conclusion
 
