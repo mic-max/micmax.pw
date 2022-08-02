@@ -58,9 +58,7 @@ This reminds me of (one of) the first time(s) I earned money from programming ba
 
 I went with Danielle to some pottery cookout with cow dung, horse hair, and chicken feathers - the whole [shebang](https://en.wikipedia.org/wiki/Shebang_(Unix))! There I met Barb, the person who the stamp is for and had to give a hungover explanation as to why the stamp was unsatisfactory. Gonna try a version 2 and was given some clay so I could test it out myself. Since I envision more failed stamps I am going to make the handle thread into the stamp face. I already have a big collection of handle shaped things I don't know what to do with.
 
-![Failed stamp handles](/assets//img/stamp/failed-handles.jpg)
-
-
+![Failed stamp handles](/assets/img/stamp/failed-handles.jpg)
 
 ### Bear Spray Safety Clip
 
@@ -73,9 +71,11 @@ PS: I was happy to help and more just happy to be thought of as someone people a
 I broke my shower tap. Now it is just an exposed screw with a nut on it. Luckily I had a spare wrench and have been using that.
 It's not very classy or as convenient though. Time to print something up!
 
+![Shower knob](/assets/img//shower-knob.jpg)
+
 ### Switch Mount
 
-Both this and the next item were custom designed for cleaning up the power and networking cables in my TV unit. First, I have a D-Link 5-port network switch that connects my TV, Xbox, Sonos Soundbar, PC to my router. 
+Both this and the next item were custom designed for cleaning up the power and networking cables in my TV unit. First, I have a D-Link 5-port network switch that connects my TV, Xbox, Sonos Soundbar, PC to my router.
 
 Tips I learned from making these:
 
@@ -85,7 +85,11 @@ Tips I learned from making these:
 - Try not to over-engineer a solution.
 - Shapr3d has no good plan for hobbyists. $30/month is not reasonable.
 
+I realized now the ultimate setup for clean cables is no cables at all. I'm running all WiFi now :sweat_smile:
+
 ### Power Strip Mount
+
+I might still do this since there is unfortunately not WiFi for electricity, thanks Nikola...
 
 ### Stubby Screwdriver
 
@@ -120,10 +124,9 @@ I found out about [this cool magazine](https://www.lulu.com/shop/be%C3%B1at-itur
 
 ### Not Printed Yet
 
-- A spool of filament
-- Articulating python
-- Gun
-- Flamethrower
+- Stove knobs
+- Spotify bar code keychain
+- Speaker stand
 
 ## Why 3D Print Stuff
 
@@ -153,9 +156,20 @@ Cons:
 
 First of all I need to unbox and build the printer. This ended up being much easier than I anticipated. As much of the printer was already pre-assembled as possible and only required me to screw in the base to the top, add the print bed, control unit with screen, and connect all the cables. The cables were pretty well labelled, but I still managed to mix up the print head thermistor with the print bed thermistor :joy: The packaging was also superb and included a 200g spool of PLA to get started.
 
+## Update Firmware
+
+[Marlin 2.1.zip](https://marlinfw.org/meta/download/)
+[Ender-5 Pro v4.2.2 Configuration Files](https://github.com/MarlinFirmware/Configurations/tree/release-2.1/config/examples/Creality/Ender-5%20Pro/CrealityV422)
+
+1. Copy all the configuration files to `/Marlin/` and overwrite existing files
+1. Install the `PlatformIO IDE` extension to VS Code
+1. Select `Project Tasks` > `STM32F103EC_creality` > `Build` (opening the tasks took a long time - just says `Loading...`)
+1. Copy the latest file named `/.pio/STM32F103RC_creality/firmware-YYYYMMDD-HHmmss.bin` to the SD card's root directory with the name `firmware.bin`
+1. To begin the update, insert the SD card and turn on the printer
+
 ## OctoPrint Setup
 
-I'm running OctoPrint on my laptop with a `10ft` Micro-USB cable connecting it to my printer.
+I'm running OctoPrint on my computer with a `10ft` Micro-USB cable connecting it to my printer. I throw the printer in my closet whenever I'm not using it to save space.
 
 I also have the printer plugged into a smart outlet, this can allow me to turn off my printer once a print is done. Otherwise, the fans will continue to run - the firmware doesn't have an option to do this natively :sad:
 
