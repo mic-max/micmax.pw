@@ -79,3 +79,4 @@ Should I add a `package.json` and make these scripts in it?
 - Search Engine Verification
   - [Bing Verify](https://wilsonmar.github.io/jekyll-site-development/)
   - [Google Verify](https://wilsonmar.github.io/jekyll-site-development/)
+- Script that finds files in the `/assets/` directory that aren't used in production or in drafts
