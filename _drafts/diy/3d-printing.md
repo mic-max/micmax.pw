@@ -54,24 +54,33 @@ So I have the task of designing and printing a 3D stamp meant for clay in exchan
 
 This reminds me of (one of) the first time(s) I earned money from programming back in the summer of spring of 2015 someone I was going to be classmates with at University I met online was building a site for a client in PHP and I helped provide the email form code and he e-transfered me $20 CAD for my time. I was officially a professional programmer!
 
+<!--
 #### V2
 
 I went with Danielle to some pottery cookout with cow dung, horse hair, and chicken feathers - the whole [shebang](https://en.wikipedia.org/wiki/Shebang_(Unix))! There I met Barb, the person who the stamp is for and had to give a hungover explanation as to why the stamp was unsatisfactory. Gonna try a version 2 and was given some clay so I could test it out myself. Since I envision more failed stamps I am going to make the handle thread into the stamp face. I already have a big collection of handle shaped things I don't know what to do with.
 
 ![Failed stamp handles](/assets/img/stamp/failed-handles.jpg)
+-->
 
 ### Bear Spray Safety Clip
 
 For @katiekatie12341. She asked if I could print and mail her a safety for her bear spray since they don't ship to Canada. C'mon <udap.com>, figure it out! Anyways, the model was already available on [Thingiverse](https://www.thingiverse.com/thing:175620) so printed this at 15% infill and with four shells as the creator recommended. Mailed to her friend in North Vancouver and hopefully know her bear spray never goes off unintentionally :smile:
 
+![Bear spray safety clip](/assets/img/bear-spray-safety.jpg)
+
 PS: I was happy to help and more just happy to be thought of as someone people are comfortable reaching out to and asking for my help.
 
 ### Shower Knob
 
-I broke my shower tap. Now it is just an exposed screw with a nut on it. Luckily I had a spare wrench and have been using that.
-It's not very classy or as convenient though. Time to print something up!
+I broke my shower tap. Now it is just an exposed screw with a nut on it. Luckily I had a spare wrench and have been using that just as my landlord ended up suggesting.
 
-![Shower knob](/assets/img//shower-knob.jpg)
+![Shower knob](/assets/img/shower-knob/wrench.jpg)
+![Shower knob](/assets/img/shower-knob/chat.png)
+
+It's not very classy or as convenient though. Time to print something up! First I replicated the part that went over the metal arm to make the prototyping phase faster. Once that piece was worked out I extended some knobs off it for the final product.
+
+![Shower knob](/assets/img/shower-knob/connector.jpg)
+![Shower knob](/assets/img/shower-knob/after.jpg)
 
 ### Switch Mount
 
@@ -124,9 +133,11 @@ I found out about [this cool magazine](https://www.lulu.com/shop/be%C3%B1at-itur
 
 ### Not Printed Yet
 
+- Soap dish
 - Stove knobs
 - Spotify bar code keychain
 - Speaker stand
+- Magazine display stand
 
 ## Why 3D Print Stuff
 
