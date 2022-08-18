@@ -12,3 +12,6 @@ I'm not sure if `Fucking Awesome` sells different style velcro pieces you can sw
 - Blank Hat
 - Designs to attach velcro to: sens patch, corona, etc.
 - Velcro
+
+- oh hello newman
+- you wouldn't steal a car

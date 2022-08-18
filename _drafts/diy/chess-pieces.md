@@ -171,7 +171,7 @@ Another thought that just popped in my head: maybe I could make a nesting type m
 
 Maybe I will get a piece that goes in the top of the mould too so when I'm not using it it looks like a solid cube. I could also get the outer block engraved with something :thinking:
 
-![Nesting Mould Concept](/assets/img/chess/pieces/nesting-mould.png)
+![Nesting Mould Concept](/assets/img/chess/nesting-mould.png)
 
 ## Smelting
 

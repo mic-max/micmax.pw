@@ -9,6 +9,7 @@ How they should be delivered
 - Built into the app (Chrome, vs code)
   - Adds complexity to the app, need to maintain a "service"
 - Just include a link to download site and inform user a new version is available (gh cli)
+  - A little annoying that my program by default is always telling me to get the new version. I don't *need* any of the features in that new version or might not care about certain bug fixes (maybe my program even relies on something considered a bug) or performance gains.
   - Still needs a "service" it would just be GET /latest-version/ => `v.2.4.1` and if it is newer, supply a link to the download page. Updating the download page or the service address would also be a difficulty.
 
 How often should they be done

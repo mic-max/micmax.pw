@@ -35,6 +35,8 @@ Should I add a `package.json` and make these scripts in it?
 ## Resources
 
 - [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
+- [Thesaurus](https://www.thesaurus.com/)
+- [Adjectives](http://adjective1.com/)
 - [Google Lighthouse](https://developers.google.com/web/tools/lighthouse)
 - [Google Analytics](https://analytics.google.com/analytics/web/#/report-home/a55845382w176857085p175657346)
 - [Jekyll Front Matter](https://jekyllrb.com/docs/front-matter/)
@@ -56,6 +58,7 @@ Should I add a `package.json` and make these scripts in it?
   - Setup an email newsletter: <buttondown.email> ? for those who don't want to use an RSS reader
   - Create a stats page: <https://sylhare.github.io/2021/05/26/Generate-jekyll-blog-stats.html>
   - Standard file names and directories: lowercase with hypens or underscores?
+  - Add reading and tv show and movie cataloging?
 - Look
   - Table of Contents for longer posts <https://www.aleksandrhovhannisyan.com/blog/jekyll-table-of-contents/>
   - Search bar
@@ -64,6 +67,7 @@ Should I add a `package.json` and make these scripts in it?
   - Image viewer - Make a liquid function to make inserting image with caption easy and the same all over the site
     - Image Gallery <https://dmnfarrell.github.io/software/jekyll-galleries> for drawings post
     - Image Carousel
+    - If a base image path is defined in the frontmatter use that
   - Add friend directory, so in a post I can just say their name like everyone knows them and hovering or clicking the link will give a quick introduction to them
   - Show last modified date: <https://dev-yakuza.posstree.com/en/jekyll/jekyll-last-modified-at/>
     - <https://tomkadwill.com/adding-last-modified-date-to-jekyll>

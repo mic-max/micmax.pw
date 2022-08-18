@@ -12,6 +12,9 @@ title: Common Git Commands
 
 TODO: set upstream when i create the branch?
 
+`git checkout main` or `git checkout master`
+  common checkouts that could get an alias
+
 `git push -u origin <feature>`
 
 `git branch -D <feature>`
@@ -25,6 +28,14 @@ TODO: set upstream when i create the branch?
   merge up-to date version of branch I am submitting a PR against (fetch first)
 
 `git log`
+
+`git restore .`
+  undo all changes to unstaged files
+
+  <!-- maybe use a `git stash` command if I want to reapply the unstaged changes -->
+
+`git fetch upstream pull/$ID/head:$BRANCHNAME` then ``
+  makes a local branch called test-branch from a PR on the upstream repo. replace upstream with origin if you're using the same repo. if the PR is from a branch on the source repo and not a fork, you can probably do something more simple like git checkout pull/$ID
 
 Aliases
 
