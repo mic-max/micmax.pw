@@ -3,7 +3,7 @@ layout: post
 title: Lyrics to Ponder
 ---
 
-An incomplete and growing collection of impactful lyrics that stood out to me. Multiple lyrics from the same song are separated by elipses, but are strong enough to stand alone. Please check out any artists or songs you haven't listened to you see here, I wish you the best, and enjoy the music :studio_microphone:
+An incomplete and growing collection of impactful lyrics that stood out to me. Multiple lyrics from the same song are separated by ellipses, but are strong enough to stand alone. Please check out any artists or songs you haven't listened to you see here, I wish you the best, and enjoy the music :studio_microphone:
 
 ### [Vampire Weekend - Campus](https://youtu.be/yP7pwm6E09U)
 
@@ -134,7 +134,7 @@ I'm going home where I'll be all alone tonight
 
 ### [Yunggoth - Crying](https://youtu.be/Pdc3oUbqrok)
 
-I don't even dream about her everynight  
+I don't even dream about her every night  
 Can't you tell that I'm lying?
 
 ### [The Kooks - Fractured and Dazed](https://youtu.be/0Su5updHCww)
