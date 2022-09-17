@@ -3,7 +3,7 @@ layout: post
 title: Lyrics to Ponder
 ---
 
-An incomplete and growing collection of impactful lyrics that stood out to me. Multiple lyrics from the same song are separated by ellipses, but are strong enough to stand alone. Please check out any artists or songs you haven't listened to you see here, I wish you the best, and enjoy the music :studio_microphone:
+An [incomplete and growing collection](https://youtube.com/playlist?list=PLN3gGIxbQaxwFdgBnDwdxl-T272lieqLP) of impactful lyrics that stood out to me. Multiple lyrics from the same song are separated by ellipses, but are strong enough to stand alone. Please check out any artists or songs you haven't listened to you see here, I wish you the best, and enjoy the music :studio_microphone:
 
 ### [Vampire Weekend - Campus](https://youtu.be/yP7pwm6E09U)
 
