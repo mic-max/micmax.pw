@@ -18,7 +18,7 @@ I mostly wanted to cover popular and widely available beers with this ranking. S
 _`S` is the best, each column is also ordered by how much I like. i.e. `Sapporo > Dos Equis`._\
 _To view this table as an image that I made on [Tier Maker](https://tiermaker.com/) the night of [click here](/assets/img/beer.png)_
 
-This tasting actually spawned a seltzer tasting a couple months later, hosted by @yelli_r :cocktail: so I consider this a success. Some valuable information was learnt from this tasting session.
+This tasting actually spawned a [seltzer tasting]({% link _posts/2022-09-27-hard-seltzer-tier-list.md %}) a couple months later, hosted by @yelli_r :cocktail: so I consider this a success. Some valuable information was learnt from this tasting session.
 
 - I will not buy myself anything <span style = "color:#FFFF8F">C</span> <span style = "color:#C3FF89">or below</span>, Heineken was surprisingly low.
 - Miller High Life is the `Champagne of Beers`
