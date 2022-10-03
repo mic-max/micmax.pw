@@ -158,7 +158,9 @@ Would I be able to use two smaller aluminum blocks welded together?
 - need to make the mould slightly larger than the desired yeilded metal object?
   - "make sure you account for any anticipated [shrinkage](https://youtu.be/GG2dF5PS0bI) when the metal cools" <https://www.thecrucible.org/guides/metalworking/metal-casting/>
 
-<https://www.grainger.com/product/GRAINGER-APPROVED-Aluminum-782RD3>
+<https://www.grainger.com/product/GRAINGER-APPROVED-Aluminum-782RD3> 6 inch `$15.91` ($14.43 subtotal. Shipping takes almost 3 weeks. So does a local pickup!)
+<https://www.amazon.com/Square-Aluminum-General-Purpose-Plate/dp/B09MH8Q6BT> 1 foot `$29.76`
+<https://www.metalsdepot.com/aluminum-products/aluminum-square-bar> 1 foot, `$37.21` ($19.38 subtotal)
 
 My new plan to expedite this project is to forego using the CNC mill at my work since I need to do a decent amount of training yet to access it and use a milling service.
 Now I just need to send a model and some moneys to a company and wait for them to do the work.

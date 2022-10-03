@@ -15,6 +15,7 @@ Uses
   - 4 speeddial buttons for artists
 - Hands free song selection on my computer! Good if I don't want to alt + tab to open search and select a particular song or artist.
 - The volume control (keyboard has but it's Fn + F1, F2 which make it a 2 handed action) I also have a touch slider volume control on my speakers but I guess that changes the volume of my whole system and not Spotify specifically. It also affects volume if I was playing on my sonos speakers, however using those while at my desk seems like an odd decision...
+- When I pause or skip a song using it rather than opening Spotify, my Alt+Tab list is not affected.
 
 Need to make a better mount for it, under monitor or secured to my simple audio listen speakers.
 

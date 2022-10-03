@@ -34,6 +34,8 @@ Should I add a `package.json` and make these scripts in it?
 
 ## Resources
 
+<!-- TODO better emoji source? https://www.fabriziomusacchio.com/blog/2021-08-16-emojis_for_Jekyll/ -->
+
 - [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/)
 - [Thesaurus](https://www.thesaurus.com/)
 - [Adjectives](http://adjective1.com/)
@@ -84,3 +86,5 @@ Should I add a `package.json` and make these scripts in it?
   - [Bing Verify](https://wilsonmar.github.io/jekyll-site-development/)
   - [Google Verify](https://wilsonmar.github.io/jekyll-site-development/)
 - Script that finds files in the `/assets/` directory that aren't used in production or in drafts
+- Archive information (prone to deletion) I'm referencing to in my links: Amazon products, etc.
+- Song links: youtube, youtube music, spotify?

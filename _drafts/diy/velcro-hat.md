@@ -15,3 +15,13 @@ I'm not sure if `Fucking Awesome` sells different style velcro pieces you can sw
 
 - oh hello newman
 - you wouldn't steal a car
+- i love you will u marry me
+- grain death
+- freddi fish
+- smith tower
+- @micmax_
+- flowers
+- donald duck
+- strawberry
+- rude dog
+- just make a patch for every concept I have a drawing about. haha

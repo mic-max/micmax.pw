@@ -165,7 +165,7 @@ The above is a simplified, but mostly correct explanation of how the proxy will 
 
 ### 4G Hardware
 
-- Unlimited Text Plan from [Tello](https://tello.com/buy/custom_plans) at $5 a month (SIM Card for $2)
+- Unlimited Text Plan from [Tello](https://tello.com/buy/custom_plans) at $5 a month (SIM Card for $2) (Actually is $7.34 due to taxes and surcharges)
 - [ESP8266 NodeMCU Dev Board](https://www.amazon.com/gp/product/B010O1G1ES) for $8
 - [SIM7000A GSM Module](https://www.amazon.com/gp/product/B0825MFP8P) for $46
 - [LTE Antenna u.FL](https://www.amazon.com/Wide-Band-Internal-LoRa-Antenna/dp/B08WJQ7ZS3) for $7 - optional upgrade.
@@ -309,3 +309,8 @@ This can be used as a base application to create more complex ones. Stay tuned I
 - [Express Server API Documentation](https://expressjs.com/en/5x/api.html)
 - [HTTP Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 - [ESP8266 Guide](https://tttapa.github.io/ESP8266/Chap14%20-%20WebSocket.html)
+- [ESP8266 Socket Server Guide](https://techtutorialsx.com/2018/06/02/esp8266-arduino-socket-server/)
+- [Efficient IoT with ESP8266, Protobuf, Grafana, Kubernetes](https://medium.com/grpc/efficient-iot-with-the-esp8266-protocol-buffers-grafana-go-and-kubernetes-a2ae214dbd29)
+- [Encoding 7bit Data for PDU in SMS Applications](https://www.codeproject.com/Tips/470755/Encoding-Decoding-7-bit-User-Data-for-SMS-PDU-PDU)
+- [Max Concurrent NodeMCU Socket Clients](https://www.esp8266.com/viewtopic.php?f=8&t=10033)
+- [Socket Server ESP32 Guide](https://www.dfrobot.com/blog-1003.html)

@@ -154,6 +154,15 @@ graph TD
     e5-Nf3-Nc6-Bc4-h6 -->|d4| e5-Nf3-Nc6-Bc4-h6-d4(xxx)
 
     e5-Nf3-Nc6-Bc4-h6-d4 -->|exd4| e5-Nf3-Nc6-Bc4-h6-d4-exd4(xxx)
+    e5-Nf3-Nc6-Bc4-h6-d4 -->|d6| e5-Nf3-Nc6-Bc4-h6-d4-d6(xxx)
+    e5-Nf3-Nc6-Bc4-h6-d4 -->|Bd6| e5-Nf3-Nc6-Bc4-h6-d4-Bd6(xxx)
+    e5-Nf3-Nc6-Bc4-h6-d4 -->|Qe7| e5-Nf3-Nc6-Bc4-h6-d4-Qe7(xxx)
+    e5-Nf3-Nc6-Bc4-h6-d4 -->|Qf6| e5-Nf3-Nc6-Bc4-h6-d4-Qf6(xxx)
+
+    e5-Nf3-Nc6-Bc4-h6-d4 -->|d5| e5-Nf3-Nc6-Bc4-h6-d4-d5(xxx):::losingForBlack
+    e5-Nf3-Nc6-Bc4-h6-d4 -->|Nf6| e5-Nf3-Nc6-Bc4-h6-Nf6(xxx):::losingForBlack
+
+    e5-Nf3-Nc6-Bc4-h6-Nf6 -->|Nxe5| e5-Nf3-Nc6-Bc4-h6-Nf6-Nxe5(xxx)
 
     e5-Nf3-Nc6-Bc4-h6-d4-exd4 -->|o-o| e5-Nf3-Nc6-Bc4-h6-d4-exd4-oo(xxx)
     e5-Nf3-Nc6-Bc4-h6-d4-exd4 -->|Nxd4| e5-Nf3-Nc6-Bc4-h6-d4-exd4-Nxd4(xxx)
@@ -174,10 +183,14 @@ graph TD
     subgraph Guico Piano
     e5-Nf3-Nc6-Bc4-Bc5 -->|b4| e5-Nf3-Nc6-Bc4-Bc5-b4[Evans Gambit]
     e5-Nf3-Nc6-Bc4-Bc5 -->|c3| e5-Nf3-Nc6-Bc4-Bc5-c3(Main Line)
+
     e5-Nf3-Nc6-Bc4-Bc5-c3 -->|c3| e5-Nf3-Nc6-Bc4-Bc5-c3-Nf6(Main Line)
     e5-Nf3-Nc6-Bc4-Bc5-c3-Nf6 -->|d3| e5-Nf3-Nc6-Bc4-Bc5-c3-Nf6-d3(Pianissimo)
     e5-Nf3-Nc6-Bc4-Bc5-c3-Nf6 -->|d4| e5-Nf3-Nc6-Bc4-Bc5-c3-Nf6-d4(Centre Attack)
     e5-Nf3-Nc6-Bc4-Bc5-c3-Nf6 -->|b4| e5-Nf3-Nc6-Bc4-Bc5-c3-Nf6-b4(Bird's Attack)
+
+    e5-Nf3-Nc6-Bc4-Bc5-c3 -->|a6| e5-Nf3-Nc6-Bc4-Bc5-c3-a6(xxx)
+    e5-Nf3-Nc6-Bc4-Bc5-c3-a6 -->|d4| e5-Nf3-Nc6-Bc4-Bc5-c3-a6-d4(xxx)
 
     e5-Nf3-Nc6-Bc4-Bc5-c3-Nf6-d4 -->|exd4| e5-Nf3-Nc6-Bc4-Bc5-c3-Nf6-d4-exd4(xxx)
     e5-Nf3-Nc6-Bc4-Bc5-c3-Nf6-d4-exd4 -->|cxd4| e5-Nf3-Nc6-Bc4-Bc5-c3-Nf6-d4-exd4-cxd4(xxx)
@@ -210,17 +223,22 @@ graph TD
     e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5 --> |Bb5+| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+[Bishop Check Line]
     e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5 --> |d3| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-d3[Kieseritzky]
 
-    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+ --> |Bd7| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-Bd7(xxx)
     e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+ --> |c6| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-c6(xxx)
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+ --> |Bd7| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-Bd7(xxx)
 
     e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-Bd7 --> |Qe2| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-Bd7-Qe2(xxx)
     e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-Bd7 --> |Nc3| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-Bd7-Nc3(xxx)
 
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-Bd7-Qe2 --> |Bd6| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-Bd7-Qe2-Bd6(xxx)
+
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-Bd7-Qe2-Bd6 --> |Bxd7| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-Bd7-Qe2-Bd6-Bxd7(xxx)
+
     e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-c6 --> |dxc6| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-c6-dxc6(xxx)
     e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-c6-dxc6 --> |bxc6| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-c6-dxc6-bxc6(xxx)
 
-    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-c6-dxc6-bxc6 --> |Bd3| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-c6-dxc6-bxc6-Bd3(xxx)
     e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-c6-dxc6-bxc6 --> |Be2| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-c6-dxc6-bxc6-Be2(xxx)
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-c6-dxc6-bxc6 --> |Bd3| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-c6-dxc6-bxc6-Bd3(xxx)
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-c6-dxc6-bxc6 --> |Qf3| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+-c6-dxc6-bxc6-Qf3(xxx)
     
     e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5 -->|Nxf7| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7[Fried Liver Attack]:::white
     subgraph Fried Liver
@@ -235,7 +253,7 @@ graph TD
     e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3 -->|Nb4| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3-Nb4(xxx)
     e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3 -->|Nd4| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3-Nd4(xxx)
     e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3 -->|Qf6| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3-Qf6(xxx)
-    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3 -->|Ne7| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3-Ne7(xxx)
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3 -->|Ne7| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3-Ne7(Fegatello Attack)
     e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3 -->|Qd6| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3-Qd6(xxx)
 
     e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3-Nb4 -->|Bb3| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3-Nb4-Bb3(xxx)
@@ -246,6 +264,8 @@ graph TD
     e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3-Nd4 -->|Bxd5+| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3-Nd4-Bxd4+(xxx)
 
     e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3-Nd4-Bxd4+ --> |Ke7| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3-Nd4-Bxd4+-Ke7[M2]:::mated
+
+    e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3-Ne7 -->|d4| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Nxd5-Nxf7-Kxf7-Qf3+-Ke6-Nc3-Ne7-d4(xxx)
     end
 
     e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5 -->|Bb5+| e5-Nf3-Nc6-Bc4-Nf6-Ng5-d5-exd5-Na5-Bb5+[Bishop Check]
