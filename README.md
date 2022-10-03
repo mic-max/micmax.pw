@@ -88,3 +88,4 @@ Should I add a `package.json` and make these scripts in it?
 - Script that finds files in the `/assets/` directory that aren't used in production or in drafts
 - Archive information (prone to deletion) I'm referencing to in my links: Amazon products, etc.
 - Song links: youtube, youtube music, spotify?
+- Only build and publish when the `_posts` or `assets` directory contents have changed
