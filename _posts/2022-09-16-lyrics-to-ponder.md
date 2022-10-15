@@ -298,3 +298,86 @@ And it feels nice to hear someone else's voice
 It's so easy to laugh  
 It's so easy to hate  
 It takes strength to be gentle and kind
+
+### [Built to Spill - You Were Right](https://youtu.be/nDUEeu1ocUA)
+
+Life goes on long after the thrill of living is gone
+You were right when you said
+This is the end
+
+### [Built to Spill - Carry the Zero](https://youtu.be/eZ7MFTBjJS8)
+
+And you've become
+What you thought was dumb
+A fraction of the sum
+
+### [Bright Eyes - First Day of My Life](https://youtu.be/2ETCo4sl_90)
+
+This is the first day of my life
+I'm glad I didn't die before I met you
+But, now I don't care, I could go anywhere with you
+And I'd probably be happy
+
+### [The Crookes - The I Love You Bridge](https://youtu.be/XCNSzhsTDr8)
+
+Who cares she told him no?
+It's the gesture, don't you know?
+And we'll cling on and we won't let go
+
+### [Modest Mouse - Custom Concern](https://youtu.be/ZQC4XbYvHUo)
+
+Gotta go to work, gotta go to work, gotta have a job
+
+### [The Beatles - Strawberry Fields Forever](https://youtu.be/HtUH9z_Oey8)
+
+Living is easy with eyes closed
+Misunderstanding all you see
+It's getting hard to be someone
+But it all works out
+...
+No one I think is in my tree
+I mean, it must be high or low
+That is, you can't, you know, tune in
+But it's alright
+That is, I think it's not too bad
+...
+Cranberry sauce
+
+### [Mackned x Lil Peep x Lil Tracy - Pictures 2](https://youtu.be/5SyKpzBYPik)
+
+Can't afford to fall in love with you
+Not today, girl
+...
+They say life is a bitch, and I miss her
+
+### [Modest Mouse - The World At Large](https://youtu.be/FIJKJdsAszw)
+
+You said that you did, but you didn't understand
+
+### [Built to Spill - Big Dipper](https://youtu.be/G1r0YvVg_nc)
+
+He thought an Albertson's stir fry dinner would make his apartment a home
+
+### [Silver Jews - The Frontier Index](https://youtu.be/f09NRpNQMbw)
+
+Boy wants a car from his dad.
+Dad says "First you got to cut that hair"
+Boy says "Hey Dad, Jesus had long hair"
+And Dad says "That's right Son, Jesus walked everywhere"
+
+### [Built to Spill - The Weather](https://youtu.be/e4p2InPpqoo)
+
+And as long as its talking with you
+Talk of the weather will do
+
+### [Modest Mouse - Dramamine](https://youtu.be/dXBEuQwy5NU)
+
+We kiss on the mouth but still cough down our sleeves
+
+### [Cigarettes After Sex - Each Time You Fall In Love](https://youtu.be/caxGz3cs7-Y)
+
+All I wanna know is if you love her how come you never give in
+
+## Post Script
+
+Built to Spill has a cool [handwritten lyric section](https://www.builttospill.com/lyrics) on their website for all their songs.
