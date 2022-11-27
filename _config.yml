@@ -28,7 +28,8 @@ header_pages:
 exclude:
   - CNAME
   - README.md
-  - comments.md 
+  - comments.md
+  - assets/cad/
 
 # Plugins Installed
 
