@@ -1,0 +1,132 @@
+%% https://github.com/mermaid-js/mermaid 
+%% https://mermaid.live/
+
+graph TD
+    classDef w fill:#666;
+    classDef eng stroke:#f0f;
+    classDef weng fill:#666,stroke:#f0f;
+    
+    b4(Evans Gambit) -->|Bxb4| Bxb4(Evan's Gambit Accepted 83%):::eng
+    b4 -->|Bb6| Bb6(Evan's Gambit Declined 15%)
+    b4 -->|d5| d5(Hein Countergambit 1%)
+    b4 -->|Be7| Be7
+    b4 -->|Nxb4| Nxd4
+    b4 -->|Bd6| Bd6
+
+    %% Why is Nxb4 unpopular? better places to put the bishop like a5?
+    %% While the knight would be forced back to c6?
+
+    Bxb4 -->|c3| Bxb4-c3(99%):::weng
+
+    %% 5...
+    Bxb4-c3 -->|Ba5| Bxb4-c3-Ba5(Main Line 51%):::eng
+    Bxb4-c3 -->|Be7| Bxb4-c3-Be7(Anderssen 25%)
+    Bxb4-c3 -->|Bc5| Bxb4-c3-Bc5(McDonnell 16%) %% more popular than Be7 on Lichess
+    Bxb4-c3 -->|Bd6| Bxb4-c3-Bd6(Stone-Ware 6%)
+    Bxb4-c3 -->|Bf8| Bxb4-c3-Bf8(Mayet)
+
+    %% 6.
+    Bxb4-c3-Ba5 -->|d4| Bxb4-c3-Ba5-d4(80%):::weng
+    Bxb4-c3-Ba5 -->|O-O| Bxb4-c3-Ba5-OO(16%):::w
+    Bxb4-c3-Ba5 -->|Qb3| Bxb4-c3-Ba5-Qb3(3%):::w
+
+    Bxb4-c3-Bc5 -->|d4| Bxb4-c3-Bc5-d4(%):::weng
+
+    %% 6...
+    Bxb4-c3-Ba5-d4 -->|exd4| Bxb4-c3-Ba5-d4-exd4(Pierce 58%)
+    Bxb4-c3-Ba5-d4 -->|d6| Bxb4-c3-Ba5-d4-d6(Bronstein 35%):::eng
+
+    Bxb4-c3-Bc5-d4 -->|exd4| Bxb4-c3-Bc5-d4-exd4(94%):::eng
+    Bxb4-c3-Bc5-d4 -->|Bb6| Bxb4-c3-Bc5-d4-Bb6(2%)
+
+    %% 7.
+    Bxb4-c3-Ba5-d4-exd4 -->|O-O| Bxb4-c3-Ba5-d4-exd4-OO(79%):::w
+    Bxb4-c3-Ba5-d4-exd4 -->|Qb3| Bxb4-c3-Ba5-d4-exd4-Qb3(20%):::w
+
+    Bxb4-c3-Ba5-d4-d6 -->|Qb3| Bxb4-c3-Ba5-d4-d6-Qb3(Tartakower 63%):::weng
+    Bxb4-c3-Ba5-d4-d6 -->|O-O| Bxb4-c3-Ba5-d4-d6-OO(Lasker 29%):::w
+    Bxb4-c3-Ba5-d4-d6 -->|Bg5| Bxb4-c3-Ba5-d4-d6-Bg5(Sokolsky 2%):::w
+
+    Bxb4-c3-Bc5-d4-exd4 -->|cxd4| Bxb4-c3-Bc5-d4-exd4-cxd4(28%):::weng
+    Bxb4-c3-Bc5-d4-exd4 -->|O-O| Bxb4-c3-Bc5-d4-exd4-OO(72%):::w
+
+    %% 7...
+
+    Bxb4-c3-Bc5-d4-exd4-cxd4 -->|Bb6| Bxb4-c3-Bc5-d4-exd4-cxd4-Bb6(77%, 24%):::eng
+    Bxb4-c3-Bc5-d4-exd4-cxd4 -->|Bb4+| Bxb4-c3-Bc5-d4-exd4-cxd4-Bb4(22%, 72%)
+
+    %% 8.
+    Bxb4-c3-Bc5-d4-exd4-cxd4-Bb4 -->|Nbd2| Bxb4-c3-Bc5-d4-exd4-cxd4-Bb4-Nbd2(%):::w
+    Bxb4-c3-Bc5-d4-exd4-cxd4-Bb4 -->|Bd2| Bxb4-c3-Bc5-d4-exd4-cxd4-Bb4-Bd2(%):::w
+    Bxb4-c3-Bc5-d4-exd4-cxd4-Bb4 -->|Tu1
+    | Bxb4-c3-Bc5-d4-exd4-cxd4-Bb4-Kf1(%):::w
+
+    %% exd4 Castle
+    Bxb4-c3-Ba5-d4-exd4-OO -->|d6| Bxb4-c3-Ba5-d4-exd4-OO-d6(Waller 29%)
+    Bxb4-c3-Ba5-d4-exd4-OO -->|dxc3| Bxb4-c3-Ba5-d4-exd4-OO-dxc3(EA, Pierce, Compromised Defense 20%)
+    Bxb4-c3-Ba5-d4-exd4-OO -->|Nge7| Bxb4-c3-Ba5-d4-exd4-OO-Nge7(15%)
+    Bxb4-c3-Ba5-d4-exd4-OO -->|Bb6| Bxb4-c3-Ba5-d4-exd4-OO-Bb6(14%)
+    Bxb4-c3-Ba5-d4-exd4-OO -->|Nf6| Bxb4-c3-Ba5-d4-exd4-OO-Nf6(Anderssen 12%)
+    Bxb4-c3-Ba5-d4-exd4-OO -->|d3| Bxb4-c3-Ba5-d4-exd4-OO-d3(Dufresne 8%)
+
+    %% Tartakower
+    Bxb4-c3-Ba5-d4-d6-Qb3 -->|Qd7| Bxb4-c3-Ba5-d4-d6-Qb3-Qd7(88%):::eng
+    Bxb4-c3-Ba5-d4-d6-Qb3 -->|Qe7| Bxb4-c3-Ba5-d4-d6-Qb3-Qe7(4%)
+
+    Bxb4-c3-Ba5-d4-d6-Qb3-Qd7 -->|dxe5| Bxb4-c3-Ba5-d4-d6-Qb3-Qd7-dxe5(62%):::w
+    Bxb4-c3-Ba5-d4-d6-Qb3-Qd7 -->|O-O| Bxb4-c3-Ba5-d4-d6-Qb3-Qd7-OO(23%):::weng
+    Bxb4-c3-Ba5-d4-d6-Qb3-Qd7 -->|Nbd2| Bxb4-c3-Ba5-d4-d6-Qb3-Qd7-Nbd2(13%):::weng
+
+    Bxb4-c3-Ba5-d4-d6-Qb3-Qd7-OO -->|Bb6| Bxb4-c3-Ba5-d4-d6-Qb3-Qd7-OO-Bb6(%)
+
+    Bxb4-c3-Ba5-d4-d6-Qb3-Qd7-OO-Bb6 -->|Nbd2| Bxb4-c3-Ba5-d4-d6-Qb3-Qd7-OO-Bb6-Nbd2(%):::w
+
+    Bxb4-c3-Ba5-d4-d6-Qb3-Qd7-Nbd2 -->|exd4| Bxb4-c3-Ba5-d4-d6-Qb3-Qd7-Nbd2-exd4(%)
+    Bxb4-c3-Ba5-d4-d6-Qb3-Qd7-Nbd2 -->|Bb6| Bxb4-c3-Ba5-d4-d6-Qb3-Qd7-Nbd2-Bb6(%)
+    Bxb4-c3-Ba5-d4-d6-Qb3-Qd7-Nbd2 -->|Nf6| Bxb4-c3-Ba5-d4-d6-Qb3-Qd7-Nbd2-Nf6(%)
+
+    Bxb4-c3-Ba5-d4-d6-Qb3-Qd7-dxe5 -->|Bb6| Bxb4-c3-Ba5-d4-d6-Qb3-Qd7-dxe5-Bb6(%)
+
+    Bxb4-c3-Ba5-d4-d6-Qb3-Qe7 -->|d5, dxe5, O-O, Ba3| Bxb4-c3-Ba5-d4-d6-Qb3-Qe7-xxx(%):::w
+
+    Bxb4-c3-Ba5-d4-d6-Qb3-Qd7-dxe5-OO -->|Bb6| Bxb4-c3-Ba5-d4-d6-Qb3-Qd7-dxe5-OO-Bb6(%)
+    Bxb4-c3-Ba5-d4-d6-Qb3-Qd7-dxe5-Bb6 -->|Nbd2| Bxb4-c3-Ba5-d4-d6-Qb3-Qd7-dxe5-OO-Bb6-Nbd2(%)
+
+    Bxb4-c3-Ba5-d4-d6-Qb3-Qd7-dxe5-Nbd2 -->|Bb6| Bxb4-c3-Ba5-d4-d6-Qb3-Qd7-dxe5-Nbd2-Bb6(%)
+    
+
+
+    %% Lasker
+    Bxb4-c3-Ba5-d4-d6-OO -->|exd4| Bxb4-c3-Ba5-d4-d6-OO-exd4(Waller 59%)
+    Bxb4-c3-Ba5-d4-d6-OO -->|Bb6| Bxb4-c3-Ba5-d4-d6-OO-Bb6(Slow 26%)
+    Bxb4-c3-Ba5-d4-d6-OO -->|Bg4| Bxb4-c3-Ba5-d4-d6-OO-Bg4(6%)
+    Bxb4-c3-Ba5-d4-d6-OO -->|Bd7| Bxb4-c3-Ba5-d4-d6-OO-Bd7(Slow Sanders-Alapin 4%)
+    Bxb4-c3-Ba5-d4-d6-OO -->|Nf6| Bxb4-c3-Ba5-d4-d6-OO-Nf6(4%)
+
+    Bxb4-c3-Ba5-d4-exd4-OO-d6 -->|cxd4| Bxb4-c3-Ba5-d4-exd4-OO-d6-cxd4(66%):::w
+    Bxb4-c3-Ba5-d4-exd4-OO-d6 -->|Qb3| Bxb4-c3-Ba5-d4-exd4-OO-d6-Qb3(30%):::w
+
+    Bxb4-c3-Ba5-d4-exd4-OO-d6-cxd4 -->|Bb6| Bxb4-c3-Ba5-d4-exd4-OO-d6-cxd4-Bb6(McDonnell 95%)
+
+    Bxb4-c3-Ba5-d4-exd4-OO-d6-cxd4-Bb6 -->|d5| Bxb4-c3-Ba5-d4-exd4-OO-d6-cxd4-Bb6-d5(39%):::w
+    Bxb4-c3-Ba5-d4-exd4-OO-d6-cxd4-Bb6 -->|Nc3| Bxb4-c3-Ba5-d4-exd4-OO-d6-cxd4-Bb6-Nc3(Morphy Attack 37%):::w
+    Bxb4-c3-Ba5-d4-exd4-OO-d6-cxd4-Bb6 -->|Bb2| Bxb4-c3-Ba5-d4-exd4-OO-d6-cxd4-Bb6-Bb2(9%):::w
+    Bxb4-c3-Ba5-d4-exd4-OO-d6-cxd4-Bb6 -->|h3| Bxb4-c3-Ba5-d4-exd4-OO-d6-cxd4-Bb6-h3(7%):::w
+
+    Bxb4-c3-Ba5-d4-exd4-OO-d6-cxd4-Bb6-d5 -->|Na5| Bxb4-c3-Ba5-d4-exd4-OO-d6-cxd4-Bb6-d5-Na5(73%)
+    Bxb4-c3-Ba5-d4-exd4-OO-d6-cxd4-Bb6-d5 -->|Nce7| Bxb4-c3-Ba5-d4-exd4-OO-d6-cxd4-Bb6-d5-Nce7(17%)
+
+    Bxb4-c3-Ba5-d4-exd4-OO-d6-cxd4-Bb6-d5-Na5 -->|Bb2| Bxb4-c3-Ba5-d4-exd4-OO-d6-cxd4-Bb6-d5-Na5-Bb2(Ulvestad 79%):::w
+    Bxb4-c3-Ba5-d4-exd4-OO-d6-cxd4-Bb6-d5-Na5 -->|Bd3| Bxb4-c3-Ba5-d4-exd4-OO-d6-cxd4-Bb6-d5-Na5-Bd3(12%):::w
+    Bxb4-c3-Ba5-d4-exd4-OO-d6-cxd4-Bb6-d5-Na5 -->|e5| Bxb4-c3-Ba5-d4-exd4-OO-d6-cxd4-Bb6-d5-Na5-e5(7%):::w
+
+    Bxb4-c3-Ba5-d4-exd4-OO-dxc3 -->|Qb3| Bxb4-c3-Ba5-d4-exd4-OO-dxc3-Qb3(97%):::w
+
+    Bxb4-c3-Ba5-d4-exd4-OO-dxc3-Qb3 -->|Qf6| Bxb4-c3-Ba5-d4-exd4-OO-dxc3-Qb3-Qf6(82%)
+    Bxb4-c3-Ba5-d4-exd4-OO-dxc3-Qb3 -->|Qe7| Bxb4-c3-Ba5-d4-exd4-OO-dxc3-Qb3-Qe7(18%)
+
+    Bxb4-c3-Ba5-d4-exd4-OO-d6-cxd4-Bb6-d5-Na5-Bb2 -->|Ne7| Bxb4-c3-Ba5-d4-exd4-OO-d6-cxd4-Bb6-d5-Na5-Bb2-Ne7(Paulsen 79%)
+    Bxb4-c3-Ba5-d4-exd4-OO-d6-cxd4-Bb6-d5-Na5-Bb2 -->|Nf6| Bxb4-c3-Ba5-d4-exd4-OO-d6-cxd4-Bb6-d5-Na5-Bb2-Nf6(%)
+    Bxb4-c3-Ba5-d4-exd4-OO-d6-cxd4-Bb6-d5-Na5-Bb2 -->|f6| Bxb4-c3-Ba5-d4-exd4-OO-d6-cxd4-Bb6-d5-Na5-Bb2-f6(%)
+    
+    Bxb4-c3-Ba5-d4-exd4-OO-d6-cxd4-Bb6-d5-Na5-Bb2-Ne7 -->|Bd3| Bxb4-c3-Ba5-d4-exd4-OO-d6-cxd4-Bb6-d5-Na5-Bb2-Ne7-Bd3(97%):::w

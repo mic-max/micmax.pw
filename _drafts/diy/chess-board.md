@@ -23,12 +23,18 @@ Bill of materials: ~$138
 
 [How to Make a Chess Board](https://generaltools.com/blog/how-to-make-a-chess-board/)
 
+<https://www.instructables.com/DIY-Chessboard/>
+
 [Measure Kerf](https://youtu.be/N_BAjy4R8lg)
 Simply make a cut not completely through and measure the size of the gap left by the blade using kalipers.
 
 ![Blueprint for board cuts](/assets/img/chess-board/blueprint.png)
 
 TODO: the 7 cuts on the glued together boards will also reduce the square size by 7 * .125".
+
+grain in direction of ranksuse sawdust to pack cracks and sand downclamp vertically too while horizontally glueing to prevent it from crowningrouter the edges, cut into the squares at the middle, and cut top and bottom of into.where can i leave the boards to dry? table space.
+
+Etch the A-H ranks and 1-8 files with the laser cutter? Initial alignment would be crucial.
 
 ## Result
 

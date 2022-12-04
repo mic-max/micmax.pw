@@ -7,6 +7,8 @@ I saw a hat that had a velcro'd on design when I was browsing at North [35th Nor
 
 I'm not sure if `Fucking Awesome` sells different style velcro pieces you can swap out or not. They should! One drawback is that the size and shape of the velcro pieces that is sewn to the hat is not changeable. So if you wanted just a small design, you would be able to see the soft black velcro behind it an sticking out on the edges. Maybe we can get around that by using a few smaller circular velcro mounting points, then if you want a small design just use smaller patches and even it would look decent with them being empty.
 
+<https://www.brotherse400.com/brother-se400-cap-hoop/>
+
 ## Materials
 
 - Blank Hat
@@ -25,3 +27,4 @@ I'm not sure if `Fucking Awesome` sells different style velcro pieces you can sw
 - strawberry
 - rude dog
 - just make a patch for every concept I have a drawing about. haha
+- baise-le, nous ballons!

@@ -9,7 +9,7 @@ gem "minima", github: "jekyll/minima"
 gem "tzinfo", "~> 2.0.4"
 gem "tzinfo-data", "~> 1.2022.1"
 gem "webrick", "~> 1.7.0"
-gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
+gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # Loaded before Jekyll starts
 # Ref: https://jekyllrb.com/docs/plugins/installation/

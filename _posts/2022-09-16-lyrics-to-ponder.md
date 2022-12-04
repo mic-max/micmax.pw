@@ -386,6 +386,42 @@ That was never meant to be permanent for me
 I can’t stand living here, the more I do the more I fear the ground  
 Below will slowly come to be permanent for me
 
+### [Arctic Monkeys - Body Paint](https://youtu.be/6zgEObNc_-k)
+
+For a master of deception and subterfuge  
+You've made yourself quite the bed to lie in  
+...  
+And if you're thinking of me, I'm probably thinking of you
+
+### [Built to Spill - Happiness](https://youtu.be/0Tb0gvlZwwU)
+
+You don't have to be so cruel  
+'Cause all I do is a little less than what I can
+
+### [Built to Spill - Fool's Gold](https://youtu.be/qsOaFwyu2L0)
+
+I'm gonna keep tryin'  
+If I don't keep tryin', I'm never gonna make it
+
+### [Built to Spill - Strange](https://youtu.be/9PWeWi9k74c)
+
+You're not listening or  
+I'm not saying it right
+
+### [Built to Spill - Center of the Universe](https://youtu.be/IcyI-UtjssQ)
+
+I heard what I said to you  
+Thought it was all understood  
+But I wasn't getting through  
+I'd go on if I could
+
+### [The Front Bottoms - Be Nice To Me](https://youtu.be/QhcAJC_3heA)
+
+You say I'm changing  
+Sorry I didn't know I had to stay the same  
+Can we talk about this later?  
+Your voice is driving me, driving me insane
+
 ## Post Script
 
 Built to Spill has a cool [handwritten lyric section](https://www.builttospill.com/lyrics) on their website for all their songs.

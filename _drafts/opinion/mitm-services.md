@@ -6,6 +6,8 @@ title: Man in the Middle Services
 Uber, grubhub, airbnb, ticketmaster, cameo.
 Their fees are crazy, the implementation should be easy enough. Like craigslist and facebook marketplace are free places to sell physical things.
 
+isn't cryptocurrency supposed to fix this!?
+
 guess how much it would cost to run uber servers for example in a location.
 
 ## Driving Humans vs. Delivering Food
