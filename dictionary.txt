@@ -13,6 +13,7 @@ Arabella
 Artois
 Barcode
 Beyblade
+Bezier
 Blanco
 Bottlemen
 Bueler
@@ -23,6 +24,7 @@ Cosmo
 Creality
 Cristoforo
 Customisable
+DAC
 DIY
 Darko
 Denzel
@@ -32,6 +34,7 @@ E90
 Eisenberg
 ElementTree
 Ender
+Epilog
 Equis
 Farren
 Fusion360
@@ -39,9 +42,13 @@ Futsal
 HTML5
 Hallowe'en
 Helens
+Holdfasts
+Inkscape
+Isopropyl
 JHR-Auto
 JT
 Kanye
+Kerf
 Keychain
 Kiriboh
 Krabs
@@ -52,12 +59,14 @@ MERA
 MLB
 MSFT
 Maslow's
+Mateo
 Modelo
 NELK
 Neumos
 Nikola
 Nothin
 Ngerukewid
+O2
 OBD
 OSS
 OctoPrint
@@ -75,6 +84,7 @@ QFC
 QHacks
 RainForce
 Rosenstock
+SDAC
 STL
 Scooby-Doo
 Sevenfold
@@ -93,7 +103,9 @@ UI
 UW
 UX
 Uncategorised
+V1
 V2
+Visio
 Visualisation
 Waveline
 Wayback
@@ -143,14 +155,17 @@ learnt
 les
 lott
 lovin
+minimise
 modeled
 natively
 no-brainer
 numbies
+paraxial
 plourde_e
 pre-assembled
 pre-sliced
 programmatically
+realisation
 realise
 realised
 recency
@@ -170,6 +185,7 @@ thinkin
 tryna
 virality
 vroom
+visualising
 webpage
 workin
 xDrive
