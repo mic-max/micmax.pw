@@ -5,8 +5,10 @@
 3OH
 4a
 AirLink
+Albertson's
 Alani
 Alrighty
+Alt-oids
 Anders
 Antarctigo
 Arabella
@@ -15,9 +17,11 @@ Barcode
 Beyblade
 Bezier
 Blanco
+Blick
 Bottlemen
 Bueler
 Bundy
+Center
 C'mon
 Californian-roadtrip
 Cosmo
@@ -25,6 +29,7 @@ Creality
 Cristoforo
 Customisable
 DAC
+Dalle-2
 DIY
 Darko
 Denzel
@@ -43,9 +48,11 @@ HTML5
 Hallowe'en
 Helens
 Holdfasts
+ITM
 Inkscape
 Isopropyl
 JHR-Auto
+JavaScape
 JT
 Kanye
 Kerf
@@ -54,11 +61,13 @@ Kiriboh
 Krabs
 Kraken
 Lil
+Luftballons
 Muscleboy
 MERA
 MLB
 MSFT
 Maslow's
+Mackned
 Mateo
 Modelo
 NELK
@@ -67,6 +76,7 @@ Nikola
 Nothin
 Ngerukewid
 O2
+Ob-La-Da
 OBD
 OSS
 OctoPrint
@@ -84,11 +94,14 @@ QFC
 QHacks
 RainForce
 Rosenstock
+RuneScape
 SDAC
 STL
 Scooby-Doo
+Seatbelt
 Sevenfold
 Shapr
+Shoutout
 Sifaka
 Spotify
 Sonos
@@ -148,6 +161,7 @@ impactful
 ip
 jankily
 jenn_maxwell
+judgement
 killin
 kilometers
 lbum
@@ -169,6 +183,7 @@ realisation
 realise
 realised
 recency
+recognise
 redeemin
 rewatch
 rewatched
@@ -182,6 +197,7 @@ strawpoll
 thermistor
 thingamajigger
 thinkin
+tryin
 tryna
 virality
 vroom
