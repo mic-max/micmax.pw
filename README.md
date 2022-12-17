@@ -12,13 +12,14 @@ To see what I'm working on or planning at any time check [here](https://github.c
 1. `npm i -g spellchecker-cli`
 1. `gem i bundler jekyll`
 1. `bundle`
-1. `bundle exec jekyll serve [--drafts]`
+1. `bundle exec jekyll serve [--drafts] [--livereload]`
 
 ### Pre Commit
 
 1. `mdl .`
 1. `deadlink`
 1. `spellchecker -f _posts -l en-CA -d dictionary.txt -q --no-suggestions`
+1. `cat dictionary.txt | sort > dictionary.txt`
 
 ## Writing
 
