@@ -24,3 +24,13 @@ You have a limited number of choices in this game. Each turn you can
 - Look at deck card and swap for any of your cards. 8 Choices.
 - Look at deck card and flip an unflipped card. 1-6 Choices depending on how many cards you've already flipped.
 - Look at deck card and not flip if already have 7 flipped. 1 Choice.
+
+
+ML inputs
+
+- player x2-6
+  - points
+  - cards x8 (might not be flipped)
+- player turn order (useful since you don't want to discard a card that will help the next player)
+- discard pile (seen cards not belonging to players)
+- deck 
