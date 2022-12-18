@@ -52,6 +52,7 @@ Should I add a `package.json` and make these scripts in it?
 ## Website To Do List
 
 - Misc
+  - Make a list type layout for drawings, movies, albums, shows, books: list type posts! in fact it should probably in the nav bar instead of the posts feed all the way at the bottom since its updated so often
   - SEO Optimization <https://jsinibardy.com/optimize-seo-jekyll>
   - Comment section: <https://lobste.rs/>
   - Media Images - When sharing a post on Twitter for example the image and description shown are correct, currently it shows a sparkle emoji when I share just the micmax.pw link in messenger for example
