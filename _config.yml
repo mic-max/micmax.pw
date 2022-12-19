@@ -24,12 +24,17 @@ show_excerpts: true
 header_pages:
   - whoami.md
   - cv.md
+  - lyrics-to-ponder.md
 
 exclude:
   - CNAME
   - README.md
   - comments.md
   - assets/cad/
+
+collections:
+  song_lyrics:
+    output: true
 
 # Plugins Installed
 

@@ -1,3 +1,4 @@
-.site-header {
-    border-top: none;
-}
+.site-header { border-top: none; }
+
+#content br { display: none; }
+#content p br { display: inline; }
