@@ -25,6 +25,7 @@ header_pages:
   - whoami.md
   - cv.md
   - lyrics-to-ponder.md
+  - drawings.md
 
 exclude:
   - CNAME
@@ -34,6 +35,8 @@ exclude:
 
 collections:
   song_lyrics:
+    output: true
+  drawings:
     output: true
 
 # Plugins Installed
