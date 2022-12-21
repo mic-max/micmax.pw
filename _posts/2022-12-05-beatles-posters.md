@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Beatles - Framed
+image: beatles.jpg
 ---
 
 I wanted to properly exhibit and recognise the best band of all time in my humble abode. That band is, of course, none other than The Beatles as you know from not only reading the title of this post, but also your own fine judgement! And so what if their name is a pun, get over it :beetle:

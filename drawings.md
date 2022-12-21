@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Drawings
+image: drawings.jpg
 ---
 
 Here are some things I've drawn in reverse chronological order, some random doodles, and a list of nostalgia motivated subjects I want to draw in the future. I enjoy drawing and find it to be a good way to relax my mind. I will continue to update this post as I draw to preserve this monumental artwork for millennia :relieved:

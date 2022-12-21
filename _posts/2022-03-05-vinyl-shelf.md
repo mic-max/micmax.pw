@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Vinyl Record Shelf
+image: vinyl-shelf.jpg
 ---
 
 Hiding away the beautiful artwork on the album covers in my collection would be a damn shame.

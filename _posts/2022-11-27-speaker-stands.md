@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Laser Cut Speaker Stands
+image: speakers.jpg
 ---
 
 One day I woke up and realised that my greyhound style-ears were not in the direct path of the sound waves being produced by my desktop speakers. Adding a slight upward tilt would make all the difference. Come along for my journey of laser cutting speaker stands and achieving aural perfection :hear_no_evil:

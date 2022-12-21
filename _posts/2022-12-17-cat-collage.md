@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cat Collage
-image: /assets/feature/cat-collage.jpg
+image: cat-collage.jpg
 ---
 
 On January 21, 2022 I bought a calendar from `Walt's Organic Fertilizer Co`. With the year coming to an end and my holiday season requirements better served by an advent calendar I sacrificed the Zen Cat Calendar and raised new life from its scraps with tape, forming this collage :cat:

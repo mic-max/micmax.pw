@@ -2,3 +2,9 @@
 
 #content br { display: none; }
 #content p br { display: inline; }
+
+.featured-img {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+}

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Beer Tier List
+image: beer.jpg
 ---
 
 After years of drinking beer I finally wanted to figure out which ones I _actually_ liked. I think doing side-by-side comparisons is a great way to figure that out... even though may rankings might be affected by my rising blood alcohol concentration :dizzy_face:

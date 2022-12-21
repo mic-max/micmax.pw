@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Phone Call Visualisation
+image: calls.jpg
 ---
 
 Given a call history file, generate an image showing all calls with their time, duration, and type. Okay, the wording I used might make this sound like homework...
