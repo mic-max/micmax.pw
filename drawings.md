@@ -19,8 +19,8 @@ Here are some things I've drawn in reverse chronological order, some random dood
 ## Uncategorised / Doodles
 
 ![CA Love](/assets/drawings/ca-love.png)
-<!-- TODO -->
-
+My first time in California on my second favourite ride at Disney California Adventure Park with my good friends. Possibly my first iPad sketch, maybe not even in Procreate, but in the Notes app.
+paint
 ![Colourful Cry Baby](/assets/drawings/cry-baby.png)
 Soon after I got my iPad I drew the Lil Peep Cry Baby bird. I added some colour to the feather tips and some grid brushing. If it wasn't already obvious I am a big fan of his. RIP Gus.
 
