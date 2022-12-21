@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Play nine Card Game AI
+title: Card Game AI - Play Nine
 ---
 
-While on vacation at my sisters we played the Play Nine card game.
+While on vacation at my sisters we played [`Play Nine: The Card Game of Golf`](https://playnine.com).
 Maybe I'll try to play code golf while writing the software too.
 
 ## Recreate Game
@@ -16,6 +16,10 @@ I was able to write fit the game into around 80 lines of code.
 
 ## Add ML or AI
 
+<https://medium.com/applied-data-science/how-to-train-ai-agents-to-play-multiplayer-games-using-self-play-deep-reinforcement-learning-247d0b440717>
+
+My friend Colin said reinforcement learning would be a good way to achieve a strong computer player.
+
 Choices
 
 You have a limited number of choices in this game. Each turn you can
@@ -25,7 +29,6 @@ You have a limited number of choices in this game. Each turn you can
 - Look at deck card and flip an unflipped card. 1-6 Choices depending on how many cards you've already flipped.
 - Look at deck card and not flip if already have 7 flipped. 1 Choice.
 
-
 ML inputs
 
 - player x2-6
@@ -33,4 +36,8 @@ ML inputs
   - cards x8 (might not be flipped)
 - player turn order (useful since you don't want to discard a card that will help the next player)
 - discard pile (seen cards not belonging to players)
-- deck 
+- deck
+
+## Benefit of Starting
+
+Clearly this game has a benefit to starting since the first card flipped over in the discard is more likely to be good compared to being more oftenly a card an opponent knows which will probably be worse.

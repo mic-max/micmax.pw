@@ -28,3 +28,11 @@ I'm not sure if `Fucking Awesome` sells different style velcro pieces you can sw
 - rude dog
 - just make a patch for every concept I have a drawing about. haha
 - baise-le, nous ballons!
+- sgt. peppers OPP
+- [muff diver](https://www.amazon.com/gp/product/B01DN55UCG)
+- do not resuscitate
+
+sweater that copies the tattoos that it's covering or of a famous persons tattoos
+
+buying solid colour high quality tshirts without any design or logo and adding a patch of my logo or something. i saw tom sachs wearing one in this video and assumed he has a whole closet of them <https://youtu.be/Z9tgr_XvOn8> and thought that would be a neat idea. rather than galavanting with nike's logo through town.
+

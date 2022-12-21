@@ -28,6 +28,8 @@ bathroom
 - put shower handle on wall opposite to head, so you can turn on without getting wet
 - heat lamp
 - hot air vent that I can stand under when it's cold to dry off
+- put toilet in separate little room so people can use sink and shower while pooper. it also helps contain the poop when you flush into the room.
+- sensor to turn light on, vary brightness depending on time of day.
 
 outdoor courtyard in the middle of the house
 stone
@@ -46,6 +48,7 @@ kitchen
 utilities
 
 - fast internet, wifi and Ethernet in every room
+- flicking light switch should be immediate (heather's place takes like 0.3 seconds)
 
 exterior
 

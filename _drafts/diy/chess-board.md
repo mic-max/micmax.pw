@@ -36,6 +36,12 @@ grain in direction of ranksuse sawdust to pack cracks and sand downclamp vertica
 
 Etch the A-H ranks and 1-8 files with the laser cutter? Initial alignment would be crucial.
 
+[Folding Chess Sets](https://www.chess.com/forum/view/chess-equipment/show-the-world-your-best-folding-chess-sets-please-post-a-pic)
+
+[Chess Board with Piece Recognition + Stockfish](https://create.arduino.cc/projecthub/Maxchess/wooden-chess-board-with-piece-recognition-872ffb)
+
+[Arduino Chess Projects](https://create.arduino.cc/projecthub/projects/tags/chess)
+
 ## Result
 
 TODO

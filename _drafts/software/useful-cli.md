@@ -55,7 +55,9 @@ TODO
 
 ## Unit Conversion
 
-TODO
+TODO: mass, temperature, speed, distance, volume
+
+### Currency Conversion
 
 ## Sports Games
 

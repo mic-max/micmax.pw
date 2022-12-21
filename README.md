@@ -49,6 +49,7 @@ Should I add a `package.json` and make these scripts in it?
 - [Markdown Tables](https://www.tablesgenerator.com/markdown_tables)
 - [Minima Theme](https://github.com/jekyll/minima)
   - [Chirpy Theme](https://jekyll-themes.com/chirpy/) - Might switch to
+- [Jekyll Site Tips](https://wilsonmar.github.io/jekyll-site-development/)
 
 ## Website To Do List
 
@@ -81,6 +82,7 @@ Should I add a `package.json` and make these scripts in it?
   - Clickable Post Header Links
   - Sticky Nav BarEx: <https://powers-hell.com/>
     - This site is sick! Steal ideas from its design 😌
+  - Add footnotes section ability
 - Performance
   - Uglify / Minify generated HTML, CSS, JS
   - Compress and resize images to reduce load time and bandwidth
