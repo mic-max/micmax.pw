@@ -1,6 +1,6 @@
 ---
 layout: default
-title: whoami
+title: Who am I
 ---
 
 <img src='/assets/img/micmax.png' alt='Michael Maxwell' height='140'>
