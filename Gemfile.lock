@@ -135,6 +135,7 @@ GEM
     tzinfo-data (1.2022.1)
       tzinfo (>= 1.0.0)
     unicode-display_width (1.8.0)
+    wdm (0.1.1)
     webrick (1.7.0)
     win32-process (0.10.0)
       ffi (>= 1.0.0)
@@ -160,6 +161,7 @@ DEPENDENCIES
   minima!
   tzinfo (~> 2.0.4)
   tzinfo-data (~> 1.2022.1)
+  wdm (~> 0.1.0)
   webrick (~> 1.7.0)
 
 BUNDLED WITH
