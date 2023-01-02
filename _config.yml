@@ -25,6 +25,7 @@ header_pages:
   - whoami.md
   - cv.md
   - art.md
+  - models.md
   - lyrics.md
 
 exclude:
@@ -35,6 +36,8 @@ exclude:
 
 collections:
   art:
+    output: true
+  models:
     output: true
   lyrics:
     output: true
