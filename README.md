@@ -54,10 +54,8 @@ Should I add a `package.json` and make these scripts in it?
 ## Website To Do List
 
 - Misc
-  - Make a list type layout for drawings, movies, albums, shows, books: list type posts! in fact it should probably in the nav bar instead of the posts feed all the way at the bottom since its updated so often
   - SEO Optimization <https://jsinibardy.com/optimize-seo-jekyll>
   - Comment section: <https://lobste.rs/>
-  - Media Images - When sharing a post on Twitter for example the image and description shown are correct, currently it shows a sparkle emoji when I share just the micmax.pw link in messenger for example
   - Static site host since GitHub pages can't use unsupported jekyll plugins. Use action to build and push to a `docs` branch / use netlify or similar
   - Review all jekyll mention @ tags with friends for permission and their preference of social media / account
   - Setup an email newsletter: <buttondown.email> ? for those who don't want to use an RSS reader
@@ -70,7 +68,7 @@ Should I add a `package.json` and make these scripts in it?
   - Time to read on blog posts
   - Tag posts
   - Image viewer - Make a liquid function to make inserting image with caption easy and the same all over the site
-    - Image Gallery <https://dmnfarrell.github.io/software/jekyll-galleries> for drawings post
+    - Image Gallery <https://dmnfarrell.github.io/software/jekyll-galleries> for art.md
     - Image Carousel
     - If a base image path is defined in the frontmatter use that
   - Add friend directory, so in a post I can just say their name like everyone knows them and hovering or clicking the link will give a quick introduction to them

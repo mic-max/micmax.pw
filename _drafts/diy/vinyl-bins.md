@@ -15,6 +15,9 @@ The sides can be different dimensions than the bottom since they only affect how
 
 - Store vertically to prevent warping
 
+<https://www.funkymooserecords.ca/blogs/stories/the-fundamental-guide-to-vinyl-record-storage>
+<https://www.preservationequipment.com/Blog/Blog-Posts/How-to-store-vinyl-records>
+
 ## Materials
 
 I only needed some 11/32" plywood. I bought a 48" x 96" board from Home Depot for $42. This should be able to make 4 boxes assuming I don't make big mistakes. Averaging a little over $10 each. I had to venture to West Seattle since saw at the one in SoDo was out of order. Getting smaller plywood would have not only been more expensive but since they come in 2' x 4' or 4' x 4' then I would only get 3 and 9 panels respectively. Instead of getting 21
