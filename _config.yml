@@ -24,8 +24,8 @@ show_excerpts: true
 header_pages:
   - whoami.md
   - cv.md
-  - lyrics-to-ponder.md
   - art.md
+  - lyrics.md
 
 exclude:
   - CNAME
@@ -34,9 +34,9 @@ exclude:
   - assets/cad/
 
 collections:
-  song_lyrics:
   art:
     output: true
+  lyrics:
     output: true
 
 # Plugins Installed

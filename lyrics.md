@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lyrics to Ponder
+title: Lyrics
 image: lyrics.jpg
 ---
 
@@ -12,7 +12,7 @@ Notes
 - Built to Spill has a cool [handwritten lyric section](https://www.builttospill.com/lyrics) on their website for all their songs.
 - Please let me know if stumble across a dead link
 
-{% for x in site.song_lyrics %}
+{% for x in site.lyrics %}
   <h4>
     <a href ="{{ x.link }}">
       {{ x.artist }} - {{ x.name }}
