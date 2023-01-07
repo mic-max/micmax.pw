@@ -156,3 +156,5 @@ It has three states
 - Off - Both TV and Wii will not receive power
 - On Wii - Both TV and Wii will receive power, switch RCA input to Wii
 - On External - TV will receive power, switch RCA input to external device
+
+<!-- TODO: Add link to GameCube USD Adapter Case -->
