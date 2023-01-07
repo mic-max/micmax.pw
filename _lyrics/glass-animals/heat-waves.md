@@ -6,6 +6,11 @@ link: https://youtu.be/GBvLVesLZmY
 
 Sometimes, all I think about is you
 ...
+Usually, I put something on TV
+So we never think about you and me
+But today, I see our reflections clearly in Hollywood
+Laying on the screen
+...
 You can't fight it, you can't breathe
 You say somethin' so lovin', but
 Now I gotta let you go
