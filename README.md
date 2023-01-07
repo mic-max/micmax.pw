@@ -71,6 +71,7 @@ Should I add a `package.json` and make these scripts in it?
     - Image Gallery <https://dmnfarrell.github.io/software/jekyll-galleries> for art.md
     - Image Carousel
     - If a base image path is defined in the frontmatter use that
+  - 3D model viewer <https://github.com/srichs/ThreeDJekyll> <https://tonybox.net/posts/simple-stl-viewer/>
   - Add friend directory, so in a post I can just say their name like everyone knows them and hovering or clicking the link will give a quick introduction to them
   - Show last modified date: <https://dev-yakuza.posstree.com/en/jekyll/jekyll-last-modified-at/>
     - <https://tomkadwill.com/adding-last-modified-date-to-jekyll>
