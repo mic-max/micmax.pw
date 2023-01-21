@@ -16,7 +16,7 @@ Here is a list of the annoyances I've run into
 - keyboard makes using numbers and symbols a pain in the ass, wish it had the swipe down or long press for the symbol like on the iPad
 - notifications coming through on both my iPhone and iPad, there can be delays too so I get double the amount of noise, how can I say notify me on this device only right now
 - cannot fully disable animations
-- no notification history like on android
+- no notification history like on android, if i click a notification and didn't read it this can make it go away and I'm not sure what interaction or whatever to look for in the now open app.
 - autocorrect not fixing simple obvious mistakes, including im to i'm or eould to would.
 - cannot name a timer. what if i forget what to do after my 48 hour timer goes off...
 - twitter: not related to iOS but I lost all my drafts!! i guess they're stored locally on each device for some stupid reason.
@@ -29,8 +29,10 @@ Here is a list of the annoyances I've run into
 - easy to scrub along in song when running by accident
   - i can turn off lift to wake screen to resolve this but i kinda liked that, now i'd have to lift phone and tap screen.
 - imessage limiting reactions to 6 things.
+- i was able to move around my cursor through a message using the spacebar somehow. it was nice.
 
 ## Better than Android
 
 - thought i had to click all the way through bluetooth menu to disconnect from bluetooth device but its actually just the one press very nice!
 - siri is actually good, although i never really used google assistant.
+- shortcuts are cool, need to use more and create ones for myself!

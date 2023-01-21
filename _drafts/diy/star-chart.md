@@ -37,24 +37,36 @@ Common could be 1 layer in Inkscape and all user specifics another layer to ensu
 1. Tree ring
    1. Band saw, at least 12" height <https://youtu.be/KfCR2TOrdwE>
    1. Planner
+   1. Route the hanger hole(s)
 1. Etching
    1. Apply masking tape to face
    1. Etch common base file
    1. Etch user specific file
    1. Remove masking tape
+   1. Apply clear coat
 1. Sand
 1. Stain
 
 <!-- how to centre laser cutter on the middle ring of the log, vs top left -->
 
+Scan each tree ring to make any adjustments to the design.
+
 ## Materials
 
-- Wood
+- [Wood](https://birchbarkstore.com/collections/tree-slices-log-rounds-slabs-tree-stumps/products/aspen-wood-slices-8-to-8-1-2-diameter-x-1-thick-package-of-10-sale)
 - Masking Tape
 - Nails / Screws
 - Thread / Yarn
 - Stain (24+ hours to dry)
 - Paint (maybe Kari has)
+- Clear Coat
+
+## Tools
+
+- Drill
+- Screwdriver
+- Hammer
+- Brush
 
 ## Cost
 
@@ -83,9 +95,7 @@ Couples
 - chris + diana
 - izzy + kip
 - tushar + ashmi
-- nina + rae
 - molly + aiken
-- colin + val
 
 Singles
 
@@ -97,3 +107,4 @@ Singles
 - halley
 - russel
 - amara
+- nina

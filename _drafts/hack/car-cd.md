@@ -15,11 +15,76 @@ https://forums.tomshardware.com/threads/best-burn-speed-for-a-cd.1540956/
 
 My Kit
 
-- [Gotega External DVD Drive](https://www.amazon.com/gp/product/B07MJW5BXZ)
-- [Verbatim CD-R 700MB 52X](https://www.amazon.com/gp/product/B001V5LCC8)
+- [Gotega External DVD Drive](https://www.amazon.com/gp/product/B07MJW5BXZ) - Broken eject! I had to poke a paperclip into the little hole every time. I will not be keeping it.
+- [Verbatim CD-R 700MB 52X](https://www.amazon.com/gp/product/B001V5LCC8) - Good to draw on with marker too!
 
 My first attempt was to burn FLAC files to my CD-R, thinking that these are the highest quality files so will make the best possible CD. Although that may be true, it isn't really the best CD if the device I'm using cannot read that file format. Investigating into what a 2010 BMW CD player can read uncovered [this site](#TODO)
 
 burn in a way that time between tracks is removed? so it can play full albums that the end of a song leads into the next.
 
 What's up with CD advertising they can hold 700MB but when I go to burn music it says I have a maximum of 80 minutes. Which is it!
+
+I can use my steering wheel and other buttons on my steroe to switch tracks. Something that I cannot do as easily with my phone.
+
+CDs can hold 80 minutes of audio. This has no relation to how much data it can hold in megabytes. So if you want to minimize the amount of CDs you use you can have 2+ on the same CD, just remember to label it as such including the track ranges of each. I can see this being good to put two of an artists albums on the same CD, such as Rubber Soul and Revolver. Or I'd even do it for Ye, DAYTONA, and KIDS SEE GHOSTS. They're all under 24 minutes, were released in consecutive weeks of 2018 (along with NASIR and K.T.S.E.) as part of the Summer of Kanye covered by [Forbes](https://www.forbes.com/sites/hughmcintyre/2018/04/24/kanye-west-has-5-albums-coming-this-spring-as-both-a-producer-and-an-artist) and more extensively ranking all the tracks by [Billboard](https://www.billboard.com/music/rb-hip-hop/kanye-west-good-summer-albums-2018-every-song-ranked-8462186/). If I want to listen to one of those EPs I likely am down to listen to another. All stylised in capitalised letters, except for Kanye's, these little details are fun :blushTODO:
+
+## Steps
+
+### Configuration
+
+WMP burn speed. medium
+automatically eject after burning. check
+audio cds:
+  volume leveling. no check
+  burn cd without gaps. check
+
+### Burning
+
+1. Start the [Hackers 1995 Soundtrack](https://youtu.be/JEyEkbOlMfA)
+1. Open `Windows Media Player`, likely for the first time this decade
+1. Drag files to the CD Drive (F:) `Burn list` on the right (works from Explorer, not from WMP itself)
+1. Ensure proper track order!
+1. Hit `Start burn` possibly repeatedly until there are no errors
+1. You can click `Clear list` now and load in the next CDs songs
+1. CD will eject after ~3 minutes
+1. Label the CD (marker, LightScribe, Inkjet Printer)
+
+## Storage
+
+Now where the heck am I going to keep these discs! I'll buy [this case](https://www.amazon.com/dp/B0015RB75Y) from Amazon of course, Seattle's evil overlord! If you think I'm joking, just take a look at their [absolutely menacing HQ](https://en.wikipedia.org/wiki/Pacific_Tower_(Seattle)) from 1999 to 2010. It fits nicely in my driver side door compartment, along with my sunglasses!
+
+![CD case shown in my car](/assets/img/TODO)
+
+I like how Case Logic is also the company that made the CD case my Dad had, they stick to their products! Much happier to get their product than some random Chinese (OEM?? TODO whats the word Im looking for here) one.
+
+## Collection
+
+My initial collection of 24 compact discs, some complete albums, others are more like playlists.
+
+1. The Beatles
+1. Modest Mouse
+1. The Smashing Pumpkins
+1. Kanye West
+1. Vampire Weekend
+1. Built to Spill
+1. Arctic Monkeys
+1. Neutral Milk Hotel - The Shins
+1. Glass Animals
+1. Peach Pit
+1. Cigarettes After Sex
+1. Lil Peep
+1. The Lonely Island
+1. Eminem
+1. Bob Dylan
+1. Daft Punk
+1. Lil Uzi Vert
+1. Royal Headache - Surfer Blood
+1. my bloody valentine
+1. Duster
+1. The Strokes
+1. Radiohead
+1. Jeff Rosenstock - Chris Ferren - Antartico Vespucci
+1. Midwest Emo - Modern Baseball, Mom Jeans., Joyce Manor
+1. Summer of Kanye
+
+_All music obtained through legal methods_
