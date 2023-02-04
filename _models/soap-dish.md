@@ -1,6 +1,7 @@
 ---
 name: Soap Dish
 date: 2023-12-31
+draft: true
 ---
 
 I have a noted down a few ideas for things to print already, one of those is a soap dish. I am sick and tired of my soap becoming a mushy blob after sitting on the side of my bath. I found many soap dish models online, but I thought [this model](https://www.thingiverse.com/thing:4773343) in particular was coolest. It's summary:

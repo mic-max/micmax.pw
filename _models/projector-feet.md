@@ -1,6 +1,7 @@
 ---
 name: Projector Feet
 date: 2023-12-31
+draft: true
 ---
 
 In my bedroom I have a projector (that Amazon refunded because they thought I never received it) up on a shelf pointed at my uneven wall. The angle adjust on the projector only elevates the front side and I need to angle it downwards. Poor planning on my part for at what height I decided to mount the shelf, maybe, but let's not play the blame game! I had been using some Ottawa Senators coasters to prop up the backside which worked fine, but not ideal. So, I took some measurements of how tall I needed the feet to be and once again avoided learning how to 3D model something myself and moseyed on over to <thingiverse.com> :smiling_imp:
