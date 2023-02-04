@@ -25,6 +25,13 @@ Here are all the things I have printed so far in chronological order and the [`.
 
 So far I've been designing in [Shapr 3D](https://apps.apple.com/us/app/shapr-3d-cad-modeling/id1091675654) on iPad, which has been pretty good and beginner friendly. However, now I'm seeing the great benefits of making parametric designs so will probably switch to Fusion360 when the model calls for it and I'm on a computer.
 
+## Model Websites
+
+- <https://printables.com>
+- <https://grabcad.com>
+- <https://thingiverse.com>
+- <https://cults3d.com>
+
 ## Why 3D Print Stuff
 
 It's a great and simple enough way to make things. The things you can make are only limited to the size of the printing area, the filament materials, physics, your imagination, and your [CAD](https://en.wikipedia.org/wiki/Computer-aided_design) skills, in the unlikely scenario where someone hasn't already designed what you want and graciously uploaded to the Internet for free.
@@ -32,8 +39,6 @@ It's a great and simple enough way to make things. The things you can make are o
 I can definitely see more households getting 3D printers in the future. I'm sure it has gotten loads easier in the past several years, but an easy mode and directory/catalog of parts to print or scanning something to duplicate with your phone would really elevate the accessibility. You can create so many things out of a common resource, being the plastic filament. It would also reduce the amount of shipping that occurs. Say you needed to buy a soap dish, a hair clip, and a tiny thingamajigger for your dishwasher that you can only get from this one store 40 minutes away and they are out of stock and it costs like $50. That sounds kinda lame. You would have to drive to 3 different stores or have them all delivered. I imagine that carbon footprint is pretty large for the comparatively small items you need. A more efficient way to get these items if you already had a 3D printer would be to download some 3D models, that hopefully already exist, and buy a multipurpose spool of plastic and run the printer overnight. The shipping cost then becomes more like a one-time fee for the spool and the prints are probably faster than someone driving it to your doorstep anyway.
 
 This is likely an oversimplification, not including how plastic is made. I haven't seen [that episode yet](https://www.sciencechannel.com/show/how-its-made-science).
-
-In summary here's what I feel is good and what is bad about 3D printing
 
 Pros:
 
@@ -79,6 +84,14 @@ Not including the dumbbells!
 I'm running OctoPrint on my computer with a `10ft` Micro-USB cable connecting it to my printer. I throw the printer in my closet whenever I'm not using it to save space.
 
 I also have the printer plugged into a smart outlet, this can allow me to turn off my printer once a print is done. Otherwise, the fans will continue to run - the firmware doesn't have an option to do this natively :sad:
+
+<!-- TODO ## LCD Backlight Mod
+
+There's no way to turn or dim the LCD screen which is the nice blinding blue wavelength we all love looking at especially in the wee hours of the morning.
+
+<https://youtu.be/xhSGg2u6jSM>
+
+Replacing a small SMD resistor with a flip switch. -->
 
 ## Conclusion
 
