@@ -4,6 +4,8 @@ Welcome to the source code to my website.\
 This, like most software nowadays, will never be done.\
 To see what I'm working on or planning at any time check [here](https://github.com/mic-max/micmax.pw/projects/1)
 
+[![Open in Visual Studio Code](https://img.shields.io/badge/Open%20in-Visal%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode)](https://open.vscode.dev/mic-max/micmax.pw)
+
 ## Build
 
 1. Set the environment variable `EDITOR` = `code`
@@ -81,6 +83,7 @@ Should I add a `package.json` and make these scripts in it?
   - Clickable Post Header Links
   - Sticky Nav BarEx: <https://powers-hell.com/>
     - This site is sick! Steal ideas from its design 😌
+    - <https://powers-hell.com/2021/07/25/build-a-jekyll-development-environment-with-vs-code-remote-containers/>
   - Add footnotes section ability
 - Performance
   - Uglify / Minify generated HTML, CSS, JS
