@@ -4,7 +4,7 @@ date: 2023-02-01
 draft: true
 ---
 
-While looking up why my Dyson only last 10 seconds on maximum suck mode I found it was due to an old battery. So after buying [this new one](https://www.amazon.com/gp/product/B09HWR1KNY) I wanted to be able to easily swap them without using the 3 small phillips screws and stumbled across [this model](https://cults3d.com/en/3d-model/home/dyson-v6-quick-change-battery-clip). Unfortunately, it is for the wrong Dyson version, but I was inspired to create my own!
+While looking up why my Dyson only last 10 seconds on maximum suck mode I found it was due to an old battery. So after buying [this new one](https://www.amazon.com/gp/product/B09HWR1KNY) I wanted to be able to easily swap them without using the 3 small Phillips screws and stumbled across [this model](https://cults3d.com/en/3d-model/home/dyson-v6-quick-change-battery-clip). Unfortunately, it is for the wrong Dyson version, but I was inspired to create my own!
 
 ![](/assets/img/3d-printing/.jpg)
 ![](/assets/img/3d-printing/.jpg)

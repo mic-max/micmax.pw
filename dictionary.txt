@@ -156,6 +156,12 @@ favicon
 gameplay
 cuHacking
 Carleton
+v7
+Looney
+entropic
+organiser
+M4
+M4x20
 Martello
 Moncion
 maneuver
@@ -173,6 +179,7 @@ Yuzu
 Zobooland
 Zoboomafoo
 amongst
+glyphs
 analysing
 anti-arbre
 anywho
@@ -192,6 +199,13 @@ customise
 customised
 dhcp
 dropdowns
+Weaire
+Phelan
+dodecahedra
+tetrakaidecahedra
+A15
+Frank-Kasper
+Dymo
 embossment
 extruder
 fallin
@@ -205,6 +219,8 @@ Malkmus
 germophobic
 hackathon
 hackathons
+MacGyver
+TODO
 half-assed
 hoppy
 iDrive
