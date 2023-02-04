@@ -14,7 +14,7 @@ View more about my 3D printing "philosophy" and technical setup instructions at 
 
 Here are all the things I have printed so far in chronological order and the [`.stl` files](https://github.com/mic-max/micmax.pw/tree/master/assets/cad/) of my designs.
 
-{% assign sorted = site.models | sort: 'date' | reverse %}
+{% assign sorted = site.models | where: "draft", "false" | sort: 'date' | reverse %}
 {% for x in sorted %}
   <h4>{{ x.name }}</h4>
   <p>{{ x.date | date: '%b %e, %Y' }}</p>
