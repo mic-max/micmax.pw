@@ -35,3 +35,5 @@ actions
 - git add file
 - git commit
 - git push [optionally]
+
+a mode that verifies that all `link`s in the `_lyrics` folder files are present in the playlist. and that they are all still HTTP 200 OK.

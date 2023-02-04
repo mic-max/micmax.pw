@@ -17,7 +17,7 @@ I'm not sure if `Fucking Awesome` sells different style velcro pieces you can sw
 
 - oh hello newman
 - you wouldn't steal a car
-- i love you will u marry me
+- i love you will u marry me (i love you bridge)
 - grain death
 - freddi fish
 - smith tower
@@ -27,7 +27,7 @@ I'm not sure if `Fucking Awesome` sells different style velcro pieces you can sw
 - strawberry
 - rude dog
 - just make a patch for every concept I have a drawing about. haha
-- baise-le, nous ballons!
+- baise-le, nous ballons! (fuck it we ball in french)
 - sgt. peppers OPP
 - [muff diver](https://www.amazon.com/gp/product/B01DN55UCG)
 - do not resuscitate

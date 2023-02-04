@@ -61,30 +61,116 @@ I like how Case Logic is also the company that made the CD case my Dad had, they
 
 My initial collection of 24 compact discs, some complete albums, others are more like playlists.
 
-1. The Beatles
+Each Disk:
+
+Artist + Album names with track ranges and time length per album
+release date
+remove skits. 
+
+song list time stamps. track number.
+album art
+velcro the booklet into front of cd case
+How many CDs explained per page? 2?
+each section on a page is 2.5" tall and 5" wide.
+5" x 5"
+
+
+1. The Beatles:
+   1. Rubber Soul + Revolver
+
 1. Modest Mouse
-1. The Smashing Pumpkins
-1. Kanye West
-1. Vampire Weekend
-1. Built to Spill
-1. Arctic Monkeys
-1. Neutral Milk Hotel - The Shins
-1. Glass Animals
-1. Peach Pit
-1. Cigarettes After Sex
-1. Lil Peep
-1. The Lonely Island
-1. Eminem
-1. Bob Dylan
-1. Daft Punk
-1. Lil Uzi Vert
-1. Royal Headache - Surfer Blood
+   1. This Is a Long Drive for Someone with Nothing to Think About (1:06:00)
+   1. Interstate 8 + The Fruit That Ate Itself + No One's First, And You're Next
+   1. The Lonesome Crowded West
+
+1. Car Seat Headrest
 1. my bloody valentine
 1. Duster
+1. Jeff Rosenstock, Chris Farren
+  1. WORRY. (37:50) + Born Hot (36:48)
+1. The Microphones
+   1. The Glow, Pt. 2 (1:06:00)
+   1. Microphones in 2020 (44:45)
+1. Modern Baseball, Mom Jeans.
+   1. You're Gonna Miss It All + Best Buds
+1. Cigarettes After Sex
+   1. I. + Cigarettes After Sex
+   1. Cry + Singles
+1. Vampire Weekend
+   1. Contra (36:44) + Modern Vampires of the City (43:00)
+1. Built to Spill
+   1. Ancient Melodies of the Future + The Normal Years
+1. The Smashing Pumpkins
+   1. Siamese Dream (1:02:00)
+1. Neutral Milk Hotel, The Shins
+   1. In the Aeroplane Over the Sea (39:54) + Oh, Inverted World (33:31)
+1. Glass Animals
+   1. Dreamland (45:24) + 
+1. Arctic Monkeys
+   1. TBHAC + The Car
+   1. AM + Favourite Worst Nightmare
+   1. Humbug + Suck It and See
+1. Pusha T, Kanye, Kid Cudi
+   1. DAYTONA + ye + KIDS SEE GHOSTS
+1. Peach Pit
+   1. Being So Normal + You and Your Friends
+1. Lil Peep
+   1. HELLBOY + crybaby
+1. Daft Punk
+   1. Random Access Memories
+1. Bright Eyes
+1. Bob Dylan
+
+brockhampton
+paul mccartney
+george harrison
+the mountain goats
+turnstile
+doc mclean
+deftones
+alex g
+slowdive
+slint
+salughter beach dog
+the smiths
+front bottoms
+american football
+joy division
+pixies
+the cure
+dr dog
+dinosaur jr
+foo fighters
+nirvana
+guided by voices
+pavement
+king crimson
+foster the people
+passion pit
+the kooks
+mgmt
+grouplove
+clairo
+hippo campus
+nana grizol
+her's
+black sabbath
+tame impala
+forth wanderers
+
+1. Royal Headache - Surfer Blood
 1. The Strokes
 1. Radiohead
-1. Jeff Rosenstock - Chris Ferren - Antartico Vespucci
-1. Midwest Emo - Modern Baseball, Mom Jeans., Joyce Manor
-1. Summer of Kanye
+1. Alex Turner - Submarine
+1. Antarctigo Vespucci
+1. blink-182
+
+Rap
+
+1. Snoop Dogg
+   1. Neva Left
+1. Kanye West
+1. Lil Uzi Vert
+1. 6LACK 
 
 _All music obtained through legal methods_

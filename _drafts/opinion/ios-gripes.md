@@ -30,9 +30,15 @@ Here is a list of the annoyances I've run into
   - i can turn off lift to wake screen to resolve this but i kinda liked that, now i'd have to lift phone and tap screen.
 - imessage limiting reactions to 6 things.
 - i was able to move around my cursor through a message using the spacebar somehow. it was nice.
+- going back in some apps is different. android had dedicated button. snapchat swipe right to leave a chat. other apps is swipe left. some don't have it at all? imessage feels like i have to swipe from the left absolute edge of the screen
+- imessage doesn't sync the conversations I've deleted. so when I go on my iPad I see all the stupid auth codes
+- sharing live photos should default to the static photo
+- when downloading an app, the ability to download it to my other iOS device(s) would be nice. possible on the google play store!
 
 ## Better than Android
 
 - thought i had to click all the way through bluetooth menu to disconnect from bluetooth device but its actually just the one press very nice!
 - siri is actually good, although i never really used google assistant.
 - shortcuts are cool, need to use more and create ones for myself!
+- sharing + cropping screenshots, can immediately delete after sending to someone
+- autofill from messages for auth codes
