@@ -17,7 +17,7 @@ If you want to work together on something `shoot me` an [email](mailto:yo@micmax
 
 ## Projects
 
-I like building coding projects in my spare time, most live on my [Github](https://github.com/mic-max) :octopus: :cat:
+I like building coding projects in my spare time, most live on my [GitHub](https://github.com/mic-max) :octopus: :cat:
 
 - [Blitz SMS](https://github.com/Ershany/Red-Crow) - Android app that gets information from the Internet communicating only via SMS
 - [ModIcon](https://garage-06.visualstudio.com/modicon) - Browser extension that lets users customize the favicon of a webpage
