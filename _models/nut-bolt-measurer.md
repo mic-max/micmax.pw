@@ -1,11 +1,10 @@
 ---
 name: Nut + Bolt Measuring Tool
-date: 2023-02-01
-draft: true
+date: 2023-02-04
 ---
 
-<https://www.printables.com/model/36887-metric-screw-bolt-and-nut-measuring-tool>
+The [kit of nuts and bolts](https://www.amazon.com/dp/B0BMPR9Y6J) I bought arrived in a completely entropic state despite the organiser box it came in's best efforts. To fight entropy I printed [this metric nut and bolt measuring tool](https://www.printables.com/model/36887-metric-screw-bolt-and-nut-measuring-tool) that will be stress tested on 480 pieces!
 
-Didn't stop midprint so I could switch from white to black fillament so I used a black pen.
+Unfortunately I didn't switch to black fillament when it started oozing on the glyphs, so I _precisely_ used a black pen.
 
-The kit of nuts and bolts I actually bought for the sanding blocks arrived in a completely disorganised state despite the organiser box it came in haha. Stress testing time!
+![Nut + Bolt Measuring Tool](/assets/img/nut-bolt-measurer.jpg)
