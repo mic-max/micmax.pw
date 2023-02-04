@@ -12,11 +12,19 @@ Notes
 - Built to Spill has a cool [handwritten lyric section](https://www.builttospill.com/lyrics) on their website for all their songs.
 - Please let me know if stumble across a dead link
 
-{% for x in site.lyrics %}
-  <h4>
-    <a href ="{{ x.link }}">
-      {{ x.artist }} - {{ x.name }}
-    </a>
-  </h4>
-  <div id="content">{{ x.content | newline_to_br }}
+{% assign artists = site.lyrics | group_by: "artist" %}
+{% for artist in artists %}
+  <h3>{{ artist.name }}</h3>
+  <ul>
+  {% for x in artist.items %}
+    <li>
+      <a href ="{{ x.link }}">
+        {{ x.name }}
+      </a>
+      <div id="content">
+        {{ x.content | newline_to_br }}
+      </div>
+    </li>
+  {% endfor %}
+  </ul>
 {% endfor %}
