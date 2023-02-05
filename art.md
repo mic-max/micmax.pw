@@ -1,12 +1,16 @@
 ---
 layout: post
 title: Art
-image: art.jpg
 ---
 
 Here are some things I've drawn in reverse chronological order, including random doodles. I enjoy drawing and find it to be a good way to relax my mind. I will continue to update this list as I draw to preserve this monumental and paradigm-shifting artwork for millennia :relieved:
 
-{% assign sorted = site.art | sort: 'date' | reverse %}
+<!--
+TODO: toggle view between details and gallery mode. add this to the models section too. and lyrics?
+      need to use the horizontal space on desktop computers better.
+-->
+
+{% assign sorted = site.art | where: "draft", "false" | sort: 'date' | reverse %}
 {% for x in sorted %}
   <div>
     <h4 style='display: inline;'>{{ x.name }}</h4>

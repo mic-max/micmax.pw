@@ -1,6 +1,7 @@
 ---
 name: Pottery Stamp
 date: 2022-06-03
+draft: true
 ---
 
 So my friend @yelli_r 's pottery teacher wanted to sign her pottery with a stamp instead of by hand each time.

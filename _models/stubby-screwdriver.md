@@ -1,6 +1,7 @@
 ---
 name: Stubby Screwdriver
 date: 2022-05-28
+draft: true
 ---
 
 [Thingiverse Link](https://www.thingiverse.com/thing:16129)

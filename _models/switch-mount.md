@@ -1,6 +1,7 @@
 ---
 name: Switch Mount
 date: 2022-05-28
+draft: true
 ---
 
 Both this and the next item were custom designed for cleaning up the power and networking cables in my TV unit. First, I have a D-Link 5-port network switch that connects my TV, Xbox, Sonos Soundbar, PC to my router.

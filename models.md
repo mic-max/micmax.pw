@@ -1,25 +1,23 @@
 ---
 layout: post
 title: Models
-image: models.jpg
 ---
 
 For Christmas, my Mom & Dad gifted me a 3D printer. On Black Friday, mid Californian-roadtrip, I put in the order for an Ender 5 Pro with spools of black and white PLA filament. Sorry, but I was unable to contain my excitement and wait until [Jesus' supposed Birthday](https://www.ucg.org/the-good-news/biblical-evidence-shows-jesus-christ-wasnt-born-on-dec-25) before using it :christmas_tree:
 
-I've never used one before and the only experience I have 3D modelling was a couple days in Grade 9 tech class using `AutoCAD` to design a rudimentary airplane that I would later realise in wood. I'm excited for all the possibilities having a 3D printer will unlock. There are several 3D printers at the Microsoft Garage in Redmond that I could also be making use of... then again, most of my inspiration comes at inopportune times.
-
-View more about my 3D printing "philosophy" and technical setup instructions at the end of this post if your heart desires :heart:
-
-## Models
-
-Here are all the things I have printed so far in chronological order and the [`.stl` files](https://github.com/mic-max/micmax.pw/tree/master/assets/cad/) of my designs.
-
 {% assign sorted = site.models | where: "draft", "false" | sort: 'date' | reverse %}
 {% for x in sorted %}
-  <h4>{{ x.name }}</h4>
-  <p>{{ x.date | date: '%b %e, %Y' }}</p>
+  <div>
+    <h4 style='display: inline;'>{{ x.name }}</h4>
+    <p style='float: right;'>{{ x.date | date: '%b %e, %Y' }}</p>
+  </div>
+  {% if x.src %}
+  <img src="/assets/img/{{ x.src }}" alt="{{ x.alt }}"/>
+  {% endif %}
   {{ x.content | markdownify }}
 {% endfor %}
+
+Here are all the things I have printed so far in chronological order and the [`.stl` files](https://github.com/mic-max/micmax.pw/tree/master/assets/cad/) of my designs.
 
 ## Software
 
@@ -67,6 +65,8 @@ Not including the dumbbells!
 <!-- TODO
 ## Assembly
 -->
+
+I've never used one before and the only experience I have 3D modelling was a couple days in Grade 9 tech class using `AutoCAD` to design a rudimentary airplane that I would later realise in wood. I'm excited for all the possibilities having a 3D printer will unlock. There are several 3D printers at the Microsoft Garage in Redmond that I could also be making use of... then again, most of my inspiration comes at inopportune times.
 
 ## Update Firmware
 
