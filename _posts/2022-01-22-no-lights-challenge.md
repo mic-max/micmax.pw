@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "!Lights Challenge"
-image: no-lights.jpg
 ---
 
 At one of my first hackathons, I participated in a challenge called `!lights`.

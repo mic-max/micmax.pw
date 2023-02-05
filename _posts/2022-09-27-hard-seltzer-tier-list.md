@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Hard Seltzer Tier List
-image: seltzers.jpg
 ---
 
 Recently, hard seltzers have dethroned beer as the drink of choice for parties. They can be good and I believe more well received on average, due to taste and lower caloric content, being mainly just water, vodka, and flavouring. So here I go, casting my opinion _nobody asked for_ into the great ether :fishing_pole_and_fish:

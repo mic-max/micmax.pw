@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Jeff Rosenstock - WORRY. (2016)
-image: jeff-rosenstock.jpg
 ---
 
 Here's my first album review, or maybe just the conscious stream of thoughts I had while listening. It's an anti-capitalist kinda pop punk album with high energy songs that also provoke thought. I first listened to this album when my friend @plourde_e mentioned it after I had moved to Seattle :us:
