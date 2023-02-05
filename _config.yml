@@ -22,8 +22,8 @@ bing-verify:
 show_excerpts: true
 
 header_pages:
-  - whoami.md
-  - cv.md
+  # - whoami.md
+  # - cv.md
   - art.md
   - models.md
   - lyrics.md
