@@ -54,7 +54,7 @@ Scan each tree ring to make any adjustments to the design.
 ## Materials
 
 - [Wood](https://birchbarkstore.com/collections/tree-slices-log-rounds-slabs-tree-stumps/products/aspen-wood-slices-8-to-8-1-2-diameter-x-1-thick-package-of-10-sale)
-- Masking Tape
+- [3" Masking Tape](https://www.amazon.com/gp/product/B00DVAYT4E)
 - Nails / Screws
 - Thread / Yarn
 - Stain (24+ hours to dry)

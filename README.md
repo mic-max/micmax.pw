@@ -84,6 +84,7 @@ Should I add a `package.json` and make these scripts in it?
   - Sticky Nav BarEx: <https://powers-hell.com/>
     - This site is sick! Steal ideas from its design 😌
     - <https://powers-hell.com/2021/07/25/build-a-jekyll-development-environment-with-vs-code-remote-containers/>
+    - <https://typefully.com/DanHollick> clean site
   - Add footnotes section ability
 - Performance
   - Uglify / Minify generated HTML, CSS, JS

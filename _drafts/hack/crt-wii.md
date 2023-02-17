@@ -15,6 +15,8 @@ Converting my CRT that has a built-in VCR into the most portable melee setup you
 - [Homebrew Tutorial Video](https://youtu.be/BSE34AQTCdg)
 <wii.guide>
 
+<https://youtu.be/gxr1e5j2LCo>
+
 - Rip out the VCR
 - Put a Wii in its place
   - Make sure Wii board does not touch CRT components. Print a shroud?

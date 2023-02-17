@@ -18,7 +18,7 @@ Quickly reading some [7 tips guaranteed to make you a better racer](https://vtsp
 <!-- | Jan 5 | xxth 54.xx | xxth 1:00.002 | xxx | -->
 | Jan 26 | 77th 44.548 | 72th 43.584 | 88.132 |
 | Feb 2 | 77th 42.871 | 73th 40.879 | 83.750 |
-<!-- | Feb 9 | th | th |  | -->
+| Feb 9 | 71st 49.995 | 69th 45.881 | 95.876 |
 <!-- | Feb 16 | th | th |  | -->
 
 

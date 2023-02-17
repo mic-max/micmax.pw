@@ -49,6 +49,8 @@ audio cds:
 1. CD will eject after ~3 minutes
 1. Label the CD (marker, LightScribe, Inkjet Printer)
 
+`WMP` was giving me issues when trying to burn a CD with more than `74 minutes` of audio. So I used [CDBurnerXP](https://cdburnerxp.se/en/download) and that worked swell!
+
 ## Storage
 
 Now where the heck am I going to keep these discs! I'll buy [this case](https://www.amazon.com/dp/B0015RB75Y) from Amazon of course, Seattle's evil overlord! If you think I'm joking, just take a look at their [absolutely menacing HQ](https://en.wikipedia.org/wiki/Pacific_Tower_(Seattle)) from 1999 to 2010. It fits nicely in my driver side door compartment, along with my sunglasses!
@@ -80,7 +82,7 @@ each section on a page is 2.5" tall and 5" wide.
 
 1. Modest Mouse
    1. This Is a Long Drive for Someone with Nothing to Think About (1:06:00)
-   1. Interstate 8 + The Fruit That Ate Itself + No One's First, And You're Next
+   1. Interstate 8 ✔ + The Fruit That Ate Itself + No One's First, And You're Next
    1. The Lonesome Crowded West
 
 1. Car Seat Headrest
@@ -90,7 +92,7 @@ each section on a page is 2.5" tall and 5" wide.
   1. WORRY. (37:50) + Born Hot (36:48)
 1. The Microphones
    1. The Glow, Pt. 2 (1:06:00)
-   1. Microphones in 2020 (44:45)
+   1. Microphones in 2020 (44:45) ✔
 1. Modern Baseball, Mom Jeans.
    1. You're Gonna Miss It All + Best Buds
 1. Cigarettes After Sex

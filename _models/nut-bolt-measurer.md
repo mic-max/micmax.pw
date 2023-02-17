@@ -1,7 +1,7 @@
 ---
 name: Nut + Bolt Measuring Tool
 date: 2023-02-02
-src: nut-bolt-measurer.jpg
+src: 3d-printing/nut-bolt-measurer.jpg
 alt: Nut + Bolt Measuring Tool
 ---
 
