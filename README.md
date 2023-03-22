@@ -96,3 +96,4 @@ Should I add a `package.json` and make these scripts in it?
 - Archive information (prone to deletion) I'm referencing to in my links: Amazon products, etc.
 - Song links: youtube, youtube music, spotify?
 - Only build and publish when the `_posts` or `assets` directory contents have changed
+- Set a base assets folder, so images can be referenced with relative ease
