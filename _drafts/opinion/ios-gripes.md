@@ -35,6 +35,7 @@ Here is a list of the annoyances I've run into
 - when downloading an app, the ability to download it to my other iOS device(s) would be nice. possible on the google play store!
 - viewing open apps horizontally is worse than androids vertical way.
 - change the time required for something to be considered a long press
+- camera app flash button, enables flash auto... which is not what i usually click it expecting, so i take a photo then go oh ya... click the arrow button then flash then on. then delete old photo and retake... so annoying.
 
 ## Better than Android
 
