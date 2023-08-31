@@ -5,7 +5,7 @@ url: https://micmax.pw
 permalink: /:title
 locale: en_CA
 highlighter: rouge
-timezone: America/Los_Angeles
+timezone: America/Toronto
 
 logo: /assets/micmax.pw
 
