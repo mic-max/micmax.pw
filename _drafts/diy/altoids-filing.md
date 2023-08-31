@@ -88,6 +88,7 @@ Thanks to Mark Simonelli for [this beautiful Altoid Tin](https://grabcad.com/lib
 
 I think the groove for the tins could be 3D printed simply by taking the tin model and performing a subtraction into a rectangular prism. They could be printed in ~4 tin sections and all screwed down to a base piece of plywood cut to fit snugly into the drawer.
 
+Realising that the screws might interfere with the sliding in and out of the drawer as well as not having the correct drillbit I pivoted to using CA glue, which worked quite well and if I ever need to remove it I can spray some solvent and hopefully return the filling cabinet to its original [battle-scarred](https://totalcsgo.com/skin-conditions) glory.
 
 ## Stored Items
 
