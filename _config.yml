@@ -27,6 +27,7 @@ header_pages:
   - art.md
   - models.md
   - lyrics.md
+  - maxwellmade.md
 
 exclude:
   - CNAME
