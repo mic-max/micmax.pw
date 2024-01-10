@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Phone Call Visualisation
 ---
 

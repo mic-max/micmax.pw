@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Laser Cut Speaker Stands
 ---
 

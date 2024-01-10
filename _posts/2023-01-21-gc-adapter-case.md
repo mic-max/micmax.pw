@@ -1,5 +1,4 @@
 ---
-layout: post
 title: GameCube USB Adapter Case
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Jeff Rosenstock - WORRY. (2016)
 ---
 
