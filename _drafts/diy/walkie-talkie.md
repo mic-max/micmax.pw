@@ -1,5 +1,4 @@
 ---
-layout: post
 title: DIY Walkie Talkie
 ---
 

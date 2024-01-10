@@ -1,5 +1,4 @@
 ---
-layout: post
 title: SanDisk Sansa e280 Included Songs
 ---
 

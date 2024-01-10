@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Load Free Books onto a Kindle
 ---
 

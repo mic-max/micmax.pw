@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Binary Search in C#
 ---
 

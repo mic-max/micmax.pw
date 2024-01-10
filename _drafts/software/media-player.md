@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Multi-Source Media Player
 ---
 

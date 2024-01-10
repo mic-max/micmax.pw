@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Malcolm in the Middle Opening
 ---
 

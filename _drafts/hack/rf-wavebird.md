@@ -1,5 +1,4 @@
 ---
-layout: post
 title: GameCube WaveBird Controller
 ---
 

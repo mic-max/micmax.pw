@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Source Code on a Blog
 ---
 

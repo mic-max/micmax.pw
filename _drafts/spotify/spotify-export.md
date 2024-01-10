@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Exporting Your Spotify Data
 ---
 

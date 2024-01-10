@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Seattle - Present and Past
 ---
 

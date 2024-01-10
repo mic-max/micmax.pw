@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Poker Program Refactor
 ---
 

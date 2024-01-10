@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Star Chart on Wood
 ---
 

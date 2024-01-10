@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Why One Computer Is all you need
 ---
 

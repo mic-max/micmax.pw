@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Arctic Monkeys TBHAC Infinity Mirror
 ---
 

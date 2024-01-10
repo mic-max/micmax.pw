@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Convert Battery Operated to USB
 ---
 

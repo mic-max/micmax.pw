@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Milk Bags vs. Jugs
 ---
 

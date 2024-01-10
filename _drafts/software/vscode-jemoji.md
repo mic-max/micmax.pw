@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Jemoji Support in VS Code
 ---
 

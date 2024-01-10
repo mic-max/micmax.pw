@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Web Hosted Unix Commands
 ---
 

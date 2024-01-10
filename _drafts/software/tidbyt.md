@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Programming a Tidbyt
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Remove Duplicate Liked Songs on Spotify
 ---
 

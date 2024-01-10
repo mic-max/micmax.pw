@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Simple Optical Character Recognition
 ---
 

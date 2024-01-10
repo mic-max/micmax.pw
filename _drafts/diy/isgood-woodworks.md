@@ -1,5 +1,4 @@
 ---
-layout: post
 title: IsGood Woodworks - Small Projects Class
 ---
 

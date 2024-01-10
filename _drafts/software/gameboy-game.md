@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Gameboy Game Development
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Wii and CRT All-In-One
 ---
 

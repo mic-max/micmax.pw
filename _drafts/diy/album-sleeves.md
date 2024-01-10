@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Custom Vinyl Album Sleeves
 ---
 

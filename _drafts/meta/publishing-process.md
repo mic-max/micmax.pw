@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Publishing Blog Post Process
 ---
 

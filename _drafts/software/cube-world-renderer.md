@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Cube World Model Renderer
 ---
 

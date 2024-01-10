@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Parallel Computing - Shared Memory
 ---
 

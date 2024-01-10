@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Man in the Middle Services
 ---
 

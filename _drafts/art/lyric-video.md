@@ -1,5 +1,4 @@
 ---
-layout: post
 title: After Effects Lyric Music Video
 ---
 

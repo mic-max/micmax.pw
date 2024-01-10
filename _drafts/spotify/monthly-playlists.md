@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Spotify Monthly Playlists
 ---
 

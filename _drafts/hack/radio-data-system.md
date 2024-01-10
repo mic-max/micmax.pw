@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Radio Data System
 ---
 

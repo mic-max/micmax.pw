@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Hyphen vs. Underscore
 ---
 

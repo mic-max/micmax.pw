@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Card Game AI - Play Nine
 ---
 

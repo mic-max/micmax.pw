@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Xfinity Hosting Server
 ---
 

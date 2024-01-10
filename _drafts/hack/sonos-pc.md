@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Use Sonos Speakers with PC
 ---
 

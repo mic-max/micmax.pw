@@ -1,5 +1,4 @@
 ---
-layout: post
 title: WiFi in the Garage
 ---
 
