@@ -12,6 +12,8 @@ Create a circumscribed polygon (square) from the top and make it about `92%` of 
 
 After playing around in Fusion 360 for the best way to build this I reverse image searched the inspiration like Nev trying to sniff out a stinky [catfish](https://www.mtv.com/shows/catfish-the-tv-show). I found it and by God was it a good thing I own a 3D printed and know the basics of CAD design because it's a 165 euro!
 
+<!-- https://jukiamsterdam.com/collections/ring-a-date/products/ring-a-date-perpetual-calendar-by-giorgio-della-beffa-yellow -->
+
 I also learned from the closeups on their site that each date where the ring sits is slightly less proud to the original simple cylinder with fillet at bottom idea I first thought of. Should still be a simple adjustment.
 
 My printer has a bed of `256 mm` x `256 mm` so I will not be able to clone the `473 mm` x `485 mm` item in one print. Some other key dimensions I got was the height being `54 mm`. I can use these to help figure out the ratios and spacing. I could also try printing it at original scale and split the design into 4 pieces. I plan on mounting this magnetically to my air conditioning unit in my new apartment so I might not even have to glue or secure the piece together, just use some extra magnets! 12mm magnet insets into the back at each corner, CA glue in magnets I have from a folding chess set.
